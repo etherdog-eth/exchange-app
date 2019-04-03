@@ -4,10 +4,15 @@
 数字货币交易所移动端UI
 
 ![Image text](doc/1.jpg) 
+#### 
 ![Image text](doc/2.jpg) 
+#### 
 ![Image text](doc/3.jpg) 
+#### 
 ![Image text](doc/4.jpg) 
+#### 
 ![Image text](doc/5.jpg) 
+#### 
 ![Image text](doc/6.jpg) 
 
 #### 安装教程

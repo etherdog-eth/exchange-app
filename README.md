@@ -3,12 +3,12 @@
 #### 介绍
 数字货币交易所移动端UI
 
-![Image text](doc/1.png)
-![Image text](doc/2.png)
-![Image text](doc/3.png)
-![Image text](doc/4.png)
-![Image text](doc/5.png)
-![Image text](doc/6.png)
+![Image text](doc/1.jpg)
+![Image text](doc/2.jpg)
+![Image text](doc/3.jpg)
+![Image text](doc/4.jpg)
+![Image text](doc/5.jpg)
+![Image text](doc/6.jpg)
 
 #### 安装教程
 
@@ -19,3 +19,4 @@
 
 #### 使用说明
 将项目拖入[HbuilderX](http://www.dcloud.io/hbuilderx.html),直接运行即可
+[uni-app教程](https://uniapp.dcloud.io)

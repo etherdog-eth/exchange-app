@@ -1,0 +1,1 @@
+<template name="5c3319f2"><view class="_view video {{ h[ 0 ].cl }} {{ h[ 0 ].rcl }}" style="{{ h[ 0 ].st }}"><video class="_video video-video {{ h[ 1 ].cl }}" src="{{ h[ 1 ][ 'src' ] }}"></video></view></template>

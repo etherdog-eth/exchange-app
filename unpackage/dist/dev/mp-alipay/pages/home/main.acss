@@ -1,0 +1,58 @@
+
+.weather.data-v-478bce1a {
+  height: 170rpx;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 36rpx;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+}
+.date.data-v-478bce1a {
+  color: #ecc88e;
+  font-size: 48rpx;
+  font-weight: 700;
+  padding: 0 20rpx;
+}
+.location.data-v-478bce1a {
+  color: #b4b0ad;
+}
+._img.data-v-478bce1a {
+  width: 80rpx;
+  height: 80rpx;
+}
+.tmp ._span.data-v-478bce1a, .fl ._span.data-v-478bce1a {
+  color: #52b9b6;
+}
+
+
+.notice.data-v-7575d103{
+	margin: 0rpx 10rpx;
+}
+.recomment .symbol.data-v-7575d103{
+	line-height: 30rpx;
+}
+.recomment .price.data-v-7575d103{
+	line-height: 30rpx;
+}
+.recomment .float.data-v-7575d103{
+	font-size: 10rpx;
+	line-height: 30rpx;
+}
+.recomment .cny.data-v-7575d103{
+	font-size: 10rpx;
+	line-height: 30rpx;
+}
+

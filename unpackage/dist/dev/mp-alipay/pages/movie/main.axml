@@ -1,0 +1,2 @@
+<import src="/components/movieItem.vue.axml"/><template name="db8e9530"><view class="_div container {{ h[ 0 ].rcl }} data-v-0c8f060e"><navigator a:for="{{ h[ 1 ].li }}" a:key="item_id" a:for-item="v" a:for-index="v_i1" class="_navigator item data-v-0c8f060e" url="{{ h[ 1 + '-' + (v_i2 !== undefined ? v_i2 : v_i1) ][ 'url' ] }}"><template is="2391712f" data="{{ ...$root[ cp + 0 + '-' + (v_i2 !== undefined ? v_i2 : v_i1) ], $root, _t: '-' + (v_i2 !== undefined ? v_i2 : v_i1) }}" /></navigator></view></template>
+<template is="db8e9530" data="{{ ...$root['0'], $root }}"/>

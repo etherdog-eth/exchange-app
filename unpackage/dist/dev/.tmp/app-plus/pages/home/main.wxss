@@ -1,74 +1,53 @@
 
-.swiper.data-v-7575d103 {
-		height: 400rpx;
-		width: 100%;
+.swiper {
+	height: 400rpx;
+	width: 100%;
 }
-.swiper-item.data-v-7575d103 {
-		display: block;
-		height: 400rpx;
-		line-height: 400rpx;
-		text-align: center;
+.swiper-item {
+	display: block;
+	height: 400rpx;
+	line-height: 400rpx;
+	text-align: center;
 }
-.swiper-item image.data-v-7575d103{
-        min-height: 100%;
-        min-width: 100%;
+.swiper-item image{
+    min-height: 100%;
+    min-width: 100%;
 }
+
+
+.notice.data-v-282eedee{
+	margin: 0rpx 10rpx;
+}
+
+
+.recomment .symbol.data-v-ba886050{
+	line-height: 40rpx;
+}
+.recomment .price.data-v-ba886050{
+	line-height: 30rpx;
+}
+.recomment .float.data-v-ba886050{
+	line-height: 30rpx;
+}
+.recomment .cny.data-v-ba886050{
+	line-height: 30rpx;
+}
+
+
 .uni-common-mt.data-v-7575d103{
-		margin-top:60rpx;
-		position:relative;
+	margin-top:60rpx;
+	position:relative;
 }
 .info.data-v-7575d103 {
-		position: absolute;
-		right:20rpx;
-}
-.notice.data-v-7575d103{
-		margin: 0rpx 10rpx;
-}
-.recomment .symbol.data-v-7575d103{
-		line-height: 40rpx;
-}
-.recomment .price.data-v-7575d103{
-		line-height: 30rpx;
-}
-.recomment .float.data-v-7575d103{
-		line-height: 30rpx;
-}
-.recomment .cny.data-v-7575d103{
-		line-height: 30rpx;
+	position: absolute;
+	right:20rpx;
 }
 .ad image.data-v-7575d103{
-		min-height: 100%;
-		min-width: 100%;
+	min-height: 100%;
+	min-width: 100%;
 }
-.rank.data-v-7575d103{
-		padding: 10rpx 0rpx;
+.rank-title.data-v-7575d103{
+	padding: 20rpx 20rpx;
 }
-.rank .title.data-v-7575d103{
-		padding: 10rpx 20rpx;
-}
-.rank .item.data-v-7575d103{
-		display: -webkit-box;
-		display: -webkit-flex;
-		display: -ms-flexbox;
-		display: flex;
-		padding: 20rpx 20rpx;
-}
-.rank .item .n.data-v-7575d103{
-		width: 35%;
-}
-.rank .item .p.data-v-7575d103{
-		width: 35%;
-}
-.rank .item .t.data-v-7575d103{
-		width: 30%;
-		text-align: right;
-}
-.rank .item .t .light.data-v-7575d103{
-		display: block;
-		width: 150rpx;
-		color: #ffffff;
-		text-align: center;
-		float: right;
-		border-radius: 4rpx;
-}
+
 

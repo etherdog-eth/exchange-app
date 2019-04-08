@@ -2,70 +2,15 @@
   <view class="container">
 		<uni-segmented-control :current="current" :values="items" v-on:clickItem="onClickItem" :styleType="styleType"
 		 :activeColor="activeColor"></uni-segmented-control>
-		<view class="rank">
-			<view class="uni-divider"></view>
-			<view class="item thead">
-				<view class="n uni-h6">名称</view>
-				<view class="p uni-h6">最新价</view>
-				<view class="t uni-h6">涨跌幅</view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-			<view class="item uni-divider">
-				<view class="n">BTC</view>
-				<view class="p">25442.1</view>
-				<view class="t"><label class="light uni-bg-up">+40.2%</label></view>
-			</view>
-		</view>
+		<marketList :marketList="marketList"></marketList>	
   </view>
 </template>
 
 <script>
 import { mapState, mapActions } from 'vuex'
 import {uniSegmentedControl} from '@dcloudio/uni-ui'
+
+import {marketList } from '../../components/marketList.vue'
 
 export default {
 	data() {
@@ -76,14 +21,20 @@ export default {
 			],
 			current: 0,
 			activeColor: '#007aff',
-			styleType: 'button'
+			styleType: 'button',
+			marketList: []
 		}
     },
   mounted() {
-    
+    this.marketList =  [
+    	{"symbol":"BTCUSDT","name":"BTC","price":51807.8400,"priceUnit":"USDT","cnyPrice":360064.91,"coinCnyPrice":6.95,"high":35.51000000,"low":35.51000000,"volume":132412,"amount":7223022.64800000,"change":51.93},
+    	{"symbol":"ETHUSDT","name":"ETH","price":807.2500,"priceUnit":"USDT","cnyPrice":1064.91,"coinCnyPrice":6.95,"high":35.51000000,"low":35.51000000,"volume":863446,"amount":692302221.12300000,"change":-25.43},
+    	{"symbol":"EOSUSDT","name":"EOS","price":63.9000,"priceUnit":"USDT","cnyPrice":988114.91,"coinCnyPrice":6.95,"high":35.51000000,"low":35.51000000,"volume":743356,"amount":834513535.87600000,"change":46.75}
+    ];
   },
   components: {
-	  uniSegmentedControl
+	  uniSegmentedControl,
+	  marketList
   },
   computed: {
     

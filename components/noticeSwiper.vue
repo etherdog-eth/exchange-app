@@ -5,7 +5,7 @@
 		</view>
 		
 		<swiper vertical="true" autoplay="true" circular="true" interval="3000">
-			<swiper-item v-for="(item, index) in noticeList" :key="index">
+			<swiper-item v-for="(item, index) in list_" :key="index" @click="onClick()">
 				<navigator>{{item}}</navigator>
 			</swiper-item>
 		</swiper>
@@ -19,16 +19,22 @@
 			};
 		},
 		props:{
-			noticeList:{
+			list: {
 				type: Array,
-				default: function(){
-					return [];
+				default: () => {
+					return []
 				}
 			}
 		},
-		created() {
+		computed: {
+			list_(){
+				return this.list;
+			}
 		},
-		methods:{
+		methods: {
+			onClick(e) {
+				console.log("=====================================")
+			}
 		}
 	}
 </script>

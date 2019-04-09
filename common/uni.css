@@ -535,14 +535,14 @@ radio-group label, checkbox-group label{
 	flex-direction: column;
 }
 .uni-triplex-left {
-	width: 84%;
+	width: 50%;
 }
 .uni-triplex-left .uni-title{
 	padding:8upx 0;
 }
 .uni-triplex-left .uni-text, .uni-triplex-left .uni-text-small{color:#999999;}
 .uni-triplex-right {
-	width: 16%;
+	width: 50%;
 	text-align: right;
 }
 

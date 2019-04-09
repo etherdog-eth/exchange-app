@@ -3,8 +3,8 @@
 		<view class="uni-padding-wrap">
 			<view class="page-section swiper">
 				<swiper class="swiper" :indicator-dots="true" :autoplay="true" :interval="2000" :duration="500" indicator-active-color="#ffffff" indicator-color="#9d9d9d">
-						<swiper-item v-for="(item, index) in bannerList" :key="index">
-								<view class="swiper-item"><image mode="widthFix" :src="item.value"></image></view>
+						<swiper-item v-for="(item, index) in list_" :key="index">
+								<view class="swiper-item" @click="onClick"><image mode="widthFix" :src="item.value"></image></view>
 						</swiper-item>
 				</swiper>
 			</view>
@@ -13,27 +13,29 @@
 </template>
 
 <script>
+
 	export default {
-		data() {
-	        return {
-				background: ['color1', 'color2', 'color3'],
-	            indicatorDots: true,
-	            autoplay: true,
-	            interval: 2000,
-	            duration: 500,
-			}
-	    },
-		props:{
-			bannerList:{
+		props: {
+			list: {
 				type: Array,
-				default: function(){
-					return [];
+				default: () => {
+					return []
 				}
 			}
 		},
-		created() {
+		data() {
+			return {
+			}
 		},
-		methods:{
+		computed: {
+			list_(){
+				return this.list;
+			}
+		},
+		methods: {
+			onClick(e) {
+				console.log("=====================================")
+			}
 		}
 	}
 </script>

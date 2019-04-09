@@ -1058,7 +1058,9 @@ function gz$gwx_1(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_1)return __WXML_GLOBAL__.ops_cached.$gwx_1
 __WXML_GLOBAL__.ops_cached.$gwx_1=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'data-v-7b1e8e5a-default-6f1043b4-2'])
+Z([3,'data-v-7b1e8e5a-default-6f1043b4-4'])
+Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-3']]]]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'42cb03fe'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_1);return __WXML_GLOBAL__.ops_cached.$gwx_1
 }
 function gz$gwx_2(){
@@ -1079,28 +1081,28 @@ function gz$gwx_4(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_4)return __WXML_GLOBAL__.ops_cached.$gwx_4
 __WXML_GLOBAL__.ops_cached.$gwx_4=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'011b8ca4'])
+Z([3,'42cb03fe'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_4);return __WXML_GLOBAL__.ops_cached.$gwx_4
 }
 function gz$gwx_5(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_5)return __WXML_GLOBAL__.ops_cached.$gwx_5
 __WXML_GLOBAL__.ops_cached.$gwx_5=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'090a69b8'])
+Z([3,'011b8ca4'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_5);return __WXML_GLOBAL__.ops_cached.$gwx_5
 }
 function gz$gwx_6(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_6)return __WXML_GLOBAL__.ops_cached.$gwx_6
 __WXML_GLOBAL__.ops_cached.$gwx_6=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'0145b9ca'])
+Z([3,'090a69b8'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_6);return __WXML_GLOBAL__.ops_cached.$gwx_6
 }
 function gz$gwx_7(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_7)return __WXML_GLOBAL__.ops_cached.$gwx_7
 __WXML_GLOBAL__.ops_cached.$gwx_7=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'4352a0fa'])
+Z([3,'0145b9ca'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_7);return __WXML_GLOBAL__.ops_cached.$gwx_7
 }
 function gz$gwx_8(){
@@ -1114,6 +1116,20 @@ function gz$gwx_9(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_9)return __WXML_GLOBAL__.ops_cached.$gwx_9
 __WXML_GLOBAL__.ops_cached.$gwx_9=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'2bce65b4'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_9);return __WXML_GLOBAL__.ops_cached.$gwx_9
+}
+function gz$gwx_10(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_10)return __WXML_GLOBAL__.ops_cached.$gwx_10
+__WXML_GLOBAL__.ops_cached.$gwx_10=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'39d5102b'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_10);return __WXML_GLOBAL__.ops_cached.$gwx_10
+}
+function gz$gwx_11(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_11)return __WXML_GLOBAL__.ops_cached.$gwx_11
+__WXML_GLOBAL__.ops_cached.$gwx_11=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
 Z([3,'42b0ca7f'])
 Z([[7],[3,'visibleSync']])
 Z([3,'handleProxy'])
@@ -1123,35 +1139,20 @@ Z([1,'42b0ca7f-1'])
 Z([3,'default'])
 Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[7],[3,'$k']]]]],[[8],'$root',[[7],[3,'$root']]]])
 Z([[2,'||'],[[7],[3,'$slotdefault']],[1,'default']])
-})(__WXML_GLOBAL__.ops_cached.$gwx_9);return __WXML_GLOBAL__.ops_cached.$gwx_9
-}
-function gz$gwx_10(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_10)return __WXML_GLOBAL__.ops_cached.$gwx_10
-__WXML_GLOBAL__.ops_cached.$gwx_10=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'3806434b'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_10);return __WXML_GLOBAL__.ops_cached.$gwx_10
-}
-function gz$gwx_11(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_11)return __WXML_GLOBAL__.ops_cached.$gwx_11
-__WXML_GLOBAL__.ops_cached.$gwx_11=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'62ecdc5b'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_11);return __WXML_GLOBAL__.ops_cached.$gwx_11
 }
 function gz$gwx_12(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_12)return __WXML_GLOBAL__.ops_cached.$gwx_12
 __WXML_GLOBAL__.ops_cached.$gwx_12=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'62ecdc5b'])
+Z([3,'3806434b'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_12);return __WXML_GLOBAL__.ops_cached.$gwx_12
 }
 function gz$gwx_13(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_13)return __WXML_GLOBAL__.ops_cached.$gwx_13
 __WXML_GLOBAL__.ops_cached.$gwx_13=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'8dc7fad6'])
+Z([3,'62ecdc5b'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_13);return __WXML_GLOBAL__.ops_cached.$gwx_13
 }
 function gz$gwx_14(){
@@ -1159,12 +1160,27 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_14)return __WXML_GLOBAL__.ops_cached.$gwx_14
 __WXML_GLOBAL__.ops_cached.$gwx_14=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'8dc7fad6'])
+Z([3,'62ecdc5b'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_14);return __WXML_GLOBAL__.ops_cached.$gwx_14
 }
 function gz$gwx_15(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_15)return __WXML_GLOBAL__.ops_cached.$gwx_15
 __WXML_GLOBAL__.ops_cached.$gwx_15=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'8dc7fad6'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_15);return __WXML_GLOBAL__.ops_cached.$gwx_15
+}
+function gz$gwx_16(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_16)return __WXML_GLOBAL__.ops_cached.$gwx_16
+__WXML_GLOBAL__.ops_cached.$gwx_16=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'8dc7fad6'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_16);return __WXML_GLOBAL__.ops_cached.$gwx_16
+}
+function gz$gwx_17(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_17)return __WXML_GLOBAL__.ops_cached.$gwx_17
+__WXML_GLOBAL__.ops_cached.$gwx_17=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([3,'5aa12eb9'])
 Z([3,'_view data-v-7575d103 container'])
@@ -1176,19 +1192,19 @@ Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],
 Z([3,'37e9e4b2'])
 Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'5aa12eb9-3']]]]],[[8],'$root',[[7],[3,'$root']]]])
 Z([3,'011b8ca4'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_15);return __WXML_GLOBAL__.ops_cached.$gwx_15
+})(__WXML_GLOBAL__.ops_cached.$gwx_17);return __WXML_GLOBAL__.ops_cached.$gwx_17
 }
-function gz$gwx_16(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_16)return __WXML_GLOBAL__.ops_cached.$gwx_16
-__WXML_GLOBAL__.ops_cached.$gwx_16=[];
+function gz$gwx_18(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_18)return __WXML_GLOBAL__.ops_cached.$gwx_18
+__WXML_GLOBAL__.ops_cached.$gwx_18=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
 Z([3,'5aa12eb9'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_16);return __WXML_GLOBAL__.ops_cached.$gwx_16
+})(__WXML_GLOBAL__.ops_cached.$gwx_18);return __WXML_GLOBAL__.ops_cached.$gwx_18
 }
-function gz$gwx_17(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_17)return __WXML_GLOBAL__.ops_cached.$gwx_17
-__WXML_GLOBAL__.ops_cached.$gwx_17=[];
+function gz$gwx_19(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_19)return __WXML_GLOBAL__.ops_cached.$gwx_19
+__WXML_GLOBAL__.ops_cached.$gwx_19=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([3,'70b3608c'])
 Z([3,'_view data-v-5fe3c832 container'])
@@ -1199,21 +1215,6 @@ Z([1,'70b3608c-0'])
 Z([3,'3806434b'])
 Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'70b3608c-1']]]]],[[8],'$root',[[7],[3,'$root']]]])
 Z([3,'011b8ca4'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_17);return __WXML_GLOBAL__.ops_cached.$gwx_17
-}
-function gz$gwx_18(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_18)return __WXML_GLOBAL__.ops_cached.$gwx_18
-__WXML_GLOBAL__.ops_cached.$gwx_18=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
-Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'70b3608c'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_18);return __WXML_GLOBAL__.ops_cached.$gwx_18
-}
-function gz$gwx_19(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_19)return __WXML_GLOBAL__.ops_cached.$gwx_19
-__WXML_GLOBAL__.ops_cached.$gwx_19=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'7bf45ca4'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_19);return __WXML_GLOBAL__.ops_cached.$gwx_19
 }
 function gz$gwx_20(){
@@ -1221,26 +1222,14 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_20)return __WXML_GLOBAL__.ops_cached.$gwx_20
 __WXML_GLOBAL__.ops_cached.$gwx_20=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'7bf45ca4'])
+Z([3,'70b3608c'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_20);return __WXML_GLOBAL__.ops_cached.$gwx_20
 }
 function gz$gwx_21(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_21)return __WXML_GLOBAL__.ops_cached.$gwx_21
 __WXML_GLOBAL__.ops_cached.$gwx_21=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'6f1043b4'])
-Z([3,'_view data-v-7b1e8e5a container'])
-Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-0']]]]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'0145b9ca'])
-Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-1']]]]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'25c13231'])
-Z([3,'handleProxy'])
-Z([[9],[[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-2']]]]],[[8],'$root',[[7],[3,'$root']]]],[[8],'$slotdefault',[1,'data-v-7b1e8e5a-default-6f1043b4-2']]])
-Z([[7],[3,'$k']])
-Z([1,'6f1043b4-0'])
-Z([3,'42b0ca7f'])
-Z([3,'false'])
-Z([3,'left'])
+Z([3,'7bf45ca4'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_21);return __WXML_GLOBAL__.ops_cached.$gwx_21
 }
 function gz$gwx_22(){
@@ -1248,22 +1237,66 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_22)return __WXML_GLOBAL__.ops_cached.$gwx_22
 __WXML_GLOBAL__.ops_cached.$gwx_22=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'6f1043b4'])
+Z([3,'7bf45ca4'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_22);return __WXML_GLOBAL__.ops_cached.$gwx_22
+}
+function gz$gwx_23(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_23)return __WXML_GLOBAL__.ops_cached.$gwx_23
+__WXML_GLOBAL__.ops_cached.$gwx_23=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'6f1043b4'])
+Z([3,'_view data-v-7b1e8e5a container'])
+Z([3,'_view data-v-7b1e8e5a content'])
+Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-0']]]]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'2bce65b4'])
+Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-1']]]]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'0145b9ca'])
+Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-2']]]]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'25c13231'])
+Z([3,'handleProxy'])
+Z([[9],[[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-4']]]]],[[8],'$root',[[7],[3,'$root']]]],[[8],'$slotdefault',[1,'data-v-7b1e8e5a-default-6f1043b4-4']]])
+Z([[7],[3,'$k']])
+Z([1,'6f1043b4-0'])
+Z([3,'42b0ca7f'])
+Z([3,'false'])
+Z([3,'left'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_23);return __WXML_GLOBAL__.ops_cached.$gwx_23
+}
+function gz$gwx_24(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_24)return __WXML_GLOBAL__.ops_cached.$gwx_24
+__WXML_GLOBAL__.ops_cached.$gwx_24=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'6f1043b4'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_24);return __WXML_GLOBAL__.ops_cached.$gwx_24
 }
 __WXML_GLOBAL__.ops_set.$gwx=z;
 __WXML_GLOBAL__.ops_init.$gwx=true;
 var nv_require=function(){var nnm={};var nom={};return function(n){return function(){if(!nnm[n]) return undefined;try{if(!nom[n])nom[n]=nnm[n]();return nom[n];}catch(e){e.message=e.message.replace(/nv_/g,'');var tmp = e.stack.substring(0,e.stack.lastIndexOf(n));e.stack = tmp.substring(0,tmp.lastIndexOf('\n'));e.stack = e.stack.replace(/\snv_/g,' ');e.stack = $gstack(e.stack);e.stack += '\n    at ' + n.substring(2);console.error(e);}
 }}}()
-var x=['./common/slots.wxml','/components/positionList.vue.wxml','/components/entrustOrderList.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','/components/marketList.vue.wxml','./components/entrustOrderList.vue.wxml','./components/homeSwiper.vue.wxml','./components/marketList.vue.wxml','./components/noticeSwiper.vue.wxml','./components/positionList.vue.wxml','./components/rankMarketList.vue.wxml','./components/recommentMarketList.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/common/slots.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/assets/detail/main.vue.wxml','./pages/assets/detail/main.wxml','./main.vue.wxml','./pages/assets/main.vue.wxml','./pages/assets/main.wxml','./pages/home/main.vue.wxml','/components/homeSwiper.vue.wxml','/components/noticeSwiper.vue.wxml','/components/recommentMarketList.vue.wxml','./pages/home/main.wxml','./pages/quotation/main.vue.wxml','./pages/quotation/main.wxml','./pages/trade/kline/main.vue.wxml','./pages/trade/kline/main.wxml','./pages/trade/main.vue.wxml','./pages/trade/main.wxml'];d_[x[0]]={}
-d_[x[0]]["data-v-7b1e8e5a-default-6f1043b4-2"]=function(e,s,r,gg){
+var x=['./common/slots.wxml','/components/tradePanel.vue.wxml','/components/positionList.vue.wxml','/components/entrustOrderList.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/components/marketDrawer.vue.wxml','./components/entrustOrderList.vue.wxml','./components/homeSwiper.vue.wxml','./components/marketDrawer.vue.wxml','./components/marketList.vue.wxml','./components/noticeSwiper.vue.wxml','./components/positionList.vue.wxml','./components/recommentMarketList.vue.wxml','./components/tradePanel.vue.wxml','./components/uni-cardd/uni-cardd.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/common/slots.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/assets/detail/main.vue.wxml','./pages/assets/detail/main.wxml','./main.vue.wxml','./pages/assets/main.vue.wxml','./pages/assets/main.wxml','./pages/home/main.vue.wxml','/components/homeSwiper.vue.wxml','/components/noticeSwiper.vue.wxml','/components/recommentMarketList.vue.wxml','/components/marketList.vue.wxml','./pages/home/main.wxml','./pages/quotation/main.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/quotation/main.wxml','./pages/trade/kline/main.vue.wxml','./pages/trade/kline/main.wxml','./pages/trade/main.vue.wxml','./pages/trade/main.wxml'];d_[x[0]]={}
+d_[x[0]]["data-v-7b1e8e5a-default-6f1043b4-4"]=function(e,s,r,gg){
 var z=gz$gwx_1()
-var b=x[0]+':data-v-7b1e8e5a-default-6f1043b4-2'
+var b=x[0]+':data-v-7b1e8e5a-default-6f1043b4-4'
 r.wxVkey=b
 gg.f=$gdc(f_["./common/slots.wxml"],"",1)
 if(p_[b]){_wl(b,x[0]);return}
 p_[b]=true
 try{
+var oB=_v()
+_(r,oB)
+cs.push("./common/slots.wxml:template:7:54")
+var xC=_oz(z,2,e,s,gg)
+var oD=_gd(x[0],xC,e_,d_)
+if(oD){
+var fE=_1z(z,1,e,s,gg) || {}
+var cur_globalf=gg.f
+oB.wxXCkey=3
+oD(fE,fE,oB,gg)
+gg.f=cur_globalf
+}
+else _w(xC,x[0],7,125)
+cs.pop()
 }catch(err){
 p_[b]=false
 throw err
@@ -1330,11 +1363,11 @@ return r
 }
 e_[x[7]]={f:m2,j:[],i:[],ti:[],ic:[]}
 d_[x[8]]={}
-d_[x[8]]["011b8ca4"]=function(e,s,r,gg){
+d_[x[8]]["42cb03fe"]=function(e,s,r,gg){
 var z=gz$gwx_4()
-var b=x[8]+':011b8ca4'
+var b=x[8]+':42cb03fe'
 r.wxVkey=b
-gg.f=$gdc(f_["./components/marketList.vue.wxml"],"",1)
+gg.f=$gdc(f_["./components/marketDrawer.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[8]);return}
 p_[b]=true
 try{
@@ -1351,11 +1384,11 @@ return r
 }
 e_[x[8]]={f:m3,j:[],i:[],ti:[],ic:[]}
 d_[x[9]]={}
-d_[x[9]]["090a69b8"]=function(e,s,r,gg){
+d_[x[9]]["011b8ca4"]=function(e,s,r,gg){
 var z=gz$gwx_5()
-var b=x[9]+':090a69b8'
+var b=x[9]+':011b8ca4'
 r.wxVkey=b
-gg.f=$gdc(f_["./components/noticeSwiper.vue.wxml"],"",1)
+gg.f=$gdc(f_["./components/marketList.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[9]);return}
 p_[b]=true
 try{
@@ -1372,11 +1405,11 @@ return r
 }
 e_[x[9]]={f:m4,j:[],i:[],ti:[],ic:[]}
 d_[x[10]]={}
-d_[x[10]]["0145b9ca"]=function(e,s,r,gg){
+d_[x[10]]["090a69b8"]=function(e,s,r,gg){
 var z=gz$gwx_6()
-var b=x[10]+':0145b9ca'
+var b=x[10]+':090a69b8'
 r.wxVkey=b
-gg.f=$gdc(f_["./components/positionList.vue.wxml"],"",1)
+gg.f=$gdc(f_["./components/noticeSwiper.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[10]);return}
 p_[b]=true
 try{
@@ -1393,11 +1426,11 @@ return r
 }
 e_[x[10]]={f:m5,j:[],i:[],ti:[],ic:[]}
 d_[x[11]]={}
-d_[x[11]]["4352a0fa"]=function(e,s,r,gg){
+d_[x[11]]["0145b9ca"]=function(e,s,r,gg){
 var z=gz$gwx_7()
-var b=x[11]+':4352a0fa'
+var b=x[11]+':0145b9ca'
 r.wxVkey=b
-gg.f=$gdc(f_["./components/rankMarketList.vue.wxml"],"",1)
+gg.f=$gdc(f_["./components/positionList.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[11]);return}
 p_[b]=true
 try{
@@ -1435,51 +1468,11 @@ return r
 }
 e_[x[12]]={f:m7,j:[],i:[],ti:[],ic:[]}
 d_[x[13]]={}
-d_[x[13]]["42b0ca7f"]=function(e,s,r,gg){
+d_[x[13]]["2bce65b4"]=function(e,s,r,gg){
 var z=gz$gwx_9()
-var b=x[13]+':42b0ca7f'
+var b=x[13]+':2bce65b4'
 r.wxVkey=b
-gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[13]);return}
-p_[b]=true
-try{
-var oB=_v()
-_(r,oB)
-if(_oz(z,1,e,s,gg)){oB.wxVkey=1
-cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:view:1:62")
-cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:view:1:62")
-var xC=_mz(z,'view',['catchtouchmove',2,'class',1,'data-comkey',2,'data-eventid',3],[],e,s,gg)
-var oD=_v()
-_(xC,oD)
-cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:template:1:505")
-var fE=_oz(z,8,e,s,gg)
-var cF=_gd(x[13],fE,e_,d_)
-if(cF){
-var hG=_1z(z,7,e,s,gg) || {}
-var cur_globalf=gg.f
-oD.wxXCkey=3
-cF(hG,hG,oD,gg)
-gg.f=cur_globalf
-}
-else _w(fE,x[13],1,563)
-cs.pop()
-cs.pop()
-_(oB,xC)
-cs.pop()
-}
-oB.wxXCkey=1
-}catch(err){
-p_[b]=false
-throw err
-}
-p_[b]=false
-return r
-}
-d_[x[13]]["default"]=function(e,s,r,gg){
-var z=gz$gwx_9()
-var b=x[13]+':default'
-r.wxVkey=b
-gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
+gg.f=$gdc(f_["./components/tradePanel.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[13]);return}
 p_[b]=true
 try{
@@ -1492,19 +1485,16 @@ return r
 }
 var m8=function(e,s,r,gg){
 var z=gz$gwx_9()
-var lK=e_[x[13]].i
-_ai(lK,x[14],e_,x[13],1,1)
-lK.pop()
 return r
 }
-e_[x[13]]={f:m8,j:[],i:[],ti:[x[14]],ic:[]}
-d_[x[15]]={}
-d_[x[15]]["3806434b"]=function(e,s,r,gg){
+e_[x[13]]={f:m8,j:[],i:[],ti:[],ic:[]}
+d_[x[14]]={}
+d_[x[14]]["39d5102b"]=function(e,s,r,gg){
 var z=gz$gwx_10()
-var b=x[15]+':3806434b'
+var b=x[14]+':39d5102b'
 r.wxVkey=b
-gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[15]);return}
+gg.f=$gdc(f_["./components/uni-cardd/uni-cardd.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[14]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1518,14 +1508,54 @@ var m9=function(e,s,r,gg){
 var z=gz$gwx_10()
 return r
 }
-e_[x[15]]={f:m9,j:[],i:[],ti:[],ic:[]}
-d_[x[16]]={}
-d_[x[16]]["62ecdc5b"]=function(e,s,r,gg){
+e_[x[14]]={f:m9,j:[],i:[],ti:[],ic:[]}
+d_[x[15]]={}
+d_[x[15]]["42b0ca7f"]=function(e,s,r,gg){
 var z=gz$gwx_11()
-var b=x[16]+':62ecdc5b'
+var b=x[15]+':42b0ca7f'
 r.wxVkey=b
-gg.f=$gdc(f_["./pages/assets/detail/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[16]);return}
+gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[15]);return}
+p_[b]=true
+try{
+var oB=_v()
+_(r,oB)
+if(_oz(z,1,e,s,gg)){oB.wxVkey=1
+cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:view:1:62")
+cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:view:1:62")
+var xC=_mz(z,'view',['catchtouchmove',2,'class',1,'data-comkey',2,'data-eventid',3],[],e,s,gg)
+var oD=_v()
+_(xC,oD)
+cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:template:1:505")
+var fE=_oz(z,8,e,s,gg)
+var cF=_gd(x[15],fE,e_,d_)
+if(cF){
+var hG=_1z(z,7,e,s,gg) || {}
+var cur_globalf=gg.f
+oD.wxXCkey=3
+cF(hG,hG,oD,gg)
+gg.f=cur_globalf
+}
+else _w(fE,x[15],1,563)
+cs.pop()
+cs.pop()
+_(oB,xC)
+cs.pop()
+}
+oB.wxXCkey=1
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+d_[x[15]]["default"]=function(e,s,r,gg){
+var z=gz$gwx_11()
+var b=x[15]+':default'
+r.wxVkey=b
+gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[15]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1537,39 +1567,40 @@ return r
 }
 var m10=function(e,s,r,gg){
 var z=gz$gwx_11()
+var tM=e_[x[15]].i
+_ai(tM,x[16],e_,x[15],1,1)
+tM.pop()
 return r
 }
-e_[x[16]]={f:m10,j:[],i:[],ti:[],ic:[]}
+e_[x[15]]={f:m10,j:[],i:[],ti:[x[16]],ic:[]}
 d_[x[17]]={}
+d_[x[17]]["3806434b"]=function(e,s,r,gg){
+var z=gz$gwx_12()
+var b=x[17]+':3806434b'
+r.wxVkey=b
+gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[17]);return}
+p_[b]=true
+try{
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
 var m11=function(e,s,r,gg){
 var z=gz$gwx_12()
-var bO=e_[x[17]].i
-_ai(bO,x[18],e_,x[17],1,1)
-var oP=_v()
-_(r,oP)
-cs.push("./pages/assets/detail/main.wxml:template:2:6")
-var xQ=_oz(z,1,e,s,gg)
-var oR=_gd(x[17],xQ,e_,d_)
-if(oR){
-var fS=_1z(z,0,e,s,gg) || {}
-var cur_globalf=gg.f
-oP.wxXCkey=3
-oR(fS,fS,oP,gg)
-gg.f=cur_globalf
-}
-else _w(xQ,x[17],2,18)
-cs.pop()
-bO.pop()
 return r
 }
-e_[x[17]]={f:m11,j:[],i:[],ti:[x[18]],ic:[]}
-d_[x[19]]={}
-d_[x[19]]["8dc7fad6"]=function(e,s,r,gg){
+e_[x[17]]={f:m11,j:[],i:[],ti:[],ic:[]}
+d_[x[18]]={}
+d_[x[18]]["62ecdc5b"]=function(e,s,r,gg){
 var z=gz$gwx_13()
-var b=x[19]+':8dc7fad6'
+var b=x[18]+':62ecdc5b'
 r.wxVkey=b
-gg.f=$gdc(f_["./pages/assets/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[19]);return}
+gg.f=$gdc(f_["./pages/assets/detail/main.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[18]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1583,100 +1614,39 @@ var m12=function(e,s,r,gg){
 var z=gz$gwx_13()
 return r
 }
-e_[x[19]]={f:m12,j:[],i:[],ti:[],ic:[]}
-d_[x[20]]={}
+e_[x[18]]={f:m12,j:[],i:[],ti:[],ic:[]}
+d_[x[19]]={}
 var m13=function(e,s,r,gg){
 var z=gz$gwx_14()
-var oV=e_[x[20]].i
-_ai(oV,x[18],e_,x[20],1,1)
-var cW=_v()
-_(r,cW)
-cs.push("./pages/assets/main.wxml:template:2:6")
-var oX=_oz(z,1,e,s,gg)
-var lY=_gd(x[20],oX,e_,d_)
-if(lY){
-var aZ=_1z(z,0,e,s,gg) || {}
+var xQ=e_[x[19]].i
+_ai(xQ,x[20],e_,x[19],1,1)
+var oR=_v()
+_(r,oR)
+cs.push("./pages/assets/detail/main.wxml:template:2:6")
+var fS=_oz(z,1,e,s,gg)
+var cT=_gd(x[19],fS,e_,d_)
+if(cT){
+var hU=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-cW.wxXCkey=3
-lY(aZ,aZ,cW,gg)
+oR.wxXCkey=3
+cT(hU,hU,oR,gg)
 gg.f=cur_globalf
 }
-else _w(oX,x[20],2,18)
+else _w(fS,x[19],2,18)
 cs.pop()
-oV.pop()
+xQ.pop()
 return r
 }
-e_[x[20]]={f:m13,j:[],i:[],ti:[x[18]],ic:[]}
+e_[x[19]]={f:m13,j:[],i:[],ti:[x[20]],ic:[]}
 d_[x[21]]={}
-d_[x[21]]["5aa12eb9"]=function(e,s,r,gg){
+d_[x[21]]["8dc7fad6"]=function(e,s,r,gg){
 var z=gz$gwx_15()
-var b=x[21]+':5aa12eb9'
+var b=x[21]+':8dc7fad6'
 r.wxVkey=b
-gg.f=$gdc(f_["./pages/home/main.vue.wxml"],"",1)
+gg.f=$gdc(f_["./pages/assets/main.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[21]);return}
 p_[b]=true
 try{
-cs.push("./pages/home/main.vue.wxml:view:1:230")
-var oB=_n('view')
-_rz(z,oB,'class',1,e,s,gg)
-var xC=_v()
-_(oB,xC)
-cs.push("./pages/home/main.vue.wxml:template:1:276")
-var oD=_oz(z,3,e,s,gg)
-var fE=_gd(x[21],oD,e_,d_)
-if(fE){
-var cF=_1z(z,2,e,s,gg) || {}
-var cur_globalf=gg.f
-xC.wxXCkey=3
-fE(cF,cF,xC,gg)
-gg.f=cur_globalf
-}
-else _w(oD,x[21],1,347)
-cs.pop()
-var hG=_v()
-_(oB,hG)
-cs.push("./pages/home/main.vue.wxml:template:1:370")
-var oH=_oz(z,5,e,s,gg)
-var cI=_gd(x[21],oH,e_,d_)
-if(cI){
-var oJ=_1z(z,4,e,s,gg) || {}
-var cur_globalf=gg.f
-hG.wxXCkey=3
-cI(oJ,oJ,hG,gg)
-gg.f=cur_globalf
-}
-else _w(oH,x[21],1,441)
-cs.pop()
-var lK=_v()
-_(oB,lK)
-cs.push("./pages/home/main.vue.wxml:template:1:519")
-var aL=_oz(z,7,e,s,gg)
-var tM=_gd(x[21],aL,e_,d_)
-if(tM){
-var eN=_1z(z,6,e,s,gg) || {}
-var cur_globalf=gg.f
-lK.wxXCkey=3
-tM(eN,eN,lK,gg)
-gg.f=cur_globalf
-}
-else _w(aL,x[21],1,590)
-cs.pop()
-var bO=_v()
-_(oB,bO)
-cs.push("./pages/home/main.vue.wxml:template:1:891")
-var oP=_oz(z,9,e,s,gg)
-var xQ=_gd(x[21],oP,e_,d_)
-if(xQ){
-var oR=_1z(z,8,e,s,gg) || {}
-var cur_globalf=gg.f
-bO.wxXCkey=3
-xQ(oR,oR,bO,gg)
-gg.f=cur_globalf
-}
-else _w(oP,x[21],1,962)
-cs.pop()
-cs.pop()
-_(r,oB)
 }catch(err){
 p_[b]=false
 throw err
@@ -1686,80 +1656,99 @@ return r
 }
 var m14=function(e,s,r,gg){
 var z=gz$gwx_15()
-var e2=e_[x[21]].i
-_ai(e2,x[22],e_,x[21],1,1)
-_ai(e2,x[23],e_,x[21],1,49)
-_ai(e2,x[24],e_,x[21],1,99)
-_ai(e2,x[5],e_,x[21],1,156)
-e2.pop()
-e2.pop()
-e2.pop()
-e2.pop()
 return r
 }
-e_[x[21]]={f:m14,j:[],i:[],ti:[x[22],x[23],x[24],x[5]],ic:[]}
-d_[x[25]]={}
+e_[x[21]]={f:m14,j:[],i:[],ti:[],ic:[]}
+d_[x[22]]={}
 var m15=function(e,s,r,gg){
 var z=gz$gwx_16()
-var o4=e_[x[25]].i
-_ai(o4,x[18],e_,x[25],1,1)
-var x5=_v()
-_(r,x5)
-cs.push("./pages/home/main.wxml:template:2:6")
-var o6=_oz(z,1,e,s,gg)
-var f7=_gd(x[25],o6,e_,d_)
-if(f7){
-var c8=_1z(z,0,e,s,gg) || {}
+var oX=e_[x[22]].i
+_ai(oX,x[20],e_,x[22],1,1)
+var lY=_v()
+_(r,lY)
+cs.push("./pages/assets/main.wxml:template:2:6")
+var aZ=_oz(z,1,e,s,gg)
+var t1=_gd(x[22],aZ,e_,d_)
+if(t1){
+var e2=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-x5.wxXCkey=3
-f7(c8,c8,x5,gg)
+lY.wxXCkey=3
+t1(e2,e2,lY,gg)
 gg.f=cur_globalf
 }
-else _w(o6,x[25],2,18)
+else _w(aZ,x[22],2,18)
 cs.pop()
-o4.pop()
+oX.pop()
 return r
 }
-e_[x[25]]={f:m15,j:[],i:[],ti:[x[18]],ic:[]}
-d_[x[26]]={}
-d_[x[26]]["70b3608c"]=function(e,s,r,gg){
+e_[x[22]]={f:m15,j:[],i:[],ti:[x[20]],ic:[]}
+d_[x[23]]={}
+d_[x[23]]["5aa12eb9"]=function(e,s,r,gg){
 var z=gz$gwx_17()
-var b=x[26]+':70b3608c'
+var b=x[23]+':5aa12eb9'
 r.wxVkey=b
-gg.f=$gdc(f_["./pages/quotation/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[26]);return}
+gg.f=$gdc(f_["./pages/home/main.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[23]);return}
 p_[b]=true
 try{
-cs.push("./pages/quotation/main.vue.wxml:view:1:179")
+cs.push("./pages/home/main.vue.wxml:view:1:230")
 var oB=_n('view')
 _rz(z,oB,'class',1,e,s,gg)
 var xC=_v()
 _(oB,xC)
-cs.push("./pages/quotation/main.vue.wxml:template:1:225")
-var oD=_oz(z,6,e,s,gg)
-var fE=_gd(x[26],oD,e_,d_)
+cs.push("./pages/home/main.vue.wxml:template:1:276")
+var oD=_oz(z,3,e,s,gg)
+var fE=_gd(x[23],oD,e_,d_)
 if(fE){
-var cF=_1z(z,3,e,s,gg) || {}
+var cF=_1z(z,2,e,s,gg) || {}
 var cur_globalf=gg.f
 xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[26],1,377)
+else _w(oD,x[23],1,347)
 cs.pop()
 var hG=_v()
 _(oB,hG)
-cs.push("./pages/quotation/main.vue.wxml:template:1:400")
-var oH=_oz(z,8,e,s,gg)
-var cI=_gd(x[26],oH,e_,d_)
+cs.push("./pages/home/main.vue.wxml:template:1:370")
+var oH=_oz(z,5,e,s,gg)
+var cI=_gd(x[23],oH,e_,d_)
 if(cI){
-var oJ=_1z(z,7,e,s,gg) || {}
+var oJ=_1z(z,4,e,s,gg) || {}
 var cur_globalf=gg.f
 hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[26],1,471)
+else _w(oH,x[23],1,441)
+cs.pop()
+var lK=_v()
+_(oB,lK)
+cs.push("./pages/home/main.vue.wxml:template:1:519")
+var aL=_oz(z,7,e,s,gg)
+var tM=_gd(x[23],aL,e_,d_)
+if(tM){
+var eN=_1z(z,6,e,s,gg) || {}
+var cur_globalf=gg.f
+lK.wxXCkey=3
+tM(eN,eN,lK,gg)
+gg.f=cur_globalf
+}
+else _w(aL,x[23],1,590)
+cs.pop()
+var bO=_v()
+_(oB,bO)
+cs.push("./pages/home/main.vue.wxml:template:1:891")
+var oP=_oz(z,9,e,s,gg)
+var xQ=_gd(x[23],oP,e_,d_)
+if(xQ){
+var oR=_1z(z,8,e,s,gg) || {}
+var cur_globalf=gg.f
+bO.wxXCkey=3
+xQ(oR,oR,bO,gg)
+gg.f=cur_globalf
+}
+else _w(oP,x[23],1,962)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -1772,134 +1761,80 @@ return r
 }
 var m16=function(e,s,r,gg){
 var z=gz$gwx_17()
-var o0=e_[x[26]].i
-_ai(o0,x[4],e_,x[26],1,1)
-_ai(o0,x[5],e_,x[26],1,105)
-o0.pop()
-o0.pop()
+var o4=e_[x[23]].i
+_ai(o4,x[24],e_,x[23],1,1)
+_ai(o4,x[25],e_,x[23],1,49)
+_ai(o4,x[26],e_,x[23],1,99)
+_ai(o4,x[27],e_,x[23],1,156)
+o4.pop()
+o4.pop()
+o4.pop()
+o4.pop()
 return r
 }
-e_[x[26]]={f:m16,j:[],i:[],ti:[x[4],x[5]],ic:[]}
-d_[x[27]]={}
+e_[x[23]]={f:m16,j:[],i:[],ti:[x[24],x[25],x[26],x[27]],ic:[]}
+d_[x[28]]={}
 var m17=function(e,s,r,gg){
 var z=gz$gwx_18()
-var oBB=e_[x[27]].i
-_ai(oBB,x[18],e_,x[27],1,1)
-var lCB=_v()
-_(r,lCB)
-cs.push("./pages/quotation/main.wxml:template:2:6")
-var aDB=_oz(z,1,e,s,gg)
-var tEB=_gd(x[27],aDB,e_,d_)
-if(tEB){
-var eFB=_1z(z,0,e,s,gg) || {}
+var o6=e_[x[28]].i
+_ai(o6,x[20],e_,x[28],1,1)
+var f7=_v()
+_(r,f7)
+cs.push("./pages/home/main.wxml:template:2:6")
+var c8=_oz(z,1,e,s,gg)
+var h9=_gd(x[28],c8,e_,d_)
+if(h9){
+var o0=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-lCB.wxXCkey=3
-tEB(eFB,eFB,lCB,gg)
+f7.wxXCkey=3
+h9(o0,o0,f7,gg)
 gg.f=cur_globalf
 }
-else _w(aDB,x[27],2,18)
+else _w(c8,x[28],2,18)
 cs.pop()
-oBB.pop()
+o6.pop()
 return r
 }
-e_[x[27]]={f:m17,j:[],i:[],ti:[x[18]],ic:[]}
-d_[x[28]]={}
-d_[x[28]]["7bf45ca4"]=function(e,s,r,gg){
-var z=gz$gwx_19()
-var b=x[28]+':7bf45ca4'
-r.wxVkey=b
-gg.f=$gdc(f_["./pages/trade/kline/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[28]);return}
-p_[b]=true
-try{
-}catch(err){
-p_[b]=false
-throw err
-}
-p_[b]=false
-return r
-}
-var m18=function(e,s,r,gg){
-var z=gz$gwx_19()
-return r
-}
-e_[x[28]]={f:m18,j:[],i:[],ti:[],ic:[]}
+e_[x[28]]={f:m17,j:[],i:[],ti:[x[20]],ic:[]}
 d_[x[29]]={}
-var m19=function(e,s,r,gg){
-var z=gz$gwx_20()
-var xIB=e_[x[29]].i
-_ai(xIB,x[18],e_,x[29],1,1)
-var oJB=_v()
-_(r,oJB)
-cs.push("./pages/trade/kline/main.wxml:template:2:6")
-var fKB=_oz(z,1,e,s,gg)
-var cLB=_gd(x[29],fKB,e_,d_)
-if(cLB){
-var hMB=_1z(z,0,e,s,gg) || {}
-var cur_globalf=gg.f
-oJB.wxXCkey=3
-cLB(hMB,hMB,oJB,gg)
-gg.f=cur_globalf
-}
-else _w(fKB,x[29],2,18)
-cs.pop()
-xIB.pop()
-return r
-}
-e_[x[29]]={f:m19,j:[],i:[],ti:[x[18]],ic:[]}
-d_[x[30]]={}
-d_[x[30]]["6f1043b4"]=function(e,s,r,gg){
-var z=gz$gwx_21()
-var b=x[30]+':6f1043b4'
+d_[x[29]]["70b3608c"]=function(e,s,r,gg){
+var z=gz$gwx_19()
+var b=x[29]+':70b3608c'
 r.wxVkey=b
-gg.f=$gdc(f_["./pages/trade/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[30]);return}
+gg.f=$gdc(f_["./pages/quotation/main.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[29]);return}
 p_[b]=true
 try{
-cs.push("./pages/trade/main.vue.wxml:view:1:213")
+cs.push("./pages/quotation/main.vue.wxml:view:1:179")
 var oB=_n('view')
 _rz(z,oB,'class',1,e,s,gg)
 var xC=_v()
 _(oB,xC)
-cs.push("./pages/trade/main.vue.wxml:template:1:1565")
-var oD=_oz(z,3,e,s,gg)
-var fE=_gd(x[30],oD,e_,d_)
+cs.push("./pages/quotation/main.vue.wxml:template:1:225")
+var oD=_oz(z,6,e,s,gg)
+var fE=_gd(x[29],oD,e_,d_)
 if(fE){
-var cF=_1z(z,2,e,s,gg) || {}
+var cF=_1z(z,3,e,s,gg) || {}
 var cur_globalf=gg.f
 xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[30],1,1636)
+else _w(oD,x[29],1,377)
 cs.pop()
 var hG=_v()
 _(oB,hG)
-cs.push("./pages/trade/main.vue.wxml:template:1:1724")
-var oH=_oz(z,5,e,s,gg)
-var cI=_gd(x[30],oH,e_,d_)
+cs.push("./pages/quotation/main.vue.wxml:template:1:400")
+var oH=_oz(z,8,e,s,gg)
+var cI=_gd(x[29],oH,e_,d_)
 if(cI){
-var oJ=_1z(z,4,e,s,gg) || {}
+var oJ=_1z(z,7,e,s,gg) || {}
 var cur_globalf=gg.f
 hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[30],1,1795)
-cs.pop()
-var lK=_v()
-_(oB,lK)
-cs.push("./pages/trade/main.vue.wxml:template:1:1818")
-var aL=_oz(z,10,e,s,gg)
-var tM=_gd(x[30],aL,e_,d_)
-if(tM){
-var eN=_1z(z,7,e,s,gg) || {}
-var cur_globalf=gg.f
-lK.wxXCkey=3
-tM(eN,eN,lK,gg)
-gg.f=cur_globalf
-}
-else _w(aL,x[30],1,2042)
+else _w(oH,x[29],1,471)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -1910,41 +1845,204 @@ throw err
 p_[b]=false
 return r
 }
-var m20=function(e,s,r,gg){
-var z=gz$gwx_21()
-var cOB=e_[x[30]].i
-_ai(cOB,x[1],e_,x[30],1,1)
-_ai(cOB,x[2],e_,x[30],1,51)
-_ai(cOB,x[3],e_,x[30],1,105)
-cOB.pop()
-cOB.pop()
-cOB.pop()
+var m18=function(e,s,r,gg){
+var z=gz$gwx_19()
+var oBB=e_[x[29]].i
+_ai(oBB,x[30],e_,x[29],1,1)
+_ai(oBB,x[27],e_,x[29],1,105)
+oBB.pop()
+oBB.pop()
 return r
 }
-e_[x[30]]={f:m20,j:[],i:[],ti:[x[1],x[2],x[3]],ic:[]}
+e_[x[29]]={f:m18,j:[],i:[],ti:[x[30],x[27]],ic:[]}
 d_[x[31]]={}
-var m21=function(e,s,r,gg){
-var z=gz$gwx_22()
-var lQB=e_[x[31]].i
-_ai(lQB,x[18],e_,x[31],1,1)
-var aRB=_v()
-_(r,aRB)
-cs.push("./pages/trade/main.wxml:template:2:6")
-var tSB=_oz(z,1,e,s,gg)
-var eTB=_gd(x[31],tSB,e_,d_)
-if(eTB){
-var bUB=_1z(z,0,e,s,gg) || {}
+var m19=function(e,s,r,gg){
+var z=gz$gwx_20()
+var aDB=e_[x[31]].i
+_ai(aDB,x[20],e_,x[31],1,1)
+var tEB=_v()
+_(r,tEB)
+cs.push("./pages/quotation/main.wxml:template:2:6")
+var eFB=_oz(z,1,e,s,gg)
+var bGB=_gd(x[31],eFB,e_,d_)
+if(bGB){
+var oHB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-aRB.wxXCkey=3
-eTB(bUB,bUB,aRB,gg)
+tEB.wxXCkey=3
+bGB(oHB,oHB,tEB,gg)
 gg.f=cur_globalf
 }
-else _w(tSB,x[31],2,18)
+else _w(eFB,x[31],2,18)
 cs.pop()
+aDB.pop()
+return r
+}
+e_[x[31]]={f:m19,j:[],i:[],ti:[x[20]],ic:[]}
+d_[x[32]]={}
+d_[x[32]]["7bf45ca4"]=function(e,s,r,gg){
+var z=gz$gwx_21()
+var b=x[32]+':7bf45ca4'
+r.wxVkey=b
+gg.f=$gdc(f_["./pages/trade/kline/main.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[32]);return}
+p_[b]=true
+try{
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+var m20=function(e,s,r,gg){
+var z=gz$gwx_21()
+return r
+}
+e_[x[32]]={f:m20,j:[],i:[],ti:[],ic:[]}
+d_[x[33]]={}
+var m21=function(e,s,r,gg){
+var z=gz$gwx_22()
+var fKB=e_[x[33]].i
+_ai(fKB,x[20],e_,x[33],1,1)
+var cLB=_v()
+_(r,cLB)
+cs.push("./pages/trade/kline/main.wxml:template:2:6")
+var hMB=_oz(z,1,e,s,gg)
+var oNB=_gd(x[33],hMB,e_,d_)
+if(oNB){
+var cOB=_1z(z,0,e,s,gg) || {}
+var cur_globalf=gg.f
+cLB.wxXCkey=3
+oNB(cOB,cOB,cLB,gg)
+gg.f=cur_globalf
+}
+else _w(hMB,x[33],2,18)
+cs.pop()
+fKB.pop()
+return r
+}
+e_[x[33]]={f:m21,j:[],i:[],ti:[x[20]],ic:[]}
+d_[x[34]]={}
+d_[x[34]]["6f1043b4"]=function(e,s,r,gg){
+var z=gz$gwx_23()
+var b=x[34]+':6f1043b4'
+r.wxVkey=b
+gg.f=$gdc(f_["./pages/trade/main.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[34]);return}
+p_[b]=true
+try{
+cs.push("./pages/trade/main.vue.wxml:view:1:311")
+var oB=_n('view')
+_rz(z,oB,'class',1,e,s,gg)
+cs.push("./pages/trade/main.vue.wxml:view:1:357")
+var xC=_n('view')
+_rz(z,xC,'class',2,e,s,gg)
+var oD=_v()
+_(xC,oD)
+cs.push("./pages/trade/main.vue.wxml:template:1:443")
+var fE=_oz(z,4,e,s,gg)
+var cF=_gd(x[34],fE,e_,d_)
+if(cF){
+var hG=_1z(z,3,e,s,gg) || {}
+var cur_globalf=gg.f
+oD.wxXCkey=3
+cF(hG,hG,oD,gg)
+gg.f=cur_globalf
+}
+else _w(fE,x[34],1,514)
+cs.pop()
+var oH=_v()
+_(xC,oH)
+cs.push("./pages/trade/main.vue.wxml:template:1:589")
+var cI=_oz(z,6,e,s,gg)
+var oJ=_gd(x[34],cI,e_,d_)
+if(oJ){
+var lK=_1z(z,5,e,s,gg) || {}
+var cur_globalf=gg.f
+oH.wxXCkey=3
+oJ(lK,lK,oH,gg)
+gg.f=cur_globalf
+}
+else _w(cI,x[34],1,660)
+cs.pop()
+cs.pop()
+_(oB,xC)
+var aL=_v()
+_(oB,aL)
+cs.push("./pages/trade/main.vue.wxml:template:1:748")
+var tM=_oz(z,8,e,s,gg)
+var eN=_gd(x[34],tM,e_,d_)
+if(eN){
+var bO=_1z(z,7,e,s,gg) || {}
+var cur_globalf=gg.f
+aL.wxXCkey=3
+eN(bO,bO,aL,gg)
+gg.f=cur_globalf
+}
+else _w(tM,x[34],1,819)
+cs.pop()
+var oP=_v()
+_(oB,oP)
+cs.push("./pages/trade/main.vue.wxml:template:1:842")
+var xQ=_oz(z,13,e,s,gg)
+var oR=_gd(x[34],xQ,e_,d_)
+if(oR){
+var fS=_1z(z,10,e,s,gg) || {}
+var cur_globalf=gg.f
+oP.wxXCkey=3
+oR(fS,fS,oP,gg)
+gg.f=cur_globalf
+}
+else _w(xQ,x[34],1,1066)
+cs.pop()
+cs.pop()
+_(r,oB)
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+var m22=function(e,s,r,gg){
+var z=gz$gwx_23()
+var lQB=e_[x[34]].i
+_ai(lQB,x[1],e_,x[34],1,1)
+_ai(lQB,x[2],e_,x[34],1,49)
+_ai(lQB,x[3],e_,x[34],1,99)
+_ai(lQB,x[4],e_,x[34],1,153)
+_ai(lQB,x[5],e_,x[34],1,235)
+lQB.pop()
+lQB.pop()
+lQB.pop()
+lQB.pop()
 lQB.pop()
 return r
 }
-e_[x[31]]={f:m21,j:[],i:[],ti:[x[18]],ic:[]}
+e_[x[34]]={f:m22,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5]],ic:[]}
+d_[x[35]]={}
+var m23=function(e,s,r,gg){
+var z=gz$gwx_24()
+var tSB=e_[x[35]].i
+_ai(tSB,x[20],e_,x[35],1,1)
+var eTB=_v()
+_(r,eTB)
+cs.push("./pages/trade/main.wxml:template:2:6")
+var bUB=_oz(z,1,e,s,gg)
+var oVB=_gd(x[35],bUB,e_,d_)
+if(oVB){
+var xWB=_1z(z,0,e,s,gg) || {}
+var cur_globalf=gg.f
+eTB.wxXCkey=3
+oVB(xWB,xWB,eTB,gg)
+gg.f=cur_globalf
+}
+else _w(bUB,x[35],2,18)
+cs.pop()
+tSB.pop()
+return r
+}
+e_[x[35]]={f:m23,j:[],i:[],ti:[x[20]],ic:[]}
 if(path&&e_[path]){
 return function(env,dd,global){$gwxc=0;var root={"tag":"wx-page"};root.children=[]
 var main=e_[path].f
@@ -2429,7 +2527,7 @@ eval("/* WEBPACK VAR INJECTION */(function(global) {// fix env\r\ntry {\r\n    i
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    return {};\n\n  },\n  props: {\n    marketList: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  created: function created() {\n  },\n  methods: {} };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/marketList.vue?vue&type=script&lang=js&?aea0");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    return {};\n\n  },\n  props: {\n    list: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  computed: {\n    list_: function list_() {\n      return this.list;\n    } },\n\n  methods: {\n    onClick: function onClick(e) {\n      console.log(\"=====================================\");\n    } } };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/marketList.vue?vue&type=script&lang=js&?aea0");
 
 /***/ }),
 
@@ -2452,7 +2550,7 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=D:/work/git/excha
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"block\", [\n    _c(\n      \"view\",\n      { staticClass: \"rank\" },\n      [\n        _c(\"view\", { staticClass: \"item thead\" }, [\n          _c(\"view\", { staticClass: \"n uni-h7\" }, [_vm._v(\"名称\")]),\n          _c(\"view\", { staticClass: \"p uni-h7\" }, [_vm._v(\"最新价\")]),\n          _c(\"view\", { staticClass: \"t uni-h7\" }, [_vm._v(\"涨跌幅\")])\n        ]),\n        _vm._l(_vm.marketList, function(item, index) {\n          return _c(\"view\", { key: index, staticClass: \"item uni-divider\" }, [\n            _c(\"view\", { staticClass: \"n\" }, [_vm._v(_vm._s(item.name))]),\n            _c(\"view\", { staticClass: \"p\" }, [_vm._v(_vm._s(item.price))]),\n            _c(\n              \"view\",\n              { staticClass: \"t\" },\n              [\n                _c(\n                  \"label\",\n                  {\n                    class:\n                      item.change > 0 ? \"light uni-bg-up\" : \"light uni-bg-down\"\n                  },\n                  [_vm._v(\"+40.2%\")]\n                )\n              ],\n              1\n            )\n          ])\n        })\n      ],\n      2\n    )\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/marketList.vue?vue&type=template&id=14422810&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"block\", [\n    _c(\n      \"view\",\n      { staticClass: \"rank\" },\n      [\n        _c(\"view\", { staticClass: \"item thead\" }, [\n          _c(\"view\", { staticClass: \"n uni-h7\" }, [_vm._v(\"名称\")]),\n          _c(\"view\", { staticClass: \"p uni-h7\" }, [_vm._v(\"最新价\")]),\n          _c(\"view\", { staticClass: \"t uni-h7\" }, [_vm._v(\"涨跌幅\")])\n        ]),\n        _vm._l(_vm.list_, function(item, index) {\n          return _c(\"view\", { key: index, staticClass: \"item uni-divider\" }, [\n            _c(\"view\", { staticClass: \"n\" }, [_vm._v(_vm._s(item.name))]),\n            _c(\"view\", { staticClass: \"p\" }, [_vm._v(_vm._s(item.price))]),\n            _c(\n              \"view\",\n              { staticClass: \"t\" },\n              [\n                _c(\n                  \"label\",\n                  {\n                    class:\n                      item.change > 0 ? \"light uni-bg-up\" : \"light uni-bg-down\"\n                  },\n                  [_vm._v(\"+40.2%\")]\n                )\n              ],\n              1\n            )\n          ])\n        })\n      ],\n      2\n    )\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/marketList.vue?vue&type=template&id=14422810&scoped=true&");
 
 /***/ }),
 
@@ -2719,7 +2817,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Pro
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    return {\n      background: ['color1', 'color2', 'color3'],\n      indicatorDots: true,\n      autoplay: true,\n      interval: 2000,\n      duration: 500 };\n\n  },\n  props: {\n    bannerList: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  created: function created() {\n  },\n  methods: {} };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/homeSwiper.vue?vue&type=script&lang=js&?4e84");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  props: {\n    list: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  data: function data() {\n    return {};\n\n  },\n  computed: {\n    list_: function list_() {\n      return this.list;\n    } },\n\n  methods: {\n    onClick: function onClick(e) {\n      console.log(\"=====================================\");\n    } } };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/homeSwiper.vue?vue&type=script&lang=js&?4e84");
 
 /***/ }),
 
@@ -2731,7 +2829,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    return {};\n\n  },\n  props: {\n    noticeList: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  created: function created() {\n  },\n  methods: {} };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/noticeSwiper.vue?vue&type=script&lang=js&?a1be");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    return {};\n\n  },\n  props: {\n    list: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  computed: {\n    list_: function list_() {\n      return this.list;\n    } },\n\n  methods: {\n    onClick: function onClick(e) {\n      console.log(\"=====================================\");\n    } } };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/noticeSwiper.vue?vue&type=script&lang=js&?a1be");
 
 /***/ }),
 
@@ -2743,7 +2841,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    return {};\n\n  },\n  props: {\n    recommentMarketList: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  created: function created() {\n  },\n  methods: {} };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/recommentMarketList.vue?vue&type=script&lang=js&?e50d");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    return {};\n\n  },\n  props: {\n    list: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  computed: {\n    list_: function list_() {\n      return this.list;\n    } },\n\n  methods: {\n    onClick: function onClick(e) {\n      console.log(\"=====================================\");\n    } } };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/recommentMarketList.vue?vue&type=script&lang=js&?e50d");
 
 /***/ }),
 
@@ -2755,7 +2853,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\nvar _homeSwiper = __webpack_require__(/*! ../../components/homeSwiper.vue */ \"../../../../work/git/exchange-app/components/homeSwiper.vue\");\nvar _noticeSwiper = __webpack_require__(/*! ../../components/noticeSwiper.vue */ \"../../../../work/git/exchange-app/components/noticeSwiper.vue\");\nvar _recommentMarketList = __webpack_require__(/*! ../../components/recommentMarketList.vue */ \"../../../../work/git/exchange-app/components/recommentMarketList.vue\");\nvar _marketList = __webpack_require__(/*! ../../components/marketList.vue */ \"../../../../work/git/exchange-app/components/marketList.vue\");function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};var ownKeys = Object.keys(source);if (typeof Object.getOwnPropertySymbols === 'function') {ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {return Object.getOwnPropertyDescriptor(source, sym).enumerable;}));}ownKeys.forEach(function (key) {_defineProperty(target, key, source[key]);});}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}var _default =\n{\n  data: function data() {\n    return {\n      bannerList: [],\n      noticeList: [],\n      recommentMarketList: [],\n      marketList: [] };\n\n  },\n  components: {\n    homeSwiper: _homeSwiper.homeSwiper,\n    noticeSwiper: _noticeSwiper.noticeSwiper,\n    recommentMarketList: _recommentMarketList.recommentMarketList,\n    marketList: _marketList.marketList },\n\n  mounted: function mounted() {\n    //this.initPage()\n    this.bannerList = [\n    { id: 1, name: \"1\", value: \"https://oss999.oss-cn-hongkong.aliyuncs.com/upload/201903211634211654.jpg\" },\n    { id: 2, name: \"2\", value: \"https://oss999.oss-cn-hongkong.aliyuncs.com/upload/2019031211003874293.jpg\" },\n    { id: 3, name: \"3\", value: \"https://oss999.oss-cn-hongkong.aliyuncs.com/upload/2019031815071397696.jpg\" }];\n\n    this.noticeList = [\"国际站4月1日14:00开放MDC/USDT交易市场\", \"国际站4月2日10:00上线HKL\", \"关于国际站即将上线 GCCT（Global Cash Coin)\"];\n\n    this.recommentMarketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 51807.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n\n    this.marketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 51807.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n  },\n  computed: {\n    /* ...mapState('home', ['data']),\r\n             content() {\r\n               return this.data;\r\n             } */},\n\n  methods: _objectSpread({},\n  (0, _vuex.mapActions)('home', ['getHomeData'])) };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/home/main.vue?vue&type=script&lang=js&?37f0");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\nvar _homeSwiper = _interopRequireDefault(__webpack_require__(/*! ../../components/homeSwiper.vue */ \"../../../../work/git/exchange-app/components/homeSwiper.vue\"));\nvar _noticeSwiper = _interopRequireDefault(__webpack_require__(/*! ../../components/noticeSwiper.vue */ \"../../../../work/git/exchange-app/components/noticeSwiper.vue\"));\nvar _recommentMarketList = _interopRequireDefault(__webpack_require__(/*! ../../components/recommentMarketList.vue */ \"../../../../work/git/exchange-app/components/recommentMarketList.vue\"));\nvar _marketList = _interopRequireDefault(__webpack_require__(/*! ../../components/marketList.vue */ \"../../../../work/git/exchange-app/components/marketList.vue\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};var ownKeys = Object.keys(source);if (typeof Object.getOwnPropertySymbols === 'function') {ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {return Object.getOwnPropertyDescriptor(source, sym).enumerable;}));}ownKeys.forEach(function (key) {_defineProperty(target, key, source[key]);});}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}var _default =\n{\n  data: function data() {\n    return {\n      bannerList: [],\n      noticeList: [],\n      recommentMarketList: [],\n      marketList: [] };\n\n  },\n  components: {\n    homeSwiper: _homeSwiper.default,\n    noticeSwiper: _noticeSwiper.default,\n    recommentMarketList: _recommentMarketList.default,\n    marketList: _marketList.default },\n\n  mounted: function mounted() {\n    //this.initPage()\n    this.bannerList = [\n    { id: 1, name: \"1\", value: \"https://oss999.oss-cn-hongkong.aliyuncs.com/upload/201903211634211654.jpg\" },\n    { id: 2, name: \"2\", value: \"https://oss999.oss-cn-hongkong.aliyuncs.com/upload/2019031211003874293.jpg\" },\n    { id: 3, name: \"3\", value: \"https://oss999.oss-cn-hongkong.aliyuncs.com/upload/2019031815071397696.jpg\" }];\n\n    this.noticeList = [\"国际站4月1日14:00开放MDC/USDT交易市场\", \"国际站4月2日10:00上线HKL\", \"关于国际站即将上线 GCCT（Global Cash Coin)\"];\n\n    this.recommentMarketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 51807.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n\n    this.marketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 51807.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n  },\n  computed: {\n    /* ...mapState('home', ['data']),\r\n             content() {\r\n               return this.data;\r\n             } */},\n\n  methods: _objectSpread({},\n  (0, _vuex.mapActions)('home', ['getHomeData'])) };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/home/main.vue?vue&type=script&lang=js&?37f0");
 
 /***/ }),
 
@@ -2811,7 +2909,7 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=D:/work/git/excha
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"block\", [\n    _c(\"view\", { staticClass: \"uni-padding-wrap\" }, [\n      _c(\n        \"view\",\n        { staticClass: \"page-section swiper\" },\n        [\n          _c(\n            \"swiper\",\n            {\n              staticClass: \"swiper\",\n              attrs: {\n                \"indicator-dots\": true,\n                autoplay: true,\n                interval: 2000,\n                duration: 500,\n                \"indicator-active-color\": \"#ffffff\",\n                \"indicator-color\": \"#9d9d9d\"\n              }\n            },\n            _vm._l(_vm.bannerList, function(item, index) {\n              return _c(\n                \"swiper-item\",\n                { key: index, attrs: { mpcomid: \"1b13b62a-0-\" + index } },\n                [\n                  _c(\"view\", { staticClass: \"swiper-item\" }, [\n                    _c(\"image\", {\n                      attrs: { mode: \"widthFix\", src: item.value }\n                    })\n                  ])\n                ]\n              )\n            })\n          )\n        ],\n        1\n      )\n    ])\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/homeSwiper.vue?vue&type=template&id=bb5e1e96&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"block\", [\n    _c(\"view\", { staticClass: \"uni-padding-wrap\" }, [\n      _c(\n        \"view\",\n        { staticClass: \"page-section swiper\" },\n        [\n          _c(\n            \"swiper\",\n            {\n              staticClass: \"swiper\",\n              attrs: {\n                \"indicator-dots\": true,\n                autoplay: true,\n                interval: 2000,\n                duration: 500,\n                \"indicator-active-color\": \"#ffffff\",\n                \"indicator-color\": \"#9d9d9d\"\n              }\n            },\n            _vm._l(_vm.list_, function(item, index) {\n              return _c(\n                \"swiper-item\",\n                { key: index, attrs: { mpcomid: \"1b13b62a-0-\" + index } },\n                [\n                  _c(\n                    \"view\",\n                    {\n                      staticClass: \"swiper-item\",\n                      attrs: { eventid: \"1b13b62a-0-\" + index },\n                      on: { click: _vm.onClick }\n                    },\n                    [\n                      _c(\"image\", {\n                        attrs: { mode: \"widthFix\", src: item.value }\n                      })\n                    ]\n                  )\n                ]\n              )\n            })\n          )\n        ],\n        1\n      )\n    ])\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/homeSwiper.vue?vue&type=template&id=bb5e1e96&");
 
 /***/ }),
 
@@ -2823,7 +2921,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"uni-swiper-msg notice\" },\n    [\n      _vm._m(0),\n      _c(\n        \"swiper\",\n        {\n          attrs: {\n            vertical: \"true\",\n            autoplay: \"true\",\n            circular: \"true\",\n            interval: \"3000\"\n          }\n        },\n        _vm._l(_vm.noticeList, function(item, index) {\n          return _c(\n            \"swiper-item\",\n            { key: index, attrs: { mpcomid: \"090a69b8-0-\" + index } },\n            [_c(\"navigator\", [_vm._v(_vm._s(item))])],\n            1\n          )\n        })\n      )\n    ],\n    1\n  )\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"uni-swiper-msg-icon\" }, [\n      _c(\"image\", {\n        attrs: { src: \"../../static/icon/notice.png\", mode: \"widthFix\" }\n      })\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/noticeSwiper.vue?vue&type=template&id=282eedee&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"uni-swiper-msg notice\" },\n    [\n      _vm._m(0),\n      _c(\n        \"swiper\",\n        {\n          attrs: {\n            vertical: \"true\",\n            autoplay: \"true\",\n            circular: \"true\",\n            interval: \"3000\"\n          }\n        },\n        _vm._l(_vm.list_, function(item, index) {\n          return _c(\n            \"swiper-item\",\n            {\n              key: index,\n              attrs: {\n                eventid: \"090a69b8-0-\" + index,\n                mpcomid: \"090a69b8-0-\" + index\n              },\n              on: {\n                click: function($event) {\n                  _vm.onClick()\n                }\n              }\n            },\n            [_c(\"navigator\", [_vm._v(_vm._s(item))])],\n            1\n          )\n        })\n      )\n    ],\n    1\n  )\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"uni-swiper-msg-icon\" }, [\n      _c(\"image\", {\n        attrs: { src: \"../../static/icon/notice.png\", mode: \"widthFix\" }\n      })\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/noticeSwiper.vue?vue&type=template&id=282eedee&scoped=true&");
 
 /***/ }),
 
@@ -2835,7 +2933,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"block\", [\n    _c(\n      \"view\",\n      { staticClass: \"uni-grid-9\" },\n      _vm._l(_vm.recommentMarketList, function(item, index) {\n        return _c(\n          \"view\",\n          {\n            key: index,\n            staticClass: \"uni-grid-9-item no-border-right recomment\"\n          },\n          [\n            _c(\"label\", { staticClass: \"uni-h7 uni-bold\" }, [\n              _vm._v(_vm._s(item.symbol))\n            ]),\n            _c(\n              \"label\",\n              { class: item.change > 0 ? \"uni-h4 uni-up\" : \"uni-h4 uni-down\" },\n              [_vm._v(_vm._s(item.price))]\n            ),\n            _c(\n              \"label\",\n              { class: item.change > 0 ? \"uni-h7 uni-up\" : \"uni-h7 uni-down\" },\n              [\n                _vm._v(\n                  _vm._s(item.change > 0 ? \"+\" : \"\") + _vm._s(item.change) + \"%\"\n                )\n              ]\n            ),\n            _c(\"label\", { staticClass: \"uni-h7\" }, [\n              _vm._v(\"≈\" + _vm._s(item.cnyPrice) + \"CNY\")\n            ])\n          ],\n          1\n        )\n      })\n    )\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/recommentMarketList.vue?vue&type=template&id=ba886050&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"block\", [\n    _c(\n      \"view\",\n      { staticClass: \"uni-grid-9\" },\n      _vm._l(_vm.list_, function(item, index) {\n        return _c(\n          \"view\",\n          {\n            key: index,\n            staticClass: \"uni-grid-9-item no-border-right recomment\",\n            attrs: { eventid: \"37e9e4b2-0-\" + index },\n            on: {\n              click: function($event) {\n                _vm.onClick()\n              }\n            }\n          },\n          [\n            _c(\"label\", { staticClass: \"uni-h7 uni-bold\" }, [\n              _vm._v(_vm._s(item.symbol))\n            ]),\n            _c(\n              \"label\",\n              { class: item.change > 0 ? \"uni-h4 uni-up\" : \"uni-h4 uni-down\" },\n              [_vm._v(_vm._s(item.price))]\n            ),\n            _c(\n              \"label\",\n              { class: item.change > 0 ? \"uni-h7 uni-up\" : \"uni-h7 uni-down\" },\n              [\n                _vm._v(\n                  _vm._s(item.change > 0 ? \"+\" : \"\") + _vm._s(item.change) + \"%\"\n                )\n              ]\n            ),\n            _c(\"label\", { staticClass: \"uni-h7\" }, [\n              _vm._v(\"≈\" + _vm._s(item.cnyPrice) + \"CNY\")\n            ])\n          ],\n          1\n        )\n      })\n    )\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/recommentMarketList.vue?vue&type=template&id=ba886050&scoped=true&");
 
 /***/ }),
 
@@ -2847,7 +2945,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"homeSwiper\", {\n        attrs: { bannerList: _vm.bannerList, mpcomid: \"5aa12eb9-0\" }\n      }),\n      _c(\"noticeSwiper\", {\n        attrs: { noticeList: _vm.noticeList, mpcomid: \"5aa12eb9-1\" }\n      }),\n      _c(\"view\", { staticClass: \"uni-divider\" }),\n      _c(\"recommentMarketList\", {\n        attrs: {\n          recommentMarketList: _vm.recommentMarketList,\n          mpcomid: \"5aa12eb9-2\"\n        }\n      }),\n      _vm._m(0),\n      _c(\"view\", { staticClass: \"uni-h5 title uni-bold rank-title\" }, [\n        _vm._v(\"涨幅榜\")\n      ]),\n      _c(\"view\", { staticClass: \"uni-divider\" }),\n      _c(\"marketList\", {\n        attrs: { marketList: _vm.marketList, mpcomid: \"5aa12eb9-3\" }\n      })\n    ],\n    1\n  )\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"ad\" }, [\n      _c(\"image\", {\n        attrs: { mode: \"widthFix\", src: \"../../static/img/ad.jpg\" }\n      })\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/home/main.vue?vue&type=template&id=7575d103&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"homeSwiper\", {\n        attrs: { list: _vm.bannerList, mpcomid: \"5aa12eb9-0\" }\n      }),\n      _c(\"noticeSwiper\", {\n        attrs: { list: _vm.noticeList, mpcomid: \"5aa12eb9-1\" }\n      }),\n      _c(\"view\", { staticClass: \"uni-divider\" }),\n      _c(\"recommentMarketList\", {\n        attrs: { list: _vm.recommentMarketList, mpcomid: \"5aa12eb9-2\" }\n      }),\n      _vm._m(0),\n      _c(\"view\", { staticClass: \"uni-h5 title uni-bold rank-title\" }, [\n        _vm._v(\"涨幅榜\")\n      ]),\n      _c(\"view\", { staticClass: \"uni-divider\" }),\n      _c(\"marketList\", {\n        attrs: { list: _vm.marketList, mpcomid: \"5aa12eb9-3\" }\n      })\n    ],\n    1\n  )\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"ad\" }, [\n      _c(\"image\", {\n        attrs: { mode: \"widthFix\", src: \"../../static/img/ad.jpg\" }\n      })\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/home/main.vue?vue&type=template&id=7575d103&scoped=true&");
 
 /***/ })
 
@@ -2987,7 +3085,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _uniSegmentedControl2 = _interopRequireDefault(__webpack_require__(/*! @dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control */ \"../../../../work/git/exchange-app/node_modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue\"));\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\n\n\nvar _marketList = __webpack_require__(/*! ../../components/marketList.vue */ \"../../../../work/git/exchange-app/components/marketList.vue\");function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n\n{\n  data: function data() {\n    return {\n      items: [\n      '自选',\n      'USDT'],\n\n      current: 0,\n      activeColor: '#007aff',\n      styleType: 'button',\n      marketList: [] };\n\n  },\n  mounted: function mounted() {\n    this.marketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 51807.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n  },\n  components: {\n    uniSegmentedControl: _uniSegmentedControl2.default,\n    marketList: _marketList.marketList },\n\n  computed: {},\n\n\n  methods: {\n    onClickItem: function onClickItem(index) {\n      if (this.current !== index) {\n        this.current = index;\n      }\n    } } };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/quotation/main.vue?vue&type=script&lang=js&?9b18");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _uniSegmentedControl2 = _interopRequireDefault(__webpack_require__(/*! @dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control */ \"../../../../work/git/exchange-app/node_modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue\"));\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\n\n\nvar _marketList = _interopRequireDefault(__webpack_require__(/*! ../../components/marketList.vue */ \"../../../../work/git/exchange-app/components/marketList.vue\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n\n{\n  data: function data() {\n    return {\n      items: [\n      '自选',\n      'USDT'],\n\n      current: 0,\n      activeColor: '#007aff',\n      styleType: 'button',\n      marketList: [] };\n\n  },\n  mounted: function mounted() {\n    this.marketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 51807.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n  },\n  components: {\n    uniSegmentedControl: _uniSegmentedControl2.default,\n    marketList: _marketList.default },\n\n  computed: {},\n\n\n  methods: {\n    onClickItem: function onClickItem(index) {\n      if (this.current !== index) {\n        this.current = index;\n      }\n    } } };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/quotation/main.vue?vue&type=script&lang=js&?9b18");
 
 /***/ }),
 
@@ -3033,7 +3131,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"uni-segmented-control\", {\n        attrs: {\n          current: _vm.current,\n          values: _vm.items,\n          styleType: _vm.styleType,\n          activeColor: _vm.activeColor,\n          eventid: \"70b3608c-0\",\n          mpcomid: \"70b3608c-0\"\n        },\n        on: { clickItem: _vm.onClickItem }\n      }),\n      _c(\"marketList\", {\n        attrs: { marketList: _vm.marketList, mpcomid: \"70b3608c-1\" }\n      })\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/quotation/main.vue?vue&type=template&id=5fe3c832&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"uni-segmented-control\", {\n        attrs: {\n          current: _vm.current,\n          values: _vm.items,\n          styleType: _vm.styleType,\n          activeColor: _vm.activeColor,\n          eventid: \"70b3608c-0\",\n          mpcomid: \"70b3608c-0\"\n        },\n        on: { clickItem: _vm.onClickItem }\n      }),\n      _c(\"marketList\", {\n        attrs: { list: _vm.marketList, mpcomid: \"70b3608c-1\" }\n      })\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/quotation/main.vue?vue&type=template&id=5fe3c832&scoped=true&");
 
 /***/ })
 
@@ -3093,6 +3191,54 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Pro
 
 /***/ }),
 
+/***/ "../../../../work/git/exchange-app/components/marketDrawer.vue":
+/*!************************************************************!*\
+  !*** D:/work/git/exchange-app/components/marketDrawer.vue ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _marketDrawer_vue_vue_type_template_id_3c4fea4b___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./marketDrawer.vue?vue&type=template&id=3c4fea4b& */ \"../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b&\");\n/* harmony import */ var _marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./marketDrawer.vue?vue&type=script&lang=js& */ \"../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=script&lang=js&\");\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _marketDrawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./marketDrawer.vue?vue&type=style&index=0&lang=css& */ \"../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib/runtime/componentNormalizer.js */ \"./node_modules/vue-loader/lib/runtime/componentNormalizer.js\");\n\n\n\n\n\n\n/* normalize component */\n\nvar component = Object(_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(\n  _marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _marketDrawer_vue_vue_type_template_id_3c4fea4b___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _marketDrawer_vue_vue_type_template_id_3c4fea4b___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  null\n  \n)\n\n/* hot reload */\nif (false) { var api; }\ncomponent.options.__file = \"work/git/exchange-app/components/marketDrawer.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=D:/work/git/exchange-app/components/marketDrawer.vue");
+
+/***/ }),
+
+/***/ "../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/babel-loader/lib!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib??vue-loader-options!./marketDrawer.vue?vue&type=script&lang=js& */ \"./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=script&lang=js&\");\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=uni-app:///components/marketDrawer.vue?vue&type=script&lang=js&?6056");
+
+/***/ }),
+
+/***/ "../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css&":
+/*!*********************************************************************************************!*\
+  !*** D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css& ***!
+  \*********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/css-loader??ref--6-oneOf-1-2!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/postcss-loader/src??ref--6-oneOf-1-3!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib??vue-loader-options!./marketDrawer.vue?vue&type=style&index=0&lang=css& */ \"./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css&");
+
+/***/ }),
+
+/***/ "../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b&":
+/*!*******************************************************************************************!*\
+  !*** D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_template_id_3c4fea4b___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib??vue-loader-options!./marketDrawer.vue?vue&type=template&id=3c4fea4b& */ \"./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_template_id_3c4fea4b___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_marketDrawer_vue_vue_type_template_id_3c4fea4b___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b&");
+
+/***/ }),
+
 /***/ "../../../../work/git/exchange-app/components/positionList.vue":
 /*!************************************************************!*\
   !*** D:/work/git/exchange-app/components/positionList.vue ***!
@@ -3138,6 +3284,54 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Pro
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_positionList_vue_vue_type_template_id_42a67265_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib??vue-loader-options!./positionList.vue?vue&type=template&id=42a67265&scoped=true& */ \"./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/positionList.vue?vue&type=template&id=42a67265&scoped=true&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_positionList_vue_vue_type_template_id_42a67265_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_positionList_vue_vue_type_template_id_42a67265_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/positionList.vue?vue&type=template&id=42a67265&scoped=true&");
+
+/***/ }),
+
+/***/ "../../../../work/git/exchange-app/components/tradePanel.vue":
+/*!**********************************************************!*\
+  !*** D:/work/git/exchange-app/components/tradePanel.vue ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _tradePanel_vue_vue_type_template_id_0099a4fe___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tradePanel.vue?vue&type=template&id=0099a4fe& */ \"../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe&\");\n/* harmony import */ var _tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tradePanel.vue?vue&type=script&lang=js& */ \"../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=script&lang=js&\");\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _tradePanel_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tradePanel.vue?vue&type=style&index=0&lang=css& */ \"../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib/runtime/componentNormalizer.js */ \"./node_modules/vue-loader/lib/runtime/componentNormalizer.js\");\n\n\n\n\n\n\n/* normalize component */\n\nvar component = Object(_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(\n  _tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _tradePanel_vue_vue_type_template_id_0099a4fe___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _tradePanel_vue_vue_type_template_id_0099a4fe___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  null\n  \n)\n\n/* hot reload */\nif (false) { var api; }\ncomponent.options.__file = \"work/git/exchange-app/components/tradePanel.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=D:/work/git/exchange-app/components/tradePanel.vue");
+
+/***/ }),
+
+/***/ "../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************!*\
+  !*** D:/work/git/exchange-app/components/tradePanel.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/babel-loader/lib!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib??vue-loader-options!./tradePanel.vue?vue&type=script&lang=js& */ \"./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=script&lang=js&\");\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=uni-app:///components/tradePanel.vue?vue&type=script&lang=js&?5dde");
+
+/***/ }),
+
+/***/ "../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css&":
+/*!*******************************************************************************************!*\
+  !*** D:/work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css& ***!
+  \*******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/css-loader??ref--6-oneOf-1-2!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/postcss-loader/src??ref--6-oneOf-1-3!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib??vue-loader-options!./tradePanel.vue?vue&type=style&index=0&lang=css& */ \"./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=D:/work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css&");
+
+/***/ }),
+
+/***/ "../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe&":
+/*!*****************************************************************************************!*\
+  !*** D:/work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe& ***!
+  \*****************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_template_id_0099a4fe___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!../../../../Program Files/HBuilderX/plugins/uniapp-cli/node_modules/vue-loader/lib??vue-loader-options!./tradePanel.vue?vue&type=template&id=0099a4fe& */ \"./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_template_id_0099a4fe___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_tradePanel_vue_vue_type_template_id_0099a4fe___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe&");
 
 /***/ }),
 
@@ -3261,6 +3455,18 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  props: {\n    areaList: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } },\n\n    marketList: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  data: function data() {\n    return {\n      tabIndex: 0 };\n\n  },\n  computed: {\n    areaList_: function areaList_() {\n      return this.areaList;\n    },\n    marketList_: function marketList_() {\n      return this.marketList;\n    } },\n\n  methods: {\n    onClick: function onClick(e) {\n      console.log(\"=====================================\");\n    },\n    onChangeType: function onChangeType() {\n      this.tabIndex = Math.abs(this.tabIndex - 1);\n    } } };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/marketDrawer.vue?vue&type=script&lang=js&?657e");
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/positionList.vue?vue&type=script&lang=js&":
 /*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/positionList.vue?vue&type=script&lang=js& ***!
@@ -3270,6 +3476,18 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 
 "use strict";
 eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  props: {\n    item: Object },\n\n  computed: {} };exports.default = _default;\n\n//# sourceURL=uni-app:///components/positionList.vue?vue&type=script&lang=js&?07ae");
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/tradePanel.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default2 =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  props: {\n    list: {\n      type: Array,\n      default: function _default() {\n        return [];\n      } } },\n\n\n  data: function data() {\n    return {\n      tabIndex: 0 };\n\n  },\n  computed: {\n    list_: function list_() {\n      return this.list;\n    } },\n\n  methods: {\n    onClick: function onClick(e) {\n      console.log(\"=====================================\");\n    },\n    onChangeType: function onChangeType() {\n      this.tabIndex = Math.abs(this.tabIndex - 1);\n    } } };exports.default = _default2;\n\n//# sourceURL=uni-app:///components/tradePanel.vue?vue&type=script&lang=js&?76ea");
 
 /***/ }),
 
@@ -3293,7 +3511,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _uniDrawer2 = _interopRequireDefault(__webpack_require__(/*! @dcloudio/uni-ui/lib/uni-drawer/uni-drawer */ \"../../../../work/git/exchange-app/node_modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue\"));\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\n\nvar _positionList = __webpack_require__(/*! ../../components/positionList.vue */ \"../../../../work/git/exchange-app/components/positionList.vue\");\nvar _entrustOrderList = __webpack_require__(/*! ../../components/entrustOrderList.vue */ \"../../../../work/git/exchange-app/components/entrustOrderList.vue\");function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n{\n  onReady: function onReady() {\n    uni.setNavigationBarTitle({\n      title: \"BTC/USDT\" });\n\n  },\n  onNavigationBarButtonTap: function onNavigationBarButtonTap(e) {\n    if (e.index == 0) {\n      this.drawerVisible = true;\n    } else {\n      uni.navigateTo({\n        url: \"/pages/trade/kline/main\" });\n\n    }\n  },\n  components: {\n    uniDrawer: _uniDrawer2.default,\n    positionList: _positionList.positionList,\n    entrustOrderList: _entrustOrderList.entrustOrderList },\n\n  data: function data() {\n    return {\n      drawerVisible: false,\n      scrollLeft: 0 };\n\n  },\n  computed: {},\n\n\n  methods: {\n\n\n    closeDrawer: function closeDrawer() {\n      this.drawerVisible = false;\n    } } };exports.default = _default;\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///pages/trade/main.vue?vue&type=script&lang=js&?319b");
+eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _uniDrawer2 = _interopRequireDefault(__webpack_require__(/*! @dcloudio/uni-ui/lib/uni-drawer/uni-drawer */ \"../../../../work/git/exchange-app/node_modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue\"));\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\n\n\n\n\n\n\nvar _positionList = _interopRequireDefault(__webpack_require__(/*! ../../components/positionList.vue */ \"../../../../work/git/exchange-app/components/positionList.vue\"));\nvar _entrustOrderList = _interopRequireDefault(__webpack_require__(/*! ../../components/entrustOrderList.vue */ \"../../../../work/git/exchange-app/components/entrustOrderList.vue\"));\nvar _tradePanel = _interopRequireDefault(__webpack_require__(/*! ../../components/tradePanel.vue */ \"../../../../work/git/exchange-app/components/tradePanel.vue\"));\nvar _marketDrawer = _interopRequireDefault(__webpack_require__(/*! ../../components/marketDrawer.vue */ \"../../../../work/git/exchange-app/components/marketDrawer.vue\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n{\n  onReady: function onReady() {\n    uni.setNavigationBarTitle({\n      title: \"BTC/USDT\" });\n\n  },\n  onNavigationBarButtonTap: function onNavigationBarButtonTap(e) {\n    if (e.index == 0) {\n      this.drawerVisible = true;\n    } else {\n      uni.navigateTo({\n        url: \"/pages/trade/kline/main\" });\n\n    }\n  },\n  components: {\n    uniDrawer: _uniDrawer2.default,\n    positionList: _positionList.default,\n    entrustOrderList: _entrustOrderList.default,\n    tradePanel: _tradePanel.default,\n    marketDrawer: _marketDrawer.default },\n\n  data: function data() {\n    return {\n      drawerVisible: false,\n      scrollLeft: 0,\n      areaList: [],\n      marketList: [] };\n\n  },\n  mounted: function mounted() {\n    this.areaList = [{ id: 1, name: \"USDT\" }, { id: 2, name: \"BTC\" }, { id: 3, name: \"ETH\" }, { id: 4, name: \"EOS\" }];\n    this.marketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 518072342.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n  },\n  computed: {},\n\n  methods: {\n    closeDrawer: function closeDrawer() {\n      this.drawerVisible = false;\n    } } };exports.default = _default;\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///pages/trade/main.vue?vue&type=script&lang=js&?319b");
 
 /***/ }),
 
@@ -3319,6 +3537,17 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=D:/work/git/excha
 
 /***/ }),
 
+/***/ "./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css&":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!./node_modules/css-loader??ref--6-oneOf-1-2!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=style&index=0&lang=css&");
+
+/***/ }),
+
 /***/ "./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/positionList.vue?vue&type=style&index=0&id=42a67265&scoped=true&lang=css&":
 /*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!./node_modules/css-loader??ref--6-oneOf-1-2!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/positionList.vue?vue&type=style&index=0&id=42a67265&scoped=true&lang=css& ***!
@@ -3327,6 +3556,17 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=D:/work/git/excha
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=D:/work/git/exchange-app/components/positionList.vue?vue&type=style&index=0&id=42a67265&scoped=true&lang=css&");
+
+/***/ }),
+
+/***/ "./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css&":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!./node_modules/css-loader??ref--6-oneOf-1-2!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=D:/work/git/exchange-app/components/tradePanel.vue?vue&type=style&index=0&lang=css&");
 
 /***/ }),
 
@@ -3353,6 +3593,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"drawer\" },\n    [\n      _c(\n        \"scroll-view\",\n        {\n          staticClass: \"uni-swiper-tab\",\n          attrs: { \"scroll-x\": \"\", \"scroll-left\": _vm.scrollLeft }\n        },\n        [\n          _c(\n            \"view\",\n            { staticClass: \"swiper-tab-list uni-bold\" },\n            [_c(\"label\", [_vm._v(\"自选\")])],\n            1\n          ),\n          _vm._l(_vm.areaList_, function(item, index) {\n            return _c(\n              \"view\",\n              {\n                key: index,\n                staticClass: \"swiper-tab-list uni-bold\",\n                attrs: { eventid: \"42cb03fe-0-\" + index },\n                on: { click: _vm.onClick }\n              },\n              [\n                _c(\"label\", { class: index == 0 ? \"active\" : \"\" }, [\n                  _vm._v(_vm._s(item.name))\n                ])\n              ],\n              1\n            )\n          })\n        ],\n        2\n      ),\n      _c(\n        \"view\",\n        { staticClass: \"uni-list\" },\n        _vm._l(_vm.marketList_, function(item, index) {\n          return _c(\n            \"view\",\n            {\n              key: index,\n              staticClass: \"uni-list-cell\",\n              attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n            },\n            [\n              _c(\"view\", { staticClass: \"uni-triplex-row\" }, [\n                _c(\"view\", { staticClass: \"uni-triplex-left\" }, [\n                  _c(\"text\", { staticClass: \"uni-title uni-ellipsis\" }, [\n                    _vm._v(_vm._s(item.symbol))\n                  ])\n                ]),\n                _c(\"view\", { staticClass: \"uni-triplex-right\" }, [\n                  _c(\n                    \"text\",\n                    {\n                      staticClass: \"uni-h5\",\n                      class: item.change > 0 ? \" uni-up\" : \" uni-down\"\n                    },\n                    [_vm._v(_vm._s(item.price))]\n                  )\n                ])\n              ])\n            ]\n          )\n        })\n      )\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/marketDrawer.vue?vue&type=template&id=3c4fea4b&");
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/positionList.vue?vue&type=template&id=42a67265&scoped=true&":
 /*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/positionList.vue?vue&type=template&id=42a67265&scoped=true& ***!
@@ -3362,6 +3614,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _vm._m(0)\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"pmain\" }, [\n      _c(\"view\", { staticClass: \"item\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"价格\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"数量\")])\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"50%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"10%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"30%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"5%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"80%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"current-price\" }, [\n        _c(\"view\", { staticClass: \"uni-h5 uni-bold uni-up usdt\" }, [\n          _vm._v(\"521.5\")\n        ]),\n        _c(\"view\", { staticClass: \"uni-h7 cny uni-text-gray\" }, [\n          _vm._v(\"≈28767.23 CNY\")\n        ])\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"80%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"10%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"40%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"60%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"20%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"depth uni-thinner-border\" }, [\n        _c(\"view\", { staticClass: \"uni-h6\" }, [_vm._v(\"深度1\")])\n      ])\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/positionList.vue?vue&type=template&id=42a67265&scoped=true&");
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!../../../../work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe&":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib??vue-loader-options!D:/work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"view\", { staticClass: \"trade-inner\" }, [\n    _c(\"view\", { staticClass: \"tab\" }, [\n      _c(\n        \"view\",\n        {\n          staticClass: \"buy uni-bg-up\",\n          class: _vm.tabIndex == 1 ? \"normal\" : \"\",\n          attrs: { eventid: \"2bce65b4-0\" },\n          on: { click: _vm.onChangeType }\n        },\n        [_vm._v(\"买入\")]\n      ),\n      _c(\n        \"view\",\n        {\n          staticClass: \"sell uni-bg-down \",\n          class: _vm.tabIndex == 0 ? \"normal\" : \"\",\n          attrs: { eventid: \"2bce65b4-1\" },\n          on: { click: _vm.onChangeType }\n        },\n        [_vm._v(\"卖出\")]\n      ),\n      _c(\"view\", { staticClass: \"parallelogram\" })\n    ]),\n    _c(\n      \"view\",\n      {\n        directives: [\n          {\n            name: \"show\",\n            rawName: \"v-show\",\n            value: _vm.tabIndex == 0,\n            expression: \"tabIndex == 0\"\n          }\n        ]\n      },\n      [\n        _vm._m(0),\n        _c(\"view\", { staticClass: \"uni-h7 uni-text-gray\" }, [\n          _vm._v(\"≈28767.23 CNY\")\n        ]),\n        _vm._m(1),\n        _c(\"view\", { staticClass: \"uni-h7 uni-text-gray\" }, [\n          _vm._v(\"可用 28767.23BTC\")\n        ]),\n        _c(\"slider\", {\n          attrs: { value: \"0\", min: \"0\", max: \"100\", \"show-value\": \"\" }\n        }),\n        _c(\"view\", { staticClass: \"uni-h5\" }, [\n          _vm._v(\"交易额 125.02555 USDT\")\n        ]),\n        _c(\"button\", { staticClass: \"btn uni-bg-up\" }, [_vm._v(\"买入\")])\n      ],\n      1\n    ),\n    _c(\n      \"view\",\n      {\n        directives: [\n          {\n            name: \"show\",\n            rawName: \"v-show\",\n            value: _vm.tabIndex == 1,\n            expression: \"tabIndex == 1\"\n          }\n        ]\n      },\n      [\n        _vm._m(2),\n        _c(\"view\", { staticClass: \"uni-h7 uni-text-gray\" }, [\n          _vm._v(\"≈28767.23 CNY\")\n        ]),\n        _vm._m(3),\n        _c(\"view\", { staticClass: \"uni-h7 uni-text-gray\" }, [\n          _vm._v(\"可用 28767.23BTC\")\n        ]),\n        _c(\"slider\", {\n          attrs: { value: \"0\", min: \"0\", max: \"100\", \"show-value\": \"\" }\n        }),\n        _c(\"view\", { staticClass: \"uni-h5\" }, [\n          _vm._v(\"交易额 125.02555 USDT\")\n        ]),\n        _c(\"button\", { staticClass: \"btn uni-bg-down\" }, [_vm._v(\"卖出\")])\n      ],\n      1\n    )\n  ])\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"price-input uni-thinner-border\" }, [\n      _c(\"input\", {\n        staticClass: \"uni-input \",\n        attrs: { type: \"digit\", placeholder: \"\", value: \"521.052\" }\n      }),\n      _c(\"view\", { staticClass: \"opt uni-thinner-left-border\" }, [\n        _c(\"view\", { staticClass: \"button\" }, [_vm._v(\"-\")]),\n        _c(\"view\", { staticClass: \"button\" }, [_vm._v(\"+\")])\n      ])\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"num-input uni-thinner-border\" }, [\n      _c(\"input\", {\n        staticClass: \"uni-input\",\n        attrs: { type: \"digit\", placeholder: \"数量\" }\n      }),\n      _c(\"view\", { staticClass: \"opt\" })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"price-input uni-thinner-border\" }, [\n      _c(\"input\", {\n        staticClass: \"uni-input \",\n        attrs: { type: \"digit\", placeholder: \"\", value: \"521.052\" }\n      }),\n      _c(\"view\", { staticClass: \"opt uni-thinner-left-border\" }, [\n        _c(\"view\", { staticClass: \"button\" }, [_vm._v(\"-\")]),\n        _c(\"view\", { staticClass: \"button\" }, [_vm._v(\"+\")])\n      ])\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"num-input uni-thinner-border\" }, [\n      _c(\"input\", {\n        staticClass: \"uni-input\",\n        attrs: { type: \"digit\", placeholder: \"数量\" }\n      }),\n      _c(\"view\", { staticClass: \"opt\" })\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/tradePanel.vue?vue&type=template&id=0099a4fe&");
 
 /***/ }),
 
@@ -3385,7 +3649,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"view\", { staticClass: \"content\" }, [\n        _c(\n          \"view\",\n          { staticClass: \"trade\" },\n          [\n            _vm._m(0),\n            _vm._m(1),\n            _c(\"view\", { staticClass: \"uni-h7 uni-text-gray\" }, [\n              _vm._v(\"≈28767.23 CNY\")\n            ]),\n            _vm._m(2),\n            _c(\"view\", { staticClass: \"uni-h7 uni-text-gray\" }, [\n              _vm._v(\"可用 28767.23BTC\")\n            ]),\n            _c(\"slider\", {\n              attrs: { value: \"0\", min: \"0\", max: \"100\", \"show-value\": \"\" }\n            }),\n            _c(\"view\", { staticClass: \"uni-h5\" }, [\n              _vm._v(\"交易额  125.02555 USDT\")\n            ]),\n            _c(\"button\", { staticClass: \"btn uni-bg-up\" }, [_vm._v(\"买入\")])\n          ],\n          1\n        ),\n        _c(\n          \"view\",\n          { staticClass: \"position\" },\n          [_c(\"positionList\", { attrs: { mpcomid: \"6f1043b4-0\" } })],\n          1\n        )\n      ]),\n      _c(\"view\", { staticClass: \"uni-gap\" }),\n      _c(\"entrustOrderList\", { attrs: { mpcomid: \"6f1043b4-1\" } }),\n      _c(\n        \"uni-drawer\",\n        {\n          attrs: {\n            visible: _vm.drawerVisible,\n            mask: \"false\",\n            mode: \"left\",\n            eventid: \"6f1043b4-0\",\n            mpcomid: \"6f1043b4-2\"\n          },\n          on: { close: _vm.closeDrawer }\n        },\n        [\n          _c(\n            \"view\",\n            { staticClass: \"drawer\" },\n            [\n              _c(\n                \"scroll-view\",\n                {\n                  staticClass: \"uni-swiper-tab\",\n                  attrs: { \"scroll-x\": \"\", \"scroll-left\": _vm.scrollLeft }\n                },\n                [\n                  _c(\n                    \"view\",\n                    { staticClass: \"swiper-tab-list uni-bold\" },\n                    [_c(\"label\", [_vm._v(\"自选\")])],\n                    1\n                  ),\n                  _c(\n                    \"view\",\n                    { staticClass: \"swiper-tab-list uni-bold\" },\n                    [_c(\"label\", { staticClass: \"active\" }, [_vm._v(\"USDT\")])],\n                    1\n                  ),\n                  _c(\n                    \"view\",\n                    { staticClass: \"swiper-tab-list uni-bold\" },\n                    [_c(\"label\", [_vm._v(\"BTC\")])],\n                    1\n                  ),\n                  _c(\n                    \"view\",\n                    { staticClass: \"swiper-tab-list uni-bold\" },\n                    [_c(\"label\", [_vm._v(\"ETH\")])],\n                    1\n                  ),\n                  _c(\n                    \"view\",\n                    { staticClass: \"swiper-tab-list uni-bold\" },\n                    [_c(\"label\", [_vm._v(\"USD\")])],\n                    1\n                  )\n                ]\n              ),\n              _c(\n                \"view\",\n                { staticClass: \"uni-list\" },\n                [\n                  _c(\"block\", [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell\",\n                        attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                      },\n                      [\n                        _c(\"view\", { staticClass: \"uni-triplex-row\" }, [\n                          _c(\"view\", { staticClass: \"uni-triplex-left\" }, [\n                            _c(\n                              \"text\",\n                              { staticClass: \"uni-title uni-ellipsis\" },\n                              [_vm._v(\"BTC/USDT\")]\n                            )\n                          ]),\n                          _c(\"view\", { staticClass: \"uni-triplex-right\" }, [\n                            _c(\"text\", { staticClass: \"uni-h5 uni-up\" }, [\n                              _vm._v(\"5542.5\")\n                            ])\n                          ])\n                        ])\n                      ]\n                    )\n                  ]),\n                  _c(\"block\", [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell\",\n                        attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                      },\n                      [\n                        _c(\"view\", { staticClass: \"uni-triplex-row\" }, [\n                          _c(\"view\", { staticClass: \"uni-triplex-left\" }, [\n                            _c(\n                              \"text\",\n                              { staticClass: \"uni-title uni-ellipsis\" },\n                              [_vm._v(\"BTC/USDT\")]\n                            )\n                          ]),\n                          _c(\"view\", { staticClass: \"uni-triplex-right\" }, [\n                            _c(\"text\", { staticClass: \"uni-h5 uni-down\" }, [\n                              _vm._v(\"5542.5\")\n                            ])\n                          ])\n                        ])\n                      ]\n                    )\n                  ]),\n                  _c(\"block\", [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell\",\n                        attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                      },\n                      [\n                        _c(\"view\", { staticClass: \"uni-triplex-row\" }, [\n                          _c(\"view\", { staticClass: \"uni-triplex-left\" }, [\n                            _c(\n                              \"text\",\n                              { staticClass: \"uni-title uni-ellipsis\" },\n                              [_vm._v(\"BTC/USDT\")]\n                            )\n                          ]),\n                          _c(\"view\", { staticClass: \"uni-triplex-right\" }, [\n                            _c(\"text\", { staticClass: \"uni-h5 uni-down\" }, [\n                              _vm._v(\"5542.5\")\n                            ])\n                          ])\n                        ])\n                      ]\n                    )\n                  ]),\n                  _c(\"block\", [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell\",\n                        attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                      },\n                      [\n                        _c(\"view\", { staticClass: \"uni-triplex-row\" }, [\n                          _c(\"view\", { staticClass: \"uni-triplex-left\" }, [\n                            _c(\n                              \"text\",\n                              { staticClass: \"uni-title uni-ellipsis\" },\n                              [_vm._v(\"BTC/USDT\")]\n                            )\n                          ]),\n                          _c(\"view\", { staticClass: \"uni-triplex-right\" }, [\n                            _c(\"text\", { staticClass: \"uni-h5 uni-down\" }, [\n                              _vm._v(\"5542.5\")\n                            ])\n                          ])\n                        ])\n                      ]\n                    )\n                  ]),\n                  _c(\"block\", [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell\",\n                        attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                      },\n                      [\n                        _c(\"view\", { staticClass: \"uni-triplex-row\" }, [\n                          _c(\"view\", { staticClass: \"uni-triplex-left\" }, [\n                            _c(\n                              \"text\",\n                              { staticClass: \"uni-title uni-ellipsis\" },\n                              [_vm._v(\"BTC/USDT\")]\n                            )\n                          ]),\n                          _c(\"view\", { staticClass: \"uni-triplex-right\" }, [\n                            _c(\"text\", { staticClass: \"uni-h5 uni-down\" }, [\n                              _vm._v(\"5542.5\")\n                            ])\n                          ])\n                        ])\n                      ]\n                    )\n                  ])\n                ],\n                1\n              )\n            ],\n            1\n          )\n        ]\n      )\n    ],\n    1\n  )\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"tab\" }, [\n      _c(\"view\", { staticClass: \"buy uni-bg-up\" }, [_vm._v(\"买入\")]),\n      _c(\"view\", { staticClass: \"sell uni-bg-down normal\" }, [_vm._v(\"卖出\")]),\n      _c(\"view\", { staticClass: \"parallelogram\" })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"price-input uni-thinner-border\" }, [\n      _c(\"input\", {\n        staticClass: \"uni-input \",\n        attrs: { type: \"digit\", placeholder: \"\", value: \"521.052\" }\n      }),\n      _c(\"view\", { staticClass: \"opt uni-thinner-left-border\" }, [\n        _c(\"view\", { staticClass: \"button\" }, [_vm._v(\"-\")]),\n        _c(\"view\", { staticClass: \"button\" }, [_vm._v(\"+\")])\n      ])\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"num-input uni-thinner-border\" }, [\n      _c(\"input\", {\n        staticClass: \"uni-input\",\n        attrs: { type: \"digit\", placeholder: \"数量\" }\n      }),\n      _c(\"view\", { staticClass: \"opt\" })\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/trade/main.vue?vue&type=template&id=7b1e8e5a&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"view\", { staticClass: \"content\" }, [\n        _c(\n          \"view\",\n          { staticClass: \"trade\" },\n          [_c(\"tradePanel\", { attrs: { mpcomid: \"6f1043b4-0\" } })],\n          1\n        ),\n        _c(\n          \"view\",\n          { staticClass: \"position\" },\n          [_c(\"positionList\", { attrs: { mpcomid: \"6f1043b4-1\" } })],\n          1\n        )\n      ]),\n      _c(\"view\", { staticClass: \"uni-gap\" }),\n      _c(\"entrustOrderList\", { attrs: { mpcomid: \"6f1043b4-2\" } }),\n      _c(\n        \"uni-drawer\",\n        {\n          attrs: {\n            visible: _vm.drawerVisible,\n            mask: \"false\",\n            mode: \"left\",\n            eventid: \"6f1043b4-0\",\n            mpcomid: \"6f1043b4-4\"\n          },\n          on: { close: _vm.closeDrawer }\n        },\n        [\n          _c(\"marketDrawer\", {\n            attrs: {\n              areaList: _vm.areaList,\n              marketList: _vm.marketList,\n              mpcomid: \"6f1043b4-3\"\n            }\n          })\n        ],\n        1\n      )\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/trade/main.vue?vue&type=template&id=7b1e8e5a&scoped=true&");
 
 /***/ })
 

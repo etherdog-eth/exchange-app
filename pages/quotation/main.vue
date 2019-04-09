@@ -2,7 +2,7 @@
   <view class="container">
 		<uni-segmented-control :current="current" :values="items" v-on:clickItem="onClickItem" :styleType="styleType"
 		 :activeColor="activeColor"></uni-segmented-control>
-		<marketList :marketList="marketList"></marketList>	
+		<marketList :list="marketList"></marketList>	
   </view>
 </template>
 
@@ -10,7 +10,7 @@
 import { mapState, mapActions } from 'vuex'
 import {uniSegmentedControl} from '@dcloudio/uni-ui'
 
-import {marketList } from '../../components/marketList.vue'
+import marketList from '../../components/marketList.vue'
 
 export default {
 	data() {

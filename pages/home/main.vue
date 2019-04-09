@@ -1,23 +1,23 @@
 <template>
   <view class="container">
-    <homeSwiper :bannerList="bannerList"></homeSwiper>
-	<noticeSwiper :noticeList="noticeList"></noticeSwiper>
+    <homeSwiper :list="bannerList"></homeSwiper>
+	<noticeSwiper :list="noticeList"></noticeSwiper>
 	<view class="uni-divider"></view>
-	<recommentMarketList :recommentMarketList="recommentMarketList"></recommentMarketList>
+	<recommentMarketList :list="recommentMarketList"></recommentMarketList>
 	<view class="ad"><image mode="widthFix" src="../../static/img/ad.jpg"></image></view>
 	<view class="uni-h5 title uni-bold rank-title">涨幅榜</view>
 	<view class="uni-divider"></view>
-	<marketList :marketList="marketList"></marketList>	
+	<marketList :list="marketList"></marketList>	
 		
   </view>
 </template>
 
 <script>
 import { mapState, mapActions } from 'vuex'
-import {homeSwiper } from '../../components/homeSwiper.vue'
-import {noticeSwiper } from '../../components/noticeSwiper.vue'
-import {recommentMarketList } from '../../components/recommentMarketList.vue'
-import {marketList } from '../../components/marketList.vue'
+import homeSwiper  from '../../components/homeSwiper.vue'
+import noticeSwiper  from '../../components/noticeSwiper.vue'
+import recommentMarketList  from '../../components/recommentMarketList.vue'
+import marketList  from '../../components/marketList.vue'
 export default {
 	data() {
         return {

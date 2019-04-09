@@ -1,7 +1,7 @@
 <template>
 	<block>
 		<view class="uni-grid-9">
-			<view v-for="(item, index) in recommentMarketList" :key="index" class="uni-grid-9-item no-border-right recomment">
+			<view v-for="(item, index) in list_" :key="index" class="uni-grid-9-item no-border-right recomment" @click="onClick()">
 				<label class="uni-h7 uni-bold">{{item.symbol}}</label>
 				<label :class="item.change > 0 ? 'uni-h4 uni-up' : 'uni-h4 uni-down' ">{{item.price}}</label>
 				<label :class="item.change > 0 ? 'uni-h7 uni-up' : 'uni-h7 uni-down' ">{{item.change > 0 ? "+" : ""}}{{item.change}}%</label>
@@ -15,20 +15,26 @@
 <script>
 	export default {
 		data() {
-	        return {
-			}
-	    },
+			return {
+			};
+		},
 		props:{
-			recommentMarketList:{
+			list: {
 				type: Array,
-				default: function(){
-					return [];
+				default: () => {
+					return []
 				}
 			}
 		},
-		created() {
+		computed: {
+			list_(){
+				return this.list;
+			}
 		},
-		methods:{
+		methods: {
+			onClick(e) {
+				console.log("=====================================")
+			}
 		}
 	}
 </script>

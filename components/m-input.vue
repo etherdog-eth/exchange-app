@@ -125,5 +125,6 @@
 
 	.m-input-icon {
 		width: 20px;
+		margin-right: 20px;
 	}
 </style>

@@ -5,7 +5,10 @@
     "pages/trade/main",
     "pages/trade/kline/main",
     "pages/assets/main",
-    "pages/assets/detail/main"
+    "pages/assets/detail/main",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/pwd"
   ],
   "subPackages": [],
   "window": {

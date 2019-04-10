@@ -3,7 +3,28 @@
         {
             "path": "pages/home/main",
             "style": {
-                "navigationBarTitleText": "首页"
+                "navigationBarTitleText": "首页",
+				"app-plus": {  
+					"titleNView": {
+				        "tags": [{
+				                "tag" : "img",  
+								"src" : "/static/img/home-icon.png",  
+								"position" : {  
+									"left" : "10px",  
+									"top" : "8px",  
+									"width" : "26px",  
+									"height" : "26px"  
+								}  
+				            }
+				        ],
+						"buttons": [{
+						        "text": "",
+						        "fontSize": "15px",
+						        "float": "left"
+						    }
+						]
+				    }
+				}
             }
         },
         {
@@ -46,7 +67,23 @@
         {
             "path": "pages/assets/detail/main",
             "style": {
-                "navigationBarTitleText": ""
+                "navigationBarTitleText": "资产详情"
+            }
+        },
+		 {
+		    "path": "pages/login/login",
+		    "style": {
+		        "navigationBarTitleText": "登录"
+		    }
+		}, {
+            "path": "pages/reg/reg",
+            "style": {
+                "navigationBarTitleText": "注册"
+            }
+        }, {
+            "path": "pages/pwd/pwd",
+            "style": {
+                "navigationBarTitleText": "找回密码"
             }
         }
     ],

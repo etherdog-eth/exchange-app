@@ -106,20 +106,20 @@
             {
                 "pagePath": "pages/quotation/main",
                 "text": "行情",
-                "iconPath": "static/icon/read.png",
-                "selectedIconPath": "static/icon/read-active.png"
+                "iconPath": "static/icon/quotations.png",
+                "selectedIconPath": "static/icon/quotations-active.png"
             },
             {
                 "pagePath": "pages/trade/main",
                 "text": "交易",
-                "iconPath": "static/icon/movie.png",
-                "selectedIconPath": "static/icon/movie-active.png"
+                "iconPath": "static/icon/trade.png",
+                "selectedIconPath": "static/icon/trade-active.png"
             },
             {
                 "pagePath": "pages/assets/main",
                 "text": "资产",
-                "iconPath": "static/icon/daily.png",
-                "selectedIconPath": "static/icon/daily-active.png"
+                "iconPath": "static/icon/asset.png",
+                "selectedIconPath": "static/icon/asset-active.png"
             }
         ]
     }

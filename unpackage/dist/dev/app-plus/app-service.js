@@ -1509,7 +1509,7 @@ __WXML_GLOBAL__.ops_set.$gwx=z;
 __WXML_GLOBAL__.ops_init.$gwx=true;
 var nv_require=function(){var nnm={};var nom={};return function(n){return function(){if(!nnm[n]) return undefined;try{if(!nom[n])nom[n]=nnm[n]();return nom[n];}catch(e){e.message=e.message.replace(/nv_/g,'');var tmp = e.stack.substring(0,e.stack.lastIndexOf(n));e.stack = tmp.substring(0,tmp.lastIndexOf('\n'));e.stack = e.stack.replace(/\snv_/g,' ');e.stack = $gstack(e.stack);e.stack += '\n    at ' + n.substring(2);console.error(e);}
 }}}()
-var x=['./common/slots.wxml','/components/homeSwiper.vue.wxml','/components/noticeSwiper.vue.wxml','/components/recommentMarketList.vue.wxml','/components/marketList.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/components/settingDrawer.vue.wxml','/components/tradePanel.vue.wxml','/components/positionList.vue.wxml','/components/entrustOrderList.vue.wxml','/components/marketDrawer.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','./components/entrustOrderList.vue.wxml','./components/homeSwiper.vue.wxml','./components/m-icon/m-icon.vue.wxml','./components/m-input.vue.wxml','/components/m-icon/m-icon.vue.wxml','./components/marketDrawer.vue.wxml','./components/marketList.vue.wxml','./components/noticeSwiper.vue.wxml','./components/positionList.vue.wxml','./components/recommentMarketList.vue.wxml','./components/settingDrawer.vue.wxml','./components/tradePanel.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/common/slots.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/assets/detail/main.vue.wxml','./pages/assets/detail/main.wxml','./main.vue.wxml','./pages/assets/main.vue.wxml','./pages/assets/main.wxml','./pages/home/main.vue.wxml','./pages/home/main.wxml','./pages/login/login.vue.wxml','/components/m-input.vue.wxml','./pages/login/login.wxml','./login.vue.wxml','./pages/pwd/pwd.vue.wxml','./pages/pwd/pwd.wxml','./pwd.vue.wxml','./pages/quotation/main.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/quotation/main.wxml','./pages/reg/reg.vue.wxml','./pages/reg/reg.wxml','./reg.vue.wxml','./pages/trade/kline/main.vue.wxml','./pages/trade/kline/main.wxml','./pages/trade/main.vue.wxml','./pages/trade/main.wxml'];d_[x[0]]={}
+var x=['./common/slots.wxml','/components/homeSwiper.vue.wxml','/components/noticeSwiper.vue.wxml','/components/recommentMarketList.vue.wxml','/components/marketList.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/components/settingDrawer.vue.wxml','/components/tradePanel.vue.wxml','/components/positionList.vue.wxml','/components/entrustOrderList.vue.wxml','/components/marketDrawer.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','/components/m-input.vue.wxml','/components/m-icon/m-icon.vue.wxml','/common/slots.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./components/entrustOrderList.vue.wxml','./components/homeSwiper.vue.wxml','./components/m-icon/m-icon.vue.wxml','./components/m-input.vue.wxml','./components/marketDrawer.vue.wxml','./components/marketList.vue.wxml','./components/noticeSwiper.vue.wxml','./components/positionList.vue.wxml','./components/recommentMarketList.vue.wxml','./components/settingDrawer.vue.wxml','./components/tradePanel.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/assets/detail/main.vue.wxml','./pages/assets/detail/main.wxml','./main.vue.wxml','./pages/assets/main.vue.wxml','./pages/assets/main.wxml','./pages/home/main.vue.wxml','./pages/home/main.wxml','./pages/login/login.vue.wxml','./pages/login/login.wxml','./login.vue.wxml','./pages/pwd/pwd.vue.wxml','./pages/pwd/pwd.wxml','./pwd.vue.wxml','./pages/quotation/main.vue.wxml','./pages/quotation/main.wxml','./pages/reg/reg.vue.wxml','./pages/reg/reg.wxml','./reg.vue.wxml','./pages/trade/kline/main.vue.wxml','./pages/trade/kline/main.wxml','./pages/trade/main.vue.wxml','./pages/trade/main.wxml'];d_[x[0]]={}
 d_[x[0]]["5aa12eb9-default-5aa12eb9-5"]=function(e,s,r,gg){
 var z=gz$gwx_1()
 var b=x[0]+':5aa12eb9-default-5aa12eb9-5'
@@ -1520,7 +1520,7 @@ p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
-cs.push("./common/slots.wxml:template:15:47")
+cs.push("./common/slots.wxml:template:20:47")
 var xC=_oz(z,2,e,s,gg)
 var oD=_gd(x[0],xC,e_,d_)
 if(oD){
@@ -1530,7 +1530,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[0],15,118)
+else _w(xC,x[0],20,118)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -1549,7 +1549,7 @@ p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
-cs.push("./common/slots.wxml:template:17:54")
+cs.push("./common/slots.wxml:template:22:54")
 var xC=_oz(z,5,e,s,gg)
 var oD=_gd(x[0],xC,e_,d_)
 if(oD){
@@ -1559,7 +1559,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[0],17,125)
+else _w(xC,x[0],22,125)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -1578,7 +1578,7 @@ p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
-cs.push("./common/slots.wxml:template:19:142")
+cs.push("./common/slots.wxml:template:24:142")
 var xC=_oz(z,8,e,s,gg)
 var oD=_gd(x[0],xC,e_,d_)
 if(oD){
@@ -1588,7 +1588,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[0],19,272)
+else _w(xC,x[0],24,272)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -1605,12 +1605,12 @@ gg.f=$gdc(f_["./common/slots.wxml"],"",1)
 if(p_[b]){_wl(b,x[0]);return}
 p_[b]=true
 try{
-cs.push("./common/slots.wxml:view:21:47")
+cs.push("./common/slots.wxml:view:26:47")
 var oB=_n('view')
 _rz(z,oB,'class',12,e,s,gg)
 var xC=_v()
 _(oB,xC)
-cs.push("./common/slots.wxml:template:21:84")
+cs.push("./common/slots.wxml:template:26:84")
 var oD=_oz(z,14,e,s,gg)
 var fE=_gd(x[0],oD,e_,d_)
 if(fE){
@@ -1620,11 +1620,11 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[0],21,199)
+else _w(oD,x[0],26,199)
 cs.pop()
 var hG=_v()
 _(oB,hG)
-cs.push("./common/slots.wxml:template:21:222")
+cs.push("./common/slots.wxml:template:26:222")
 var oH=_oz(z,18,e,s,gg)
 var cI=_gd(x[0],oH,e_,d_)
 if(cI){
@@ -1634,11 +1634,11 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[0],21,337)
+else _w(oH,x[0],26,337)
 cs.pop()
 var lK=_v()
 _(oB,lK)
-cs.push("./common/slots.wxml:template:21:360")
+cs.push("./common/slots.wxml:template:26:360")
 var aL=_oz(z,22,e,s,gg)
 var tM=_gd(x[0],aL,e_,d_)
 if(tM){
@@ -1648,11 +1648,11 @@ lK.wxXCkey=3
 tM(eN,eN,lK,gg)
 gg.f=cur_globalf
 }
-else _w(aL,x[0],21,475)
+else _w(aL,x[0],26,475)
 cs.pop()
 var bO=_v()
 _(oB,bO)
-cs.push("./common/slots.wxml:template:21:498")
+cs.push("./common/slots.wxml:template:26:498")
 var oP=_oz(z,26,e,s,gg)
 var xQ=_gd(x[0],oP,e_,d_)
 if(xQ){
@@ -1662,11 +1662,11 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[0],21,613)
+else _w(oP,x[0],26,613)
 cs.pop()
 var fS=_v()
 _(oB,fS)
-cs.push("./common/slots.wxml:template:21:636")
+cs.push("./common/slots.wxml:template:26:636")
 var cT=_oz(z,30,e,s,gg)
 var hU=_gd(x[0],cT,e_,d_)
 if(hU){
@@ -1676,7 +1676,7 @@ fS.wxXCkey=3
 hU(oV,oV,fS,gg)
 gg.f=cur_globalf
 }
-else _w(cT,x[0],21,745)
+else _w(cT,x[0],26,745)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -1703,6 +1703,16 @@ _ai(oB,x[10],e_,x[0],10,2)
 _ai(oB,x[11],e_,x[0],11,2)
 _ai(oB,x[12],e_,x[0],12,2)
 _ai(oB,x[13],e_,x[0],13,2)
+_ai(oB,x[14],e_,x[0],14,2)
+_ai(oB,x[15],e_,x[0],15,2)
+_ai(oB,x[16],e_,x[0],16,2)
+_ai(oB,x[17],e_,x[0],17,2)
+_ai(oB,x[18],e_,x[0],18,2)
+oB.pop()
+oB.pop()
+oB.pop()
+oB.pop()
+oB.pop()
 oB.pop()
 oB.pop()
 oB.pop()
@@ -1718,14 +1728,14 @@ oB.pop()
 oB.pop()
 return r
 }
-e_[x[0]]={f:m0,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6],x[7],x[8],x[9],x[10],x[11],x[12],x[13]],ic:[]}
-d_[x[14]]={}
-d_[x[14]]["25c13231"]=function(e,s,r,gg){
+e_[x[0]]={f:m0,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6],x[7],x[8],x[9],x[10],x[11],x[12],x[13],x[14],x[15],x[16],x[17],x[18]],ic:[]}
+d_[x[19]]={}
+d_[x[19]]["25c13231"]=function(e,s,r,gg){
 var z=gz$gwx_2()
-var b=x[14]+':25c13231'
+var b=x[19]+':25c13231'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/entrustOrderList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[14]);return}
+if(p_[b]){_wl(b,x[19]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1739,14 +1749,14 @@ var m1=function(e,s,r,gg){
 var z=gz$gwx_2()
 return r
 }
-e_[x[14]]={f:m1,j:[],i:[],ti:[],ic:[]}
-d_[x[15]]={}
-d_[x[15]]["1b13b62a"]=function(e,s,r,gg){
+e_[x[19]]={f:m1,j:[],i:[],ti:[],ic:[]}
+d_[x[20]]={}
+d_[x[20]]["1b13b62a"]=function(e,s,r,gg){
 var z=gz$gwx_3()
-var b=x[15]+':1b13b62a'
+var b=x[20]+':1b13b62a'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/homeSwiper.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[15]);return}
+if(p_[b]){_wl(b,x[20]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1760,14 +1770,14 @@ var m2=function(e,s,r,gg){
 var z=gz$gwx_3()
 return r
 }
-e_[x[15]]={f:m2,j:[],i:[],ti:[],ic:[]}
-d_[x[16]]={}
-d_[x[16]]["7f60df9b"]=function(e,s,r,gg){
+e_[x[20]]={f:m2,j:[],i:[],ti:[],ic:[]}
+d_[x[21]]={}
+d_[x[21]]["7f60df9b"]=function(e,s,r,gg){
 var z=gz$gwx_4()
-var b=x[16]+':7f60df9b'
+var b=x[21]+':7f60df9b'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/m-icon/m-icon.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[16]);return}
+if(p_[b]){_wl(b,x[21]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1781,14 +1791,14 @@ var m3=function(e,s,r,gg){
 var z=gz$gwx_4()
 return r
 }
-e_[x[16]]={f:m3,j:[],i:[],ti:[],ic:[]}
-d_[x[17]]={}
-d_[x[17]]["2e8a4436"]=function(e,s,r,gg){
+e_[x[21]]={f:m3,j:[],i:[],ti:[],ic:[]}
+d_[x[22]]={}
+d_[x[22]]["2e8a4436"]=function(e,s,r,gg){
 var z=gz$gwx_5()
-var b=x[17]+':2e8a4436'
+var b=x[22]+':2e8a4436'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/m-input.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[17]);return}
+if(p_[b]){_wl(b,x[22]);return}
 p_[b]=true
 try{
 cs.push("./components/m-input.vue.wxml:view:1:78")
@@ -1802,7 +1812,7 @@ var fE=_v()
 _(xC,fE)
 cs.push("./components/m-input.vue.wxml:template:1:521")
 var cF=_oz(z,8,e,s,gg)
-var hG=_gd(x[17],cF,e_,d_)
+var hG=_gd(x[22],cF,e_,d_)
 if(hG){
 var oH=_1z(z,5,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -1810,7 +1820,7 @@ fE.wxXCkey=3
 hG(oH,oH,fE,gg)
 gg.f=cur_globalf
 }
-else _w(cF,x[17],1,706)
+else _w(cF,x[22],1,706)
 cs.pop()
 cs.pop()
 }
@@ -1822,7 +1832,7 @@ var cI=_v()
 _(oD,cI)
 cs.push("./components/m-input.vue.wxml:template:1:803")
 var oJ=_oz(z,16,e,s,gg)
-var lK=_gd(x[17],oJ,e_,d_)
+var lK=_gd(x[22],oJ,e_,d_)
 if(lK){
 var aL=_1z(z,13,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -1830,7 +1840,7 @@ cI.wxXCkey=3
 lK(aL,aL,cI,gg)
 gg.f=cur_globalf
 }
-else _w(oJ,x[17],1,970)
+else _w(oJ,x[22],1,970)
 cs.pop()
 cs.pop()
 }
@@ -1847,19 +1857,19 @@ return r
 }
 var m4=function(e,s,r,gg){
 var z=gz$gwx_5()
-var hG=e_[x[17]].i
-_ai(hG,x[18],e_,x[17],1,1)
+var hG=e_[x[22]].i
+_ai(hG,x[16],e_,x[22],1,1)
 hG.pop()
 return r
 }
-e_[x[17]]={f:m4,j:[],i:[],ti:[x[18]],ic:[]}
-d_[x[19]]={}
-d_[x[19]]["42cb03fe"]=function(e,s,r,gg){
+e_[x[22]]={f:m4,j:[],i:[],ti:[x[16]],ic:[]}
+d_[x[23]]={}
+d_[x[23]]["42cb03fe"]=function(e,s,r,gg){
 var z=gz$gwx_6()
-var b=x[19]+':42cb03fe'
+var b=x[23]+':42cb03fe'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/marketDrawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[19]);return}
+if(p_[b]){_wl(b,x[23]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1873,14 +1883,14 @@ var m5=function(e,s,r,gg){
 var z=gz$gwx_6()
 return r
 }
-e_[x[19]]={f:m5,j:[],i:[],ti:[],ic:[]}
-d_[x[20]]={}
-d_[x[20]]["011b8ca4"]=function(e,s,r,gg){
+e_[x[23]]={f:m5,j:[],i:[],ti:[],ic:[]}
+d_[x[24]]={}
+d_[x[24]]["011b8ca4"]=function(e,s,r,gg){
 var z=gz$gwx_7()
-var b=x[20]+':011b8ca4'
+var b=x[24]+':011b8ca4'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/marketList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[20]);return}
+if(p_[b]){_wl(b,x[24]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1894,14 +1904,14 @@ var m6=function(e,s,r,gg){
 var z=gz$gwx_7()
 return r
 }
-e_[x[20]]={f:m6,j:[],i:[],ti:[],ic:[]}
-d_[x[21]]={}
-d_[x[21]]["090a69b8"]=function(e,s,r,gg){
+e_[x[24]]={f:m6,j:[],i:[],ti:[],ic:[]}
+d_[x[25]]={}
+d_[x[25]]["090a69b8"]=function(e,s,r,gg){
 var z=gz$gwx_8()
-var b=x[21]+':090a69b8'
+var b=x[25]+':090a69b8'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/noticeSwiper.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[21]);return}
+if(p_[b]){_wl(b,x[25]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1915,14 +1925,14 @@ var m7=function(e,s,r,gg){
 var z=gz$gwx_8()
 return r
 }
-e_[x[21]]={f:m7,j:[],i:[],ti:[],ic:[]}
-d_[x[22]]={}
-d_[x[22]]["0145b9ca"]=function(e,s,r,gg){
+e_[x[25]]={f:m7,j:[],i:[],ti:[],ic:[]}
+d_[x[26]]={}
+d_[x[26]]["0145b9ca"]=function(e,s,r,gg){
 var z=gz$gwx_9()
-var b=x[22]+':0145b9ca'
+var b=x[26]+':0145b9ca'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/positionList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[22]);return}
+if(p_[b]){_wl(b,x[26]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1936,14 +1946,14 @@ var m8=function(e,s,r,gg){
 var z=gz$gwx_9()
 return r
 }
-e_[x[22]]={f:m8,j:[],i:[],ti:[],ic:[]}
-d_[x[23]]={}
-d_[x[23]]["37e9e4b2"]=function(e,s,r,gg){
+e_[x[26]]={f:m8,j:[],i:[],ti:[],ic:[]}
+d_[x[27]]={}
+d_[x[27]]["37e9e4b2"]=function(e,s,r,gg){
 var z=gz$gwx_10()
-var b=x[23]+':37e9e4b2'
+var b=x[27]+':37e9e4b2'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/recommentMarketList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[23]);return}
+if(p_[b]){_wl(b,x[27]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1957,14 +1967,14 @@ var m9=function(e,s,r,gg){
 var z=gz$gwx_10()
 return r
 }
-e_[x[23]]={f:m9,j:[],i:[],ti:[],ic:[]}
-d_[x[24]]={}
-d_[x[24]]["3a980c2d"]=function(e,s,r,gg){
+e_[x[27]]={f:m9,j:[],i:[],ti:[],ic:[]}
+d_[x[28]]={}
+d_[x[28]]["3a980c2d"]=function(e,s,r,gg){
 var z=gz$gwx_11()
-var b=x[24]+':3a980c2d'
+var b=x[28]+':3a980c2d'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/settingDrawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[24]);return}
+if(p_[b]){_wl(b,x[28]);return}
 p_[b]=true
 try{
 cs.push("./components/settingDrawer.vue.wxml:block:1:271")
@@ -1972,7 +1982,7 @@ var oB=_v()
 _(r,oB)
 cs.push("./components/settingDrawer.vue.wxml:template:1:278")
 var xC=_oz(z,2,e,s,gg)
-var oD=_gd(x[24],xC,e_,d_)
+var oD=_gd(x[28],xC,e_,d_)
 if(oD){
 var fE=_1z(z,1,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -1980,7 +1990,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[24],1,393)
+else _w(xC,x[28],1,393)
 cs.pop()
 cs.push("./components/settingDrawer.vue.wxml:view:1:416")
 var cF=_n('view')
@@ -1989,7 +1999,7 @@ var hG=_v()
 _(cF,hG)
 cs.push("./components/settingDrawer.vue.wxml:template:1:488")
 var oH=_oz(z,5,e,s,gg)
-var cI=_gd(x[24],oH,e_,d_)
+var cI=_gd(x[28],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,4,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -1997,13 +2007,13 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[24],1,581)
+else _w(oH,x[28],1,581)
 cs.pop()
 var lK=_v()
 _(cF,lK)
 cs.push("./components/settingDrawer.vue.wxml:template:1:718")
 var aL=_oz(z,9,e,s,gg)
-var tM=_gd(x[24],aL,e_,d_)
+var tM=_gd(x[28],aL,e_,d_)
 if(tM){
 var eN=_1z(z,8,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2011,7 +2021,7 @@ lK.wxXCkey=3
 tM(eN,eN,lK,gg)
 gg.f=cur_globalf
 }
-else _w(aL,x[24],1,811)
+else _w(aL,x[28],1,811)
 cs.pop()
 cs.pop()
 _(r,cF)
@@ -2019,7 +2029,7 @@ var bO=_v()
 _(r,bO)
 cs.push("./components/settingDrawer.vue.wxml:template:1:921")
 var oP=_oz(z,13,e,s,gg)
-var xQ=_gd(x[24],oP,e_,d_)
+var xQ=_gd(x[28],oP,e_,d_)
 if(xQ){
 var oR=_1z(z,12,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2027,7 +2037,7 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[24],1,1036)
+else _w(oP,x[28],1,1036)
 cs.pop()
 cs.pop()
 }catch(err){
@@ -2039,23 +2049,23 @@ return r
 }
 var m10=function(e,s,r,gg){
 var z=gz$gwx_11()
-var eN=e_[x[24]].i
-_ai(eN,x[11],e_,x[24],1,1)
-_ai(eN,x[12],e_,x[24],1,79)
-_ai(eN,x[13],e_,x[24],1,167)
+var eN=e_[x[28]].i
+_ai(eN,x[11],e_,x[28],1,1)
+_ai(eN,x[12],e_,x[28],1,79)
+_ai(eN,x[13],e_,x[28],1,167)
 eN.pop()
 eN.pop()
 eN.pop()
 return r
 }
-e_[x[24]]={f:m10,j:[],i:[],ti:[x[11],x[12],x[13]],ic:[]}
-d_[x[25]]={}
-d_[x[25]]["2bce65b4"]=function(e,s,r,gg){
+e_[x[28]]={f:m10,j:[],i:[],ti:[x[11],x[12],x[13]],ic:[]}
+d_[x[29]]={}
+d_[x[29]]["2bce65b4"]=function(e,s,r,gg){
 var z=gz$gwx_12()
-var b=x[25]+':2bce65b4'
+var b=x[29]+':2bce65b4'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/tradePanel.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[25]);return}
+if(p_[b]){_wl(b,x[29]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2069,14 +2079,14 @@ var m11=function(e,s,r,gg){
 var z=gz$gwx_12()
 return r
 }
-e_[x[25]]={f:m11,j:[],i:[],ti:[],ic:[]}
-d_[x[26]]={}
-d_[x[26]]["5264740d"]=function(e,s,r,gg){
+e_[x[29]]={f:m11,j:[],i:[],ti:[],ic:[]}
+d_[x[30]]={}
+d_[x[30]]["5264740d"]=function(e,s,r,gg){
 var z=gz$gwx_13()
-var b=x[26]+':5264740d'
+var b=x[30]+':5264740d'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[26]);return}
+if(p_[b]){_wl(b,x[30]);return}
 p_[b]=true
 try{
 var oB=_v()
@@ -2097,14 +2107,14 @@ var m12=function(e,s,r,gg){
 var z=gz$gwx_13()
 return r
 }
-e_[x[26]]={f:m12,j:[],i:[],ti:[],ic:[]}
-d_[x[27]]={}
-d_[x[27]]["42b0ca7f"]=function(e,s,r,gg){
+e_[x[30]]={f:m12,j:[],i:[],ti:[],ic:[]}
+d_[x[31]]={}
+d_[x[31]]["42b0ca7f"]=function(e,s,r,gg){
 var z=gz$gwx_14()
-var b=x[27]+':42b0ca7f'
+var b=x[31]+':42b0ca7f'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[27]);return}
+if(p_[b]){_wl(b,x[31]);return}
 p_[b]=true
 try{
 var oB=_v()
@@ -2117,7 +2127,7 @@ var oD=_v()
 _(xC,oD)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:template:1:505")
 var fE=_oz(z,8,e,s,gg)
-var cF=_gd(x[27],fE,e_,d_)
+var cF=_gd(x[31],fE,e_,d_)
 if(cF){
 var hG=_1z(z,7,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2125,7 +2135,7 @@ oD.wxXCkey=3
 cF(hG,hG,oD,gg)
 gg.f=cur_globalf
 }
-else _w(fE,x[27],1,563)
+else _w(fE,x[31],1,563)
 cs.pop()
 cs.pop()
 _(oB,xC)
@@ -2139,12 +2149,12 @@ throw err
 p_[b]=false
 return r
 }
-d_[x[27]]["default"]=function(e,s,r,gg){
+d_[x[31]]["default"]=function(e,s,r,gg){
 var z=gz$gwx_14()
-var b=x[27]+':default'
+var b=x[31]+':default'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[27]);return}
+if(p_[b]){_wl(b,x[31]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2156,19 +2166,19 @@ return r
 }
 var m13=function(e,s,r,gg){
 var z=gz$gwx_14()
-var oR=e_[x[27]].i
-_ai(oR,x[28],e_,x[27],1,1)
+var oR=e_[x[31]].i
+_ai(oR,x[17],e_,x[31],1,1)
 oR.pop()
 return r
 }
-e_[x[27]]={f:m13,j:[],i:[],ti:[x[28]],ic:[]}
-d_[x[29]]={}
-d_[x[29]]["6d4d6fbf"]=function(e,s,r,gg){
+e_[x[31]]={f:m13,j:[],i:[],ti:[x[17]],ic:[]}
+d_[x[32]]={}
+d_[x[32]]["6d4d6fbf"]=function(e,s,r,gg){
 var z=gz$gwx_15()
-var b=x[29]+':6d4d6fbf'
+var b=x[32]+':6d4d6fbf'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[29]);return}
+if(p_[b]){_wl(b,x[32]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2182,14 +2192,14 @@ var m14=function(e,s,r,gg){
 var z=gz$gwx_15()
 return r
 }
-e_[x[29]]={f:m14,j:[],i:[],ti:[],ic:[]}
-d_[x[30]]={}
-d_[x[30]]["277429cb"]=function(e,s,r,gg){
+e_[x[32]]={f:m14,j:[],i:[],ti:[],ic:[]}
+d_[x[33]]={}
+d_[x[33]]["277429cb"]=function(e,s,r,gg){
 var z=gz$gwx_16()
-var b=x[30]+':277429cb'
+var b=x[33]+':277429cb'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[30]);return}
+if(p_[b]){_wl(b,x[33]);return}
 p_[b]=true
 try{
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:view:1:185")
@@ -2209,7 +2219,7 @@ var hG=_v()
 _(oD,hG)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:template:1:841")
 var oH=_oz(z,10,e,s,gg)
-var cI=_gd(x[30],oH,e_,d_)
+var cI=_gd(x[33],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,9,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2217,7 +2227,7 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[30],1,912)
+else _w(oH,x[33],1,912)
 cs.pop()
 cs.pop()
 }
@@ -2242,7 +2252,7 @@ var bO=_v()
 _(aL,bO)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:template:1:1361")
 var oP=_oz(z,16,e,s,gg)
-var xQ=_gd(x[30],oP,e_,d_)
+var xQ=_gd(x[33],oP,e_,d_)
 if(xQ){
 var oR=_1z(z,15,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2250,7 +2260,7 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[30],1,1487)
+else _w(oP,x[33],1,1487)
 cs.pop()
 cs.pop()
 }
@@ -2268,7 +2278,7 @@ var fS=_v()
 _(eN,fS)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:template:1:1732")
 var cT=_oz(z,21,e,s,gg)
-var hU=_gd(x[30],cT,e_,d_)
+var hU=_gd(x[33],cT,e_,d_)
 if(hU){
 var oV=_1z(z,20,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2276,7 +2286,7 @@ fS.wxXCkey=3
 hU(oV,oV,fS,gg)
 gg.f=cur_globalf
 }
-else _w(cT,x[30],1,1899)
+else _w(cT,x[33],1,1899)
 cs.pop()
 cs.pop()
 }
@@ -2303,21 +2313,21 @@ return r
 }
 var m15=function(e,s,r,gg){
 var z=gz$gwx_16()
-var hU=e_[x[30]].i
-_ai(hU,x[13],e_,x[30],1,1)
-_ai(hU,x[31],e_,x[30],1,79)
+var hU=e_[x[33]].i
+_ai(hU,x[13],e_,x[33],1,1)
+_ai(hU,x[18],e_,x[33],1,79)
 hU.pop()
 hU.pop()
 return r
 }
-e_[x[30]]={f:m15,j:[],i:[],ti:[x[13],x[31]],ic:[]}
-d_[x[32]]={}
-d_[x[32]]["744d495f"]=function(e,s,r,gg){
+e_[x[33]]={f:m15,j:[],i:[],ti:[x[13],x[18]],ic:[]}
+d_[x[34]]={}
+d_[x[34]]["744d495f"]=function(e,s,r,gg){
 var z=gz$gwx_17()
-var b=x[32]+':744d495f'
+var b=x[34]+':744d495f'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[32]);return}
+if(p_[b]){_wl(b,x[34]);return}
 p_[b]=true
 try{
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml:view:1:62")
@@ -2327,7 +2337,7 @@ var xC=_v()
 _(oB,xC)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml:template:1:136")
 var oD=_oz(z,4,e,s,gg)
-var fE=_gd(x[32],oD,e_,d_)
+var fE=_gd(x[34],oD,e_,d_)
 if(fE){
 var cF=_1z(z,3,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2335,7 +2345,7 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[32],1,194)
+else _w(oD,x[34],1,194)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -2346,12 +2356,12 @@ throw err
 p_[b]=false
 return r
 }
-d_[x[32]]["default"]=function(e,s,r,gg){
+d_[x[34]]["default"]=function(e,s,r,gg){
 var z=gz$gwx_17()
-var b=x[32]+':default'
+var b=x[34]+':default'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[32]);return}
+if(p_[b]){_wl(b,x[34]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2363,19 +2373,19 @@ return r
 }
 var m16=function(e,s,r,gg){
 var z=gz$gwx_17()
-var cW=e_[x[32]].i
-_ai(cW,x[28],e_,x[32],1,1)
+var cW=e_[x[34]].i
+_ai(cW,x[17],e_,x[34],1,1)
 cW.pop()
 return r
 }
-e_[x[32]]={f:m16,j:[],i:[],ti:[x[28]],ic:[]}
-d_[x[33]]={}
-d_[x[33]]["3806434b"]=function(e,s,r,gg){
+e_[x[34]]={f:m16,j:[],i:[],ti:[x[17]],ic:[]}
+d_[x[35]]={}
+d_[x[35]]["3806434b"]=function(e,s,r,gg){
 var z=gz$gwx_18()
-var b=x[33]+':3806434b'
+var b=x[35]+':3806434b'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[33]);return}
+if(p_[b]){_wl(b,x[35]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2389,14 +2399,14 @@ var m17=function(e,s,r,gg){
 var z=gz$gwx_18()
 return r
 }
-e_[x[33]]={f:m17,j:[],i:[],ti:[],ic:[]}
-d_[x[34]]={}
-d_[x[34]]["62ecdc5b"]=function(e,s,r,gg){
+e_[x[35]]={f:m17,j:[],i:[],ti:[],ic:[]}
+d_[x[36]]={}
+d_[x[36]]["62ecdc5b"]=function(e,s,r,gg){
 var z=gz$gwx_19()
-var b=x[34]+':62ecdc5b'
+var b=x[36]+':62ecdc5b'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/assets/detail/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[34]);return}
+if(p_[b]){_wl(b,x[36]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2410,17 +2420,17 @@ var m18=function(e,s,r,gg){
 var z=gz$gwx_19()
 return r
 }
-e_[x[34]]={f:m18,j:[],i:[],ti:[],ic:[]}
-d_[x[35]]={}
+e_[x[36]]={f:m18,j:[],i:[],ti:[],ic:[]}
+d_[x[37]]={}
 var m19=function(e,s,r,gg){
 var z=gz$gwx_20()
-var t1=e_[x[35]].i
-_ai(t1,x[36],e_,x[35],1,1)
+var t1=e_[x[37]].i
+_ai(t1,x[38],e_,x[37],1,1)
 var e2=_v()
 _(r,e2)
 cs.push("./pages/assets/detail/main.wxml:template:2:6")
 var b3=_oz(z,1,e,s,gg)
-var o4=_gd(x[35],b3,e_,d_)
+var o4=_gd(x[37],b3,e_,d_)
 if(o4){
 var x5=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2428,19 +2438,19 @@ e2.wxXCkey=3
 o4(x5,x5,e2,gg)
 gg.f=cur_globalf
 }
-else _w(b3,x[35],2,18)
+else _w(b3,x[37],2,18)
 cs.pop()
 t1.pop()
 return r
 }
-e_[x[35]]={f:m19,j:[],i:[],ti:[x[36]],ic:[]}
-d_[x[37]]={}
-d_[x[37]]["8dc7fad6"]=function(e,s,r,gg){
+e_[x[37]]={f:m19,j:[],i:[],ti:[x[38]],ic:[]}
+d_[x[39]]={}
+d_[x[39]]["8dc7fad6"]=function(e,s,r,gg){
 var z=gz$gwx_21()
-var b=x[37]+':8dc7fad6'
+var b=x[39]+':8dc7fad6'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/assets/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[37]);return}
+if(p_[b]){_wl(b,x[39]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2454,17 +2464,17 @@ var m20=function(e,s,r,gg){
 var z=gz$gwx_21()
 return r
 }
-e_[x[37]]={f:m20,j:[],i:[],ti:[],ic:[]}
-d_[x[38]]={}
+e_[x[39]]={f:m20,j:[],i:[],ti:[],ic:[]}
+d_[x[40]]={}
 var m21=function(e,s,r,gg){
 var z=gz$gwx_22()
-var c8=e_[x[38]].i
-_ai(c8,x[36],e_,x[38],1,1)
+var c8=e_[x[40]].i
+_ai(c8,x[38],e_,x[40],1,1)
 var h9=_v()
 _(r,h9)
 cs.push("./pages/assets/main.wxml:template:2:6")
 var o0=_oz(z,1,e,s,gg)
-var cAB=_gd(x[38],o0,e_,d_)
+var cAB=_gd(x[40],o0,e_,d_)
 if(cAB){
 var oBB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2472,19 +2482,19 @@ h9.wxXCkey=3
 cAB(oBB,oBB,h9,gg)
 gg.f=cur_globalf
 }
-else _w(o0,x[38],2,18)
+else _w(o0,x[40],2,18)
 cs.pop()
 c8.pop()
 return r
 }
-e_[x[38]]={f:m21,j:[],i:[],ti:[x[36]],ic:[]}
-d_[x[39]]={}
-d_[x[39]]["5aa12eb9"]=function(e,s,r,gg){
+e_[x[40]]={f:m21,j:[],i:[],ti:[x[38]],ic:[]}
+d_[x[41]]={}
+d_[x[41]]["5aa12eb9"]=function(e,s,r,gg){
 var z=gz$gwx_23()
-var b=x[39]+':5aa12eb9'
+var b=x[41]+':5aa12eb9'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/home/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[39]);return}
+if(p_[b]){_wl(b,x[41]);return}
 p_[b]=true
 try{
 cs.push("./pages/home/main.vue.wxml:view:1:363")
@@ -2494,7 +2504,7 @@ var xC=_v()
 _(oB,xC)
 cs.push("./pages/home/main.vue.wxml:template:1:402")
 var oD=_oz(z,3,e,s,gg)
-var fE=_gd(x[39],oD,e_,d_)
+var fE=_gd(x[41],oD,e_,d_)
 if(fE){
 var cF=_1z(z,2,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2502,13 +2512,13 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[39],1,473)
+else _w(oD,x[41],1,473)
 cs.pop()
 var hG=_v()
 _(oB,hG)
 cs.push("./pages/home/main.vue.wxml:template:1:496")
 var oH=_oz(z,5,e,s,gg)
-var cI=_gd(x[39],oH,e_,d_)
+var cI=_gd(x[41],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,4,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2516,13 +2526,13 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[39],1,567)
+else _w(oH,x[41],1,567)
 cs.pop()
 var lK=_v()
 _(oB,lK)
 cs.push("./pages/home/main.vue.wxml:template:1:638")
 var aL=_oz(z,7,e,s,gg)
-var tM=_gd(x[39],aL,e_,d_)
+var tM=_gd(x[41],aL,e_,d_)
 if(tM){
 var eN=_1z(z,6,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2530,13 +2540,13 @@ lK.wxXCkey=3
 tM(eN,eN,lK,gg)
 gg.f=cur_globalf
 }
-else _w(aL,x[39],1,709)
+else _w(aL,x[41],1,709)
 cs.pop()
 var bO=_v()
 _(oB,bO)
 cs.push("./pages/home/main.vue.wxml:template:1:982")
 var oP=_oz(z,9,e,s,gg)
-var xQ=_gd(x[39],oP,e_,d_)
+var xQ=_gd(x[41],oP,e_,d_)
 if(xQ){
 var oR=_1z(z,8,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2544,13 +2554,13 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[39],1,1053)
+else _w(oP,x[41],1,1053)
 cs.pop()
 var fS=_v()
 _(oB,fS)
 cs.push("./pages/home/main.vue.wxml:template:1:1076")
 var cT=_oz(z,14,e,s,gg)
-var hU=_gd(x[39],cT,e_,d_)
+var hU=_gd(x[41],cT,e_,d_)
 if(hU){
 var oV=_1z(z,11,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2558,7 +2568,7 @@ fS.wxXCkey=3
 hU(oV,oV,fS,gg)
 gg.f=cur_globalf
 }
-else _w(cT,x[39],1,1293)
+else _w(cT,x[41],1,1293)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -2571,13 +2581,13 @@ return r
 }
 var m22=function(e,s,r,gg){
 var z=gz$gwx_23()
-var aDB=e_[x[39]].i
-_ai(aDB,x[1],e_,x[39],1,1)
-_ai(aDB,x[2],e_,x[39],1,49)
-_ai(aDB,x[3],e_,x[39],1,99)
-_ai(aDB,x[4],e_,x[39],1,156)
-_ai(aDB,x[5],e_,x[39],1,204)
-_ai(aDB,x[6],e_,x[39],1,286)
+var aDB=e_[x[41]].i
+_ai(aDB,x[1],e_,x[41],1,1)
+_ai(aDB,x[2],e_,x[41],1,49)
+_ai(aDB,x[3],e_,x[41],1,99)
+_ai(aDB,x[4],e_,x[41],1,156)
+_ai(aDB,x[5],e_,x[41],1,204)
+_ai(aDB,x[6],e_,x[41],1,286)
 aDB.pop()
 aDB.pop()
 aDB.pop()
@@ -2586,17 +2596,17 @@ aDB.pop()
 aDB.pop()
 return r
 }
-e_[x[39]]={f:m22,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6]],ic:[]}
-d_[x[40]]={}
+e_[x[41]]={f:m22,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6]],ic:[]}
+d_[x[42]]={}
 var m23=function(e,s,r,gg){
 var z=gz$gwx_24()
-var eFB=e_[x[40]].i
-_ai(eFB,x[36],e_,x[40],1,1)
+var eFB=e_[x[42]].i
+_ai(eFB,x[38],e_,x[42],1,1)
 var bGB=_v()
 _(r,bGB)
 cs.push("./pages/home/main.wxml:template:2:6")
 var oHB=_oz(z,1,e,s,gg)
-var xIB=_gd(x[40],oHB,e_,d_)
+var xIB=_gd(x[42],oHB,e_,d_)
 if(xIB){
 var oJB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2604,19 +2614,19 @@ bGB.wxXCkey=3
 xIB(oJB,oJB,bGB,gg)
 gg.f=cur_globalf
 }
-else _w(oHB,x[40],2,18)
+else _w(oHB,x[42],2,18)
 cs.pop()
 eFB.pop()
 return r
 }
-e_[x[40]]={f:m23,j:[],i:[],ti:[x[36]],ic:[]}
-d_[x[41]]={}
-d_[x[41]]["4c071713"]=function(e,s,r,gg){
+e_[x[42]]={f:m23,j:[],i:[],ti:[x[38]],ic:[]}
+d_[x[43]]={}
+d_[x[43]]["4c071713"]=function(e,s,r,gg){
 var z=gz$gwx_25()
-var b=x[41]+':4c071713'
+var b=x[43]+':4c071713'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/login/login.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[41]);return}
+if(p_[b]){_wl(b,x[43]);return}
 p_[b]=true
 try{
 cs.push("./pages/login/login.vue.wxml:view:1:111")
@@ -2629,7 +2639,7 @@ var fE=_v()
 _(oD,fE)
 cs.push("./pages/login/login.vue.wxml:template:1:286")
 var cF=_oz(z,7,e,s,gg)
-var hG=_gd(x[41],cF,e_,d_)
+var hG=_gd(x[43],cF,e_,d_)
 if(hG){
 var oH=_1z(z,4,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2637,13 +2647,13 @@ fE.wxXCkey=3
 hG(oH,oH,fE,gg)
 gg.f=cur_globalf
 }
-else _w(cF,x[41],1,513)
+else _w(cF,x[43],1,513)
 cs.pop()
 var cI=_v()
 _(oD,cI)
 cs.push("./pages/login/login.vue.wxml:template:1:633")
 var oJ=_oz(z,15,e,s,gg)
-var lK=_gd(x[41],oJ,e_,d_)
+var lK=_gd(x[43],oJ,e_,d_)
 if(lK){
 var aL=_1z(z,12,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2651,7 +2661,7 @@ cI.wxXCkey=3
 lK(aL,aL,cI,gg)
 gg.f=cur_globalf
 }
-else _w(oJ,x[41],1,861)
+else _w(oJ,x[43],1,861)
 cs.pop()
 cs.pop()
 _(oB,oD)
@@ -2673,22 +2683,22 @@ return r
 }
 var m24=function(e,s,r,gg){
 var z=gz$gwx_25()
-var cLB=e_[x[41]].i
-_ai(cLB,x[42],e_,x[41],1,1)
+var cLB=e_[x[43]].i
+_ai(cLB,x[15],e_,x[43],1,1)
 cLB.pop()
 return r
 }
-e_[x[41]]={f:m24,j:[],i:[],ti:[x[42]],ic:[]}
-d_[x[43]]={}
+e_[x[43]]={f:m24,j:[],i:[],ti:[x[15]],ic:[]}
+d_[x[44]]={}
 var m25=function(e,s,r,gg){
 var z=gz$gwx_26()
-var oNB=e_[x[43]].i
-_ai(oNB,x[44],e_,x[43],1,1)
+var oNB=e_[x[44]].i
+_ai(oNB,x[45],e_,x[44],1,1)
 var cOB=_v()
 _(r,cOB)
 cs.push("./pages/login/login.wxml:template:2:6")
 var oPB=_oz(z,1,e,s,gg)
-var lQB=_gd(x[43],oPB,e_,d_)
+var lQB=_gd(x[44],oPB,e_,d_)
 if(lQB){
 var aRB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2696,26 +2706,26 @@ cOB.wxXCkey=3
 lQB(aRB,aRB,cOB,gg)
 gg.f=cur_globalf
 }
-else _w(oPB,x[43],2,18)
+else _w(oPB,x[44],2,18)
 cs.pop()
 oNB.pop()
 return r
 }
-e_[x[43]]={f:m25,j:[],i:[],ti:[x[44]],ic:[]}
-d_[x[45]]={}
-d_[x[45]]["13b2a98a"]=function(e,s,r,gg){
+e_[x[44]]={f:m25,j:[],i:[],ti:[x[45]],ic:[]}
+d_[x[46]]={}
+d_[x[46]]["13b2a98a"]=function(e,s,r,gg){
 var z=gz$gwx_27()
-var b=x[45]+':13b2a98a'
+var b=x[46]+':13b2a98a'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/pwd/pwd.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[45]);return}
+if(p_[b]){_wl(b,x[46]);return}
 p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
 cs.push("./pages/pwd/pwd.vue.wxml:template:1:240")
 var xC=_oz(z,5,e,s,gg)
-var oD=_gd(x[45],xC,e_,d_)
+var oD=_gd(x[46],xC,e_,d_)
 if(oD){
 var fE=_1z(z,2,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2723,7 +2733,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[45],1,465)
+else _w(xC,x[46],1,465)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -2734,22 +2744,22 @@ return r
 }
 var m26=function(e,s,r,gg){
 var z=gz$gwx_27()
-var eTB=e_[x[45]].i
-_ai(eTB,x[42],e_,x[45],1,1)
+var eTB=e_[x[46]].i
+_ai(eTB,x[15],e_,x[46],1,1)
 eTB.pop()
 return r
 }
-e_[x[45]]={f:m26,j:[],i:[],ti:[x[42]],ic:[]}
-d_[x[46]]={}
+e_[x[46]]={f:m26,j:[],i:[],ti:[x[15]],ic:[]}
+d_[x[47]]={}
 var m27=function(e,s,r,gg){
 var z=gz$gwx_28()
-var oVB=e_[x[46]].i
-_ai(oVB,x[47],e_,x[46],1,1)
+var oVB=e_[x[47]].i
+_ai(oVB,x[48],e_,x[47],1,1)
 var xWB=_v()
 _(r,xWB)
 cs.push("./pages/pwd/pwd.wxml:template:2:6")
 var oXB=_oz(z,1,e,s,gg)
-var fYB=_gd(x[46],oXB,e_,d_)
+var fYB=_gd(x[47],oXB,e_,d_)
 if(fYB){
 var cZB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2757,19 +2767,19 @@ xWB.wxXCkey=3
 fYB(cZB,cZB,xWB,gg)
 gg.f=cur_globalf
 }
-else _w(oXB,x[46],2,18)
+else _w(oXB,x[47],2,18)
 cs.pop()
 oVB.pop()
 return r
 }
-e_[x[46]]={f:m27,j:[],i:[],ti:[x[47]],ic:[]}
-d_[x[48]]={}
-d_[x[48]]["70b3608c"]=function(e,s,r,gg){
+e_[x[47]]={f:m27,j:[],i:[],ti:[x[48]],ic:[]}
+d_[x[49]]={}
+d_[x[49]]["70b3608c"]=function(e,s,r,gg){
 var z=gz$gwx_29()
-var b=x[48]+':70b3608c'
+var b=x[49]+':70b3608c'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/quotation/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[48]);return}
+if(p_[b]){_wl(b,x[49]);return}
 p_[b]=true
 try{
 cs.push("./pages/quotation/main.vue.wxml:view:1:179")
@@ -2779,7 +2789,7 @@ var xC=_v()
 _(oB,xC)
 cs.push("./pages/quotation/main.vue.wxml:template:1:225")
 var oD=_oz(z,6,e,s,gg)
-var fE=_gd(x[48],oD,e_,d_)
+var fE=_gd(x[49],oD,e_,d_)
 if(fE){
 var cF=_1z(z,3,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2787,13 +2797,13 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[48],1,377)
+else _w(oD,x[49],1,377)
 cs.pop()
 var hG=_v()
 _(oB,hG)
 cs.push("./pages/quotation/main.vue.wxml:template:1:400")
 var oH=_oz(z,8,e,s,gg)
-var cI=_gd(x[48],oH,e_,d_)
+var cI=_gd(x[49],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,7,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2801,7 +2811,7 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[48],1,471)
+else _w(oH,x[49],1,471)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -2814,19 +2824,19 @@ return r
 }
 var m28=function(e,s,r,gg){
 var z=gz$gwx_29()
-var o2B=e_[x[48]].i
-_ai(o2B,x[49],e_,x[48],1,1)
-_ai(o2B,x[4],e_,x[48],1,105)
+var o2B=e_[x[49]].i
+_ai(o2B,x[14],e_,x[49],1,1)
+_ai(o2B,x[4],e_,x[49],1,105)
 o2B.pop()
 o2B.pop()
 return r
 }
-e_[x[48]]={f:m28,j:[],i:[],ti:[x[49],x[4]],ic:[]}
+e_[x[49]]={f:m28,j:[],i:[],ti:[x[14],x[4]],ic:[]}
 d_[x[50]]={}
 var m29=function(e,s,r,gg){
 var z=gz$gwx_30()
 var o4B=e_[x[50]].i
-_ai(o4B,x[36],e_,x[50],1,1)
+_ai(o4B,x[38],e_,x[50],1,1)
 var l5B=_v()
 _(r,l5B)
 cs.push("./pages/quotation/main.wxml:template:2:6")
@@ -2844,7 +2854,7 @@ cs.pop()
 o4B.pop()
 return r
 }
-e_[x[50]]={f:m29,j:[],i:[],ti:[x[36]],ic:[]}
+e_[x[50]]={f:m29,j:[],i:[],ti:[x[38]],ic:[]}
 d_[x[51]]={}
 d_[x[51]]["41663269"]=function(e,s,r,gg){
 var z=gz$gwx_31()
@@ -2911,11 +2921,11 @@ return r
 var m30=function(e,s,r,gg){
 var z=gz$gwx_31()
 var o0B=e_[x[51]].i
-_ai(o0B,x[42],e_,x[51],1,1)
+_ai(o0B,x[15],e_,x[51],1,1)
 o0B.pop()
 return r
 }
-e_[x[51]]={f:m30,j:[],i:[],ti:[x[42]],ic:[]}
+e_[x[51]]={f:m30,j:[],i:[],ti:[x[15]],ic:[]}
 d_[x[52]]={}
 var m31=function(e,s,r,gg){
 var z=gz$gwx_32()
@@ -2964,7 +2974,7 @@ d_[x[55]]={}
 var m33=function(e,s,r,gg){
 var z=gz$gwx_34()
 var lIC=e_[x[55]].i
-_ai(lIC,x[36],e_,x[55],1,1)
+_ai(lIC,x[38],e_,x[55],1,1)
 var aJC=_v()
 _(r,aJC)
 cs.push("./pages/trade/kline/main.wxml:template:2:6")
@@ -2982,7 +2992,7 @@ cs.pop()
 lIC.pop()
 return r
 }
-e_[x[55]]={f:m33,j:[],i:[],ti:[x[36]],ic:[]}
+e_[x[55]]={f:m33,j:[],i:[],ti:[x[38]],ic:[]}
 d_[x[56]]={}
 d_[x[56]]["6f1043b4"]=function(e,s,r,gg){
 var z=gz$gwx_35()
@@ -3085,7 +3095,7 @@ d_[x[57]]={}
 var m35=function(e,s,r,gg){
 var z=gz$gwx_36()
 var fQC=e_[x[57]].i
-_ai(fQC,x[36],e_,x[57],1,1)
+_ai(fQC,x[38],e_,x[57],1,1)
 var cRC=_v()
 _(r,cRC)
 cs.push("./pages/trade/main.wxml:template:2:6")
@@ -3103,7 +3113,7 @@ cs.pop()
 fQC.pop()
 return r
 }
-e_[x[57]]={f:m35,j:[],i:[],ti:[x[36]],ic:[]}
+e_[x[57]]={f:m35,j:[],i:[],ti:[x[38]],ic:[]}
 if(path&&e_[path]){
 return function(env,dd,global){$gwxc=0;var root={"tag":"wx-page"};root.children=[]
 var main=e_[path].f
@@ -3124,16 +3134,16 @@ return root;
 
 
 
-__wxAppCode__['app.json']={"pages":["pages/home/main","pages/quotation/main","pages/trade/main","pages/trade/kline/main","pages/assets/main","pages/assets/detail/main"],"subPackages":[],"window":{"backgroundTextStyle":"light","navigationBarBackgroundColor":"fafafa","navigationBarTitleText":"币币","navigationBarTextStyle":"black"},"usingComponents":{},"tabBar":{"color":"#130f13","selectedColor":"#0f0f0f","list":[{"pagePath":"pages/home/main","text":"首页","iconPath":"static/icon/home.png","selectedIconPath":"static/icon/home-active.png"},{"pagePath":"pages/quotation/main","text":"行情","iconPath":"static/icon/read.png","selectedIconPath":"static/icon/read-active.png"},{"pagePath":"pages/trade/main","text":"交易","iconPath":"static/icon/movie.png","selectedIconPath":"static/icon/movie-active.png"},{"pagePath":"pages/assets/main","text":"资产","iconPath":"static/icon/daily.png","selectedIconPath":"static/icon/daily-active.png"}]},"splashscreen":{"alwaysShowBeforeRender":true,"autoclose":false},"appname":"币交易","compilerVersion":"1.8.2"};
+__wxAppCode__['app.json']={"pages":["pages/home/main","pages/quotation/main","pages/trade/main","pages/trade/kline/main","pages/assets/main","pages/assets/detail/main","pages/login/login","pages/reg/reg","pages/pwd/pwd"],"subPackages":[],"window":{"backgroundTextStyle":"light","navigationBarBackgroundColor":"fafafa","navigationBarTitleText":"币币","navigationBarTextStyle":"black"},"usingComponents":{},"tabBar":{"color":"#130f13","selectedColor":"#0f0f0f","list":[{"pagePath":"pages/home/main","text":"首页","iconPath":"static/icon/home.png","selectedIconPath":"static/icon/home-active.png"},{"pagePath":"pages/quotation/main","text":"行情","iconPath":"static/icon/quotations.png","selectedIconPath":"static/icon/quotations-active.png"},{"pagePath":"pages/trade/main","text":"交易","iconPath":"static/icon/trade.png","selectedIconPath":"static/icon/trade-active.png"},{"pagePath":"pages/assets/main","text":"资产","iconPath":"static/icon/asset.png","selectedIconPath":"static/icon/asset-active.png"}]},"splashscreen":{"alwaysShowBeforeRender":true,"autoclose":false},"appname":"币交易","compilerVersion":"1.8.2"};
 __wxAppCode__['app.wxml']=$gwx('./app.wxml');
 
-__wxAppCode__['pages/assets/detail/main.json']={"usingComponents":{},"navigationBarTitleText":""};
+__wxAppCode__['pages/assets/detail/main.json']={"usingComponents":{},"navigationBarTitleText":"资产详情"};
 __wxAppCode__['pages/assets/detail/main.wxml']=$gwx('./pages/assets/detail/main.wxml');
 
 __wxAppCode__['pages/assets/main.json']={"usingComponents":{},"navigationBarTitleText":"币币资产"};
 __wxAppCode__['pages/assets/main.wxml']=$gwx('./pages/assets/main.wxml');
 
-__wxAppCode__['pages/home/main.json']={"usingComponents":{},"navigationBarTitleText":"首页","titleNView":{"tags":[{"tag":"img","src":"/static/svg/home-icon.svg","position":{"left":"auto","top":"auto","width":"26px","height":"26px"}}]}};
+__wxAppCode__['pages/home/main.json']={"usingComponents":{},"navigationBarTitleText":"首页","titleNView":{"tags":[{"tag":"img","src":"/static/img/home-icon.png","position":{"left":"10px","top":"8px","width":"26px","height":"26px"}}],"buttons":[{"text":"","fontSize":"15px","float":"left"}]}};
 __wxAppCode__['pages/home/main.wxml']=$gwx('./pages/home/main.wxml');
 
 __wxAppCode__['pages/login/login.json']={"usingComponents":{},"navigationBarTitleText":"登录"};
@@ -3718,7 +3728,7 @@ eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, 
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.createApp = createApp;exports.createPage = createPage;exports.createComponent = createComponent;exports.default = void 0;var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ \"./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mpvue/index.js\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}\n\nvar _toString = Object.prototype.toString;\nvar hasOwnProperty = Object.prototype.hasOwnProperty;\n\nfunction isFn(fn) {\n  return typeof fn === 'function';\n}\n\nfunction isStr(str) {\n  return typeof str === 'string';\n}\n\nfunction isPlainObject(obj) {\n  return _toString.call(obj) === '[object Object]';\n}\n\nfunction hasOwn(obj, key) {\n  return hasOwnProperty.call(obj, key);\n}\n\nfunction noop() {}\n\nvar SYNC_API_RE = /requireNativePlugin|upx2px|hideKeyboard|canIUse|^create|Sync$|Manager$/;\n\nvar CONTEXT_API_RE = /^create|Manager$/;\n\nvar CALLBACK_API_RE = /^on/;\n\nfunction isContextApi(name) {\n  return CONTEXT_API_RE.test(name);\n}\nfunction isSyncApi(name) {\n  return SYNC_API_RE.test(name);\n}\n\nfunction isCallbackApi(name) {\n  return CALLBACK_API_RE.test(name);\n}\n\nfunction handlePromise(promise) {\n  return promise.then(function (data) {\n    return [null, data];\n  }).\n  catch(function (err) {return [err];});\n}\n\nfunction shouldPromise(name) {\n  if (isSyncApi(name)) {\n    return false;\n  }\n  if (isCallbackApi(name)) {\n    return false;\n  }\n  return true;\n}\n\nfunction promisify(name, api) {\n  if (!shouldPromise(name)) {\n    return api;\n  }\n  return function promiseApi() {var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};for (var _len = arguments.length, params = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {params[_key - 1] = arguments[_key];}\n    if (isFn(options.success) || isFn(options.fail) || isFn(options.complete)) {\n      return api.apply(void 0, [options].concat(params));\n    }\n    return handlePromise(new Promise(function (resolve, reject) {\n      api.apply(void 0, [Object.assign({}, options, {\n        success: resolve,\n        fail: reject })].concat(\n      params));\n      /* eslint-disable no-extend-native */\n      Promise.prototype.finally = function (callback) {\n        var promise = this.constructor;\n        return this.then(\n        function (value) {return promise.resolve(callback()).then(function () {return value;});},\n        function (reason) {return promise.resolve(callback()).then(function () {\n            throw reason;\n          });});\n\n      };\n    }));\n  };\n}\n\nvar EPS = 1e-4;\nvar BASE_DEVICE_WIDTH = 750;\nvar isIOS = false;\nvar deviceWidth = 0;\nvar deviceDPR = 0;\n\nfunction checkDeviceWidth() {var _wx$getSystemInfoSync =\n\n\n\n\n  wx.getSystemInfoSync(),platform = _wx$getSystemInfoSync.platform,pixelRatio = _wx$getSystemInfoSync.pixelRatio,windowWidth = _wx$getSystemInfoSync.windowWidth; // uni=>wx runtime 编译目标是 uni 对象，内部不允许直接使用 uni\n\n  deviceWidth = windowWidth;\n  deviceDPR = pixelRatio;\n  isIOS = platform === 'ios';\n}\n\nfunction upx2px(number, newDeviceWidth) {\n  if (deviceWidth === 0) {\n    checkDeviceWidth();\n  }\n\n  number = Number(number);\n  if (number === 0) {\n    return 0;\n  }\n  var result = number / BASE_DEVICE_WIDTH * (newDeviceWidth || deviceWidth);\n  if (result < 0) {\n    result = -result;\n  }\n  result = Math.floor(result + EPS);\n  if (result === 0) {\n    if (deviceDPR === 1 || !isIOS) {\n      return 1;\n    } else {\n      return 0.5;\n    }\n  }\n  return number < 0 ? -result : result;\n}\n\nvar protocols = {};\n\nvar CALLBACKS = ['success', 'fail', 'cancel', 'complete'];\n\nfunction processCallback(methodName, method, returnValue) {\n  return function (res) {\n    return method(processReturnValue(methodName, res, returnValue));\n  };\n}\n\nfunction processArgs(methodName, fromArgs) {var argsOption = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};var returnValue = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : {};var keepFromArgs = arguments.length > 4 && arguments[4] !== undefined ? arguments[4] : false;\n  if (isPlainObject(fromArgs)) {// 一般 api 的参数解析\n    var toArgs = keepFromArgs === true ? fromArgs : {}; // returnValue 为 false 时，说明是格式化返回值，直接在返回值对象上修改赋值\n    if (isFn(argsOption)) {\n      argsOption = argsOption(fromArgs, toArgs) || {};\n    }\n    for (var key in fromArgs) {\n      if (hasOwn(argsOption, key)) {\n        var keyOption = argsOption[key];\n        if (isFn(keyOption)) {\n          keyOption = keyOption(fromArgs[key], fromArgs, toArgs);\n        }\n        if (!keyOption) {// 不支持的参数\n          console.warn(\"app-plus \".concat(methodName, \"\\u6682\\u4E0D\\u652F\\u6301\").concat(key));\n        } else if (isStr(keyOption)) {// 重写参数 key\n          toArgs[keyOption] = fromArgs[key];\n        } else if (isPlainObject(keyOption)) {// {name:newName,value:value}可重新指定参数 key:value\n          toArgs[keyOption.name ? keyOption.name : key] = keyOption.value;\n        }\n      } else if (CALLBACKS.includes(key)) {\n        toArgs[key] = processCallback(methodName, fromArgs[key], returnValue);\n      } else {\n        if (!keepFromArgs) {\n          toArgs[key] = fromArgs[key];\n        }\n      }\n    }\n    return toArgs;\n  } else if (isFn(fromArgs)) {\n    fromArgs = processCallback(methodName, fromArgs, returnValue);\n  }\n  return fromArgs;\n}\n\nfunction processReturnValue(methodName, res, returnValue) {var keepReturnValue = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : false;\n  if (isFn(protocols.returnValue)) {// 处理通用 returnValue\n    res = protocols.returnValue(methodName, res);\n  }\n  return processArgs(methodName, res, returnValue, {}, keepReturnValue);\n}\n\nfunction wrapper(methodName, method) {\n  if (hasOwn(protocols, methodName)) {\n    var protocol = protocols[methodName];\n    if (!protocol) {// 暂不支持的 api\n      return function () {\n        console.error(\"app-plus \\u6682\\u4E0D\\u652F\\u6301\".concat(methodName));\n      };\n    }\n    return function (arg1, arg2) {// 目前 api 最多两个参数\n      var options = protocol;\n      if (isFn(protocol)) {\n        options = protocol(arg1);\n      }\n\n      arg1 = processArgs(methodName, arg1, options.args, options.returnValue);\n\n      var returnValue = wx[options.name || methodName](arg1, arg2);\n      if (isSyncApi(methodName)) {// 同步 api\n        return processReturnValue(methodName, returnValue, options.returnValue, isContextApi(methodName));\n      }\n      return returnValue;\n    };\n  }\n  return method;\n}\n\nvar todoApis = Object.create(null);\n\nvar TODOS = [\n'subscribePush',\n'unsubscribePush',\n'onPush',\n'offPush',\n'share'];\n\n\nfunction createTodoApi(name) {\n  return function todoApi(_ref)\n\n\n  {var fail = _ref.fail,complete = _ref.complete;\n    var res = {\n      errMsg: \"\".concat(name, \":fail:\\u6682\\u4E0D\\u652F\\u6301 \").concat(name, \" \\u65B9\\u6CD5\") };\n\n    isFn(fail) && fail(res);\n    isFn(complete) && complete(res);\n  };\n}\n\nTODOS.forEach(function (name) {\n  todoApis[name] = createTodoApi(name);\n});\n\nfunction requireNativePlugin(pluginName) {\n  /* eslint-disable no-undef */\n  if (typeof weex !== 'undefined') {\n    return weex.requireModule(pluginName);\n  }\n  /* eslint-disable no-undef */\n  return __requireNativePlugin__(pluginName);\n}\n\nvar api = /*#__PURE__*/Object.freeze({\n  requireNativePlugin: requireNativePlugin });\n\n\nvar MOCKS = ['__route__', '__wxExparserNodeId__', '__wxWebviewId__'];\n\nfunction initMocks(vm) {\n  var mpInstance = vm.$mp[vm.mpType];\n  MOCKS.forEach(function (mock) {\n    if (hasOwn(mpInstance, mock)) {\n      vm[mock] = mpInstance[mock];\n    }\n  });\n}\n\nfunction initHooks(mpOptions, hooks) {var delay = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : false;\n  hooks.forEach(function (hook) {\n    mpOptions[hook] = function (args) {var _this = this;\n      if (delay) {\n        setTimeout(function () {return _this.$vm.__call_hook(hook, args);});\n      } else {\n        this.$vm.__call_hook(hook, args);\n      }\n    };\n  });\n}\n\nfunction getData(vueOptions, context) {\n  var data = vueOptions.data || {};\n  var methods = vueOptions.methods || {};\n\n  if (typeof data === 'function') {\n    try {\n      data = data.call(context); // 支持 Vue.prototype 上挂的数据\n    } catch (e) {\n      if (Object({\"VUE_APP_PLATFORM\":\"app-plus\",\"NODE_ENV\":\"development\",\"BASE_URL\":\"/\"}).VUE_APP_DEBUG) {\n        console.warn('根据 Vue 的 data 函数初始化小程序 data 失败，请尽量确保 data 函数中不访问 vm 对象，否则可能影响首次数据渲染速度。', data);\n      }\n    }\n  } else {\n    try {\n      // 对 data 格式化\n      data = JSON.parse(JSON.stringify(data));\n    } catch (e) {}\n  }\n\n  Object.keys(methods).forEach(function (methodName) {\n    if (!hasOwn(data, methodName)) {\n      data[methodName] = methods[methodName];\n    }\n  });\n\n  return data;\n}\n\nvar PROP_TYPES = [String, Number, Boolean, Object, Array, null];\n\nfunction createObserver(name) {\n  return function observer(newVal, oldVal) {\n    if (this.$vm) {\n      this.$vm[name] = newVal; // 为了触发其他非 render watcher\n    }\n  };\n}\n\nfunction getProperties(props) {\n  var properties = {\n    vueSlots: { // 小程序不能直接定义 $slots 的 props，所以通过 vueSlots 转换到 $slots\n      type: null,\n      value: [],\n      observer: function observer(newVal, oldVal) {\n        var $slots = Object.create(null);\n        newVal.forEach(function (slotName) {\n          $slots[slotName] = true;\n        });\n        this.setData({\n          $slots: $slots });\n\n      } } };\n\n\n  if (Array.isArray(props)) {// ['title']\n    props.forEach(function (key) {\n      properties[key] = {\n        type: null,\n        observer: createObserver(key) };\n\n    });\n  } else if (isPlainObject(props)) {// {title:{type:String,default:''},content:String}\n    Object.keys(props).forEach(function (key) {\n      var opts = props[key];\n      if (isPlainObject(opts)) {// title:{type:String,default:''}\n        var value = opts['default'];\n        if (isFn(value)) {\n          value = value();\n        }\n        properties[key] = {\n          type: PROP_TYPES.includes(opts.type) ? opts.type : null,\n          value: value,\n          observer: createObserver(key) };\n\n      } else {// content:String\n        properties[key] = {\n          type: PROP_TYPES.includes(opts) ? opts : null,\n          observer: createObserver(key) };\n\n      }\n    });\n  }\n  return properties;\n}\n\nfunction wrapper$1(event) {\n  event.stopPropagation = noop;\n  event.preventDefault = noop;\n\n  event.target = event.target || {};\n  event.detail = event.detail || {};\n\n  // TODO 又得兼容 mpvue 的 mp 对象\n  event.mp = event;\n  event.target = Object.assign({}, event.target, event.detail);\n  return event;\n}\n\nfunction processEventArgs(event) {var args = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];var isCustom = arguments.length > 2 ? arguments[2] : undefined;\n  if (isCustom && !args.length) {// 无参数，直接传入 detail 数组\n    return event.detail;\n  }\n  var ret = [];\n  args.forEach(function (arg) {\n    if (arg === '$event') {\n      ret.push(isCustom ? event.detail[0] : event);\n    } else {\n      ret.push(arg);\n    }\n  });\n\n  return ret;\n}\n\nvar ONCE = '~';\nvar CUSTOM = '^';\n\nfunction handleEvent(event) {var _this2 = this;\n  event = wrapper$1(event);\n\n  // [['tap',[['handle',[1,2,a]],['handle1',[1,2,a]]]]]\n  var eventOpts = (event.currentTarget || event.target).dataset.eventOpts;\n  if (!eventOpts) {\n    return console.warn(\"\\u4E8B\\u4EF6\\u4FE1\\u606F\\u4E0D\\u5B58\\u5728\");\n  }\n\n  // [['handle',[1,2,a]],['handle1',[1,2,a]]]\n  var eventType = event.type;\n  eventOpts.forEach(function (eventOpt) {\n    var type = eventOpt[0];\n    var eventsArray = eventOpt[1];\n\n    var isCustom = type.charAt(0) === CUSTOM;\n    type = isCustom ? type.slice(1) : type;\n    var isOnce = type.charAt(0) === ONCE;\n    type = isOnce ? type.slice(1) : type;\n\n    if (eventsArray && eventType === type) {\n      eventsArray.forEach(function (eventArray) {\n        var handler = _this2.$vm[eventArray[0]];\n        if (!isFn(handler)) {\n          throw new Error(\" _vm.\".concat(eventArray[0], \" is not a function\"));\n        }\n        if (isOnce) {\n          if (handler.once) {\n            return;\n          }\n          handler.once = true;\n        }\n        handler.apply(_this2.$vm, processEventArgs(event, eventArray[1], isCustom));\n      });\n    }\n  });\n}\n\nfunction initRefs(vm) {\n  var mpInstance = vm.$mp[vm.mpType];\n  Object.defineProperty(vm, '$refs', {\n    get: function get() {\n      var $refs = Object.create(null);\n      var components = mpInstance.selectAllComponents('.vue-ref');\n      components.forEach(function (component) {\n        var ref = component.dataset.ref;\n        $refs[ref] = component.$vm;\n      });\n      var forComponents = mpInstance.selectAllComponents('.vue-ref-in-for');\n      forComponents.forEach(function (component) {\n        var ref = component.dataset.ref;\n        if (!$refs[ref]) {\n          $refs[ref] = [];\n        }\n        $refs[ref].push(component.$vm);\n      });\n      return $refs;\n    } });\n\n}\n\nvar hooks = [\n'onShow',\n'onHide',\n'onError',\n'onPageNotFound'];\n\n\nfunction createApp(vueOptions) {\n  vueOptions = vueOptions.default || vueOptions;\n  // 外部初始化时 Vue 还未初始化，放到 createApp 内部初始化 mixin\n  _vue.default.mixin({\n    beforeCreate: function beforeCreate() {\n      if (!this.$options.mpType) {\n        return;\n      }\n      this.mpType = this.$options.mpType;\n      this.$mp = _defineProperty({\n        data: {} },\n      this.mpType, this.$options.mpInstance);\n\n      delete this.$options.mpType;\n      delete this.$options.mpInstance;\n\n      if (this.mpType !== 'app') {\n        initRefs(this);\n        initMocks(this);\n      }\n    },\n    created: function created() {// 处理 injections\n      this.__init_injections(this);\n      this.__init_provide(this);\n    } });\n\n\n  var appOptions = {\n    onLaunch: function onLaunch(args) {var _this3 = this;\n      this.$vm = new _vue.default(Object.assign(vueOptions, {\n        mpType: 'app',\n        mpInstance: this }));\n\n\n      this.$vm.$mount();\n      setTimeout(function () {return _this3.$vm.__call_hook('onLaunch', args);});\n    } };\n\n\n  initHooks(appOptions, hooks, true); // 延迟执行，因为 App 的注册在 main.js 之前，可能导致生命周期内 Vue 原型上开发者注册的属性无法访问\n\n  App(appOptions);\n\n  return vueOptions;\n}\n\nfunction triggerLink(mpInstance, vueOptions) {\n  mpInstance.triggerEvent('__l', mpInstance.$vm || vueOptions, {\n    bubbles: true,\n    composed: true });\n\n}\n\nfunction handleLink(event) {\n  if (event.detail.$mp) {// vm\n    if (!event.detail.$parent) {\n      event.detail.$parent = this.$vm;\n      event.detail.$parent.$children.push(event.detail);\n\n      event.detail.$root = this.$vm.$root;\n    }\n  } else {// vueOptions\n    if (!event.detail.parent) {\n      event.detail.parent = this.$vm;\n    }\n  }\n}\n\nvar hooks$1 = [\n'onShow',\n'onHide',\n'onPullDownRefresh',\n'onReachBottom',\n'onShareAppMessage',\n'onPageScroll',\n'onResize',\n'onTabItemTap',\n'onBackPress',\n'onNavigationBarButtonTap',\n'onNavigationBarSearchInputChanged',\n'onNavigationBarSearchInputConfirmed',\n'onNavigationBarSearchInputClicked'];\n\n\nfunction createPage(vueOptions) {\n  vueOptions = vueOptions.default || vueOptions;\n  var pageOptions = {\n    data: getData(vueOptions, _vue.default.prototype),\n    onLoad: function onLoad(args) {\n\n      this.$vm = new _vue.default(Object.assign(vueOptions, {\n        mpType: 'page',\n        mpInstance: this }));\n\n\n      this.$vm.__call_hook('created');\n      this.$vm.__call_hook('onLoad', args); // 开发者可能会在 onLoad 时赋值，提前到 mount 之前\n      this.$vm.$mount();\n    },\n    onReady: function onReady() {\n      this.$vm._isMounted = true;\n      this.$vm.__call_hook('mounted');\n      this.$vm.__call_hook('onReady');\n    },\n    onUnload: function onUnload() {\n      this.$vm.__call_hook('onUnload');\n      {\n        this.$vm.$destroy();\n      }\n    },\n    __e: handleEvent,\n    __l: handleLink };\n\n\n  initHooks(pageOptions, hooks$1);\n\n  return Page(pageOptions);\n}\n\nfunction initVueComponent(mpInstace, VueComponent) {var extraOptions = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};\n  if (mpInstace.$vm) {\n    return;\n  }\n\n  var options = Object.assign({\n    mpType: 'component',\n    mpInstance: mpInstace,\n    propsData: mpInstace.properties },\n  extraOptions);\n  // 初始化 vue 实例\n  mpInstace.$vm = new VueComponent(options);\n\n  // 处理$slots,$scopedSlots（暂不支持动态变化$slots）\n  var vueSlots = mpInstace.properties.vueSlots;\n  if (Array.isArray(vueSlots) && vueSlots.length) {\n    var $slots = Object.create(null);\n    vueSlots.forEach(function (slotName) {\n      $slots[slotName] = true;\n    });\n    mpInstace.$vm.$scopedSlots = mpInstace.$vm.$slots = $slots;\n  }\n  // 性能优先，mount 提前到 attached 中，保证组件首次渲染数据被合并\n  // 导致与标准 Vue 的差异，data 和 computed 中不能使用$parent，provide等组件属性\n  mpInstace.$vm.$mount();\n}\n\nfunction createComponent(vueOptions) {\n  vueOptions = vueOptions.default || vueOptions;\n\n  var properties = getProperties(vueOptions.props);\n\n  var VueComponent = _vue.default.extend(vueOptions);\n\n  var componentOptions = {\n    options: {\n      multipleSlots: true,\n      addGlobalClass: true },\n\n    data: getData(vueOptions, _vue.default.prototype),\n    properties: properties,\n    lifetimes: {\n      attached: function attached() {\n        initVueComponent(this, VueComponent);\n      },\n      ready: function ready() {\n        initVueComponent(this, VueComponent); // 目前发现部分情况小程序 attached 不触发\n        triggerLink(this); // 处理 parent,children\n\n        // 补充生命周期\n        this.$vm.__call_hook('created');\n        this.$vm.__call_hook('beforeMount');\n        this.$vm._isMounted = true;\n        this.$vm.__call_hook('mounted');\n        this.$vm.__call_hook('onReady');\n      },\n      detached: function detached() {\n        this.$vm.$destroy();\n      } },\n\n    pageLifetimes: {\n      show: function show(args) {\n        this.$vm.__call_hook('onPageShow', args);\n      },\n      hide: function hide() {\n        this.$vm && this.$vm.__call_hook('onPageHide');\n      },\n      resize: function resize(size) {\n        this.$vm && this.$vm.__call_hook('onPageResize', size);\n      } },\n\n    methods: {\n      __e: handleEvent,\n      __l: handleLink } };\n\n\n\n  return Component(componentOptions);\n}\n\nvar uni = {};\n\nif (typeof Proxy !== 'undefined') {\n  uni = new Proxy({}, {\n    get: function get(target, name) {\n      if (name === 'upx2px') {\n        return upx2px;\n      }\n      if (api[name]) {\n        return promisify(name, api[name]);\n      }\n      if (!hasOwn(wx, name) && !hasOwn(protocols, name)) {\n        return;\n      }\n      return promisify(name, wrapper(name, wx[name]));\n    } });\n\n} else {\n  uni.upx2px = upx2px;\n\n  Object.keys(api).forEach(function (name) {\n    uni[name] = promisify(name, api[name]);\n  });\n\n  Object.keys(wx).forEach(function (name) {\n    if (hasOwn(wx, name) || hasOwn(protocols, name)) {\n      uni[name] = promisify(name, wrapper(name, wx[name]));\n    }\n  });\n}\n\nvar uni$1 = uni;var _default =\n\nuni$1;exports.default = _default;\n\n//# sourceURL=D:/Program_Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/uni-app-plus/dist/index.js");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.createApp = createApp;exports.createPage = createPage;exports.createComponent = createComponent;exports.default = void 0;var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ \"./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mpvue/index.js\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}\n\nvar _toString = Object.prototype.toString;\nvar hasOwnProperty = Object.prototype.hasOwnProperty;\n\nfunction isFn(fn) {\n  return typeof fn === 'function';\n}\n\nfunction isStr(str) {\n  return typeof str === 'string';\n}\n\nfunction isPlainObject(obj) {\n  return _toString.call(obj) === '[object Object]';\n}\n\nfunction hasOwn(obj, key) {\n  return hasOwnProperty.call(obj, key);\n}\n\nfunction noop() {}\n\nvar SYNC_API_RE = /requireNativePlugin|upx2px|hideKeyboard|canIUse|^create|Sync$|Manager$/;\n\nvar CONTEXT_API_RE = /^create|Manager$/;\n\nvar CALLBACK_API_RE = /^on/;\n\nfunction isContextApi(name) {\n  return CONTEXT_API_RE.test(name);\n}\nfunction isSyncApi(name) {\n  return SYNC_API_RE.test(name);\n}\n\nfunction isCallbackApi(name) {\n  return CALLBACK_API_RE.test(name);\n}\n\nfunction handlePromise(promise) {\n  return promise.then(function (data) {\n    return [null, data];\n  }).\n  catch(function (err) {return [err];});\n}\n\nfunction shouldPromise(name) {\n  if (isSyncApi(name)) {\n    return false;\n  }\n  if (isCallbackApi(name)) {\n    return false;\n  }\n  return true;\n}\n\nfunction promisify(name, api) {\n  if (!shouldPromise(name)) {\n    return api;\n  }\n  return function promiseApi() {var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};for (var _len = arguments.length, params = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {params[_key - 1] = arguments[_key];}\n    if (isFn(options.success) || isFn(options.fail) || isFn(options.complete)) {\n      return api.apply(void 0, [options].concat(params));\n    }\n    return handlePromise(new Promise(function (resolve, reject) {\n      api.apply(void 0, [Object.assign({}, options, {\n        success: resolve,\n        fail: reject })].concat(\n      params));\n      /* eslint-disable no-extend-native */\n      Promise.prototype.finally = function (callback) {\n        var promise = this.constructor;\n        return this.then(\n        function (value) {return promise.resolve(callback()).then(function () {return value;});},\n        function (reason) {return promise.resolve(callback()).then(function () {\n            throw reason;\n          });});\n\n      };\n    }));\n  };\n}\n\nvar EPS = 1e-4;\nvar BASE_DEVICE_WIDTH = 750;\nvar isIOS = false;\nvar deviceWidth = 0;\nvar deviceDPR = 0;\n\nfunction checkDeviceWidth() {var _wx$getSystemInfoSync =\n\n\n\n\n  wx.getSystemInfoSync(),platform = _wx$getSystemInfoSync.platform,pixelRatio = _wx$getSystemInfoSync.pixelRatio,windowWidth = _wx$getSystemInfoSync.windowWidth; // uni=>wx runtime 编译目标是 uni 对象，内部不允许直接使用 uni\n\n  deviceWidth = windowWidth;\n  deviceDPR = pixelRatio;\n  isIOS = platform === 'ios';\n}\n\nfunction upx2px(number, newDeviceWidth) {\n  if (deviceWidth === 0) {\n    checkDeviceWidth();\n  }\n\n  number = Number(number);\n  if (number === 0) {\n    return 0;\n  }\n  var result = number / BASE_DEVICE_WIDTH * (newDeviceWidth || deviceWidth);\n  if (result < 0) {\n    result = -result;\n  }\n  result = Math.floor(result + EPS);\n  if (result === 0) {\n    if (deviceDPR === 1 || !isIOS) {\n      return 1;\n    } else {\n      return 0.5;\n    }\n  }\n  return number < 0 ? -result : result;\n}\n\nvar protocols = {};\n\nvar CALLBACKS = ['success', 'fail', 'cancel', 'complete'];\n\nfunction processCallback(methodName, method, returnValue) {\n  return function (res) {\n    return method(processReturnValue(methodName, res, returnValue));\n  };\n}\n\nfunction processArgs(methodName, fromArgs) {var argsOption = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};var returnValue = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : {};var keepFromArgs = arguments.length > 4 && arguments[4] !== undefined ? arguments[4] : false;\n  if (isPlainObject(fromArgs)) {// 一般 api 的参数解析\n    var toArgs = keepFromArgs === true ? fromArgs : {}; // returnValue 为 false 时，说明是格式化返回值，直接在返回值对象上修改赋值\n    if (isFn(argsOption)) {\n      argsOption = argsOption(fromArgs, toArgs) || {};\n    }\n    for (var key in fromArgs) {\n      if (hasOwn(argsOption, key)) {\n        var keyOption = argsOption[key];\n        if (isFn(keyOption)) {\n          keyOption = keyOption(fromArgs[key], fromArgs, toArgs);\n        }\n        if (!keyOption) {// 不支持的参数\n          console.warn(\"app-plus \".concat(methodName, \"\\u6682\\u4E0D\\u652F\\u6301\").concat(key));\n        } else if (isStr(keyOption)) {// 重写参数 key\n          toArgs[keyOption] = fromArgs[key];\n        } else if (isPlainObject(keyOption)) {// {name:newName,value:value}可重新指定参数 key:value\n          toArgs[keyOption.name ? keyOption.name : key] = keyOption.value;\n        }\n      } else if (CALLBACKS.includes(key)) {\n        toArgs[key] = processCallback(methodName, fromArgs[key], returnValue);\n      } else {\n        if (!keepFromArgs) {\n          toArgs[key] = fromArgs[key];\n        }\n      }\n    }\n    return toArgs;\n  } else if (isFn(fromArgs)) {\n    fromArgs = processCallback(methodName, fromArgs, returnValue);\n  }\n  return fromArgs;\n}\n\nfunction processReturnValue(methodName, res, returnValue) {var keepReturnValue = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : false;\n  if (isFn(protocols.returnValue)) {// 处理通用 returnValue\n    res = protocols.returnValue(methodName, res);\n  }\n  return processArgs(methodName, res, returnValue, {}, keepReturnValue);\n}\n\nfunction wrapper(methodName, method) {\n  if (hasOwn(protocols, methodName)) {\n    var protocol = protocols[methodName];\n    if (!protocol) {// 暂不支持的 api\n      return function () {\n        console.error(\"app-plus \\u6682\\u4E0D\\u652F\\u6301\".concat(methodName));\n      };\n    }\n    return function (arg1, arg2) {// 目前 api 最多两个参数\n      var options = protocol;\n      if (isFn(protocol)) {\n        options = protocol(arg1);\n      }\n\n      arg1 = processArgs(methodName, arg1, options.args, options.returnValue);\n\n      var returnValue = wx[options.name || methodName](arg1, arg2);\n      if (isSyncApi(methodName)) {// 同步 api\n        return processReturnValue(methodName, returnValue, options.returnValue, isContextApi(methodName));\n      }\n      return returnValue;\n    };\n  }\n  return method;\n}\n\nvar todoApis = Object.create(null);\n\nvar TODOS = [\n'subscribePush',\n'unsubscribePush',\n'onPush',\n'offPush',\n'share'];\n\n\nfunction createTodoApi(name) {\n  return function todoApi(_ref)\n\n\n  {var fail = _ref.fail,complete = _ref.complete;\n    var res = {\n      errMsg: \"\".concat(name, \":fail:\\u6682\\u4E0D\\u652F\\u6301 \").concat(name, \" \\u65B9\\u6CD5\") };\n\n    isFn(fail) && fail(res);\n    isFn(complete) && complete(res);\n  };\n}\n\nTODOS.forEach(function (name) {\n  todoApis[name] = createTodoApi(name);\n});\n\nfunction requireNativePlugin(pluginName) {\n  /* eslint-disable no-undef */\n  if (typeof weex !== 'undefined') {\n    return weex.requireModule(pluginName);\n  }\n  /* eslint-disable no-undef */\n  return __requireNativePlugin__(pluginName);\n}\n\nvar api = /*#__PURE__*/Object.freeze({\n  requireNativePlugin: requireNativePlugin });\n\n\nvar MOCKS = ['__route__', '__wxExparserNodeId__', '__wxWebviewId__'];\n\nfunction initMocks(vm) {\n  var mpInstance = vm.$mp[vm.mpType];\n  MOCKS.forEach(function (mock) {\n    if (hasOwn(mpInstance, mock)) {\n      vm[mock] = mpInstance[mock];\n    }\n  });\n}\n\nfunction initHooks(mpOptions, hooks) {var delay = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : false;\n  hooks.forEach(function (hook) {\n    mpOptions[hook] = function (args) {var _this = this;\n      if (delay) {\n        setTimeout(function () {return _this.$vm.__call_hook(hook, args);});\n      } else {\n        this.$vm.__call_hook(hook, args);\n      }\n    };\n  });\n}\n\nfunction getData(vueOptions, context) {\n  var data = vueOptions.data || {};\n  var methods = vueOptions.methods || {};\n\n  if (typeof data === 'function') {\n    try {\n      data = data.call(context); // 支持 Vue.prototype 上挂的数据\n    } catch (e) {\n      if (Object({\"NODE_ENV\":\"development\",\"VUE_APP_PLATFORM\":\"app-plus\",\"BASE_URL\":\"/\"}).VUE_APP_DEBUG) {\n        console.warn('根据 Vue 的 data 函数初始化小程序 data 失败，请尽量确保 data 函数中不访问 vm 对象，否则可能影响首次数据渲染速度。', data);\n      }\n    }\n  } else {\n    try {\n      // 对 data 格式化\n      data = JSON.parse(JSON.stringify(data));\n    } catch (e) {}\n  }\n\n  Object.keys(methods).forEach(function (methodName) {\n    if (!hasOwn(data, methodName)) {\n      data[methodName] = methods[methodName];\n    }\n  });\n\n  return data;\n}\n\nvar PROP_TYPES = [String, Number, Boolean, Object, Array, null];\n\nfunction createObserver(name) {\n  return function observer(newVal, oldVal) {\n    if (this.$vm) {\n      this.$vm[name] = newVal; // 为了触发其他非 render watcher\n    }\n  };\n}\n\nfunction getProperties(props) {\n  var properties = {\n    vueSlots: { // 小程序不能直接定义 $slots 的 props，所以通过 vueSlots 转换到 $slots\n      type: null,\n      value: [],\n      observer: function observer(newVal, oldVal) {\n        var $slots = Object.create(null);\n        newVal.forEach(function (slotName) {\n          $slots[slotName] = true;\n        });\n        this.setData({\n          $slots: $slots });\n\n      } } };\n\n\n  if (Array.isArray(props)) {// ['title']\n    props.forEach(function (key) {\n      properties[key] = {\n        type: null,\n        observer: createObserver(key) };\n\n    });\n  } else if (isPlainObject(props)) {// {title:{type:String,default:''},content:String}\n    Object.keys(props).forEach(function (key) {\n      var opts = props[key];\n      if (isPlainObject(opts)) {// title:{type:String,default:''}\n        var value = opts['default'];\n        if (isFn(value)) {\n          value = value();\n        }\n        properties[key] = {\n          type: PROP_TYPES.includes(opts.type) ? opts.type : null,\n          value: value,\n          observer: createObserver(key) };\n\n      } else {// content:String\n        properties[key] = {\n          type: PROP_TYPES.includes(opts) ? opts : null,\n          observer: createObserver(key) };\n\n      }\n    });\n  }\n  return properties;\n}\n\nfunction wrapper$1(event) {\n  event.stopPropagation = noop;\n  event.preventDefault = noop;\n\n  event.target = event.target || {};\n  event.detail = event.detail || {};\n\n  // TODO 又得兼容 mpvue 的 mp 对象\n  event.mp = event;\n  event.target = Object.assign({}, event.target, event.detail);\n  return event;\n}\n\nfunction processEventArgs(event) {var args = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];var isCustom = arguments.length > 2 ? arguments[2] : undefined;\n  if (isCustom && !args.length) {// 无参数，直接传入 detail 数组\n    return event.detail;\n  }\n  var ret = [];\n  args.forEach(function (arg) {\n    if (arg === '$event') {\n      ret.push(isCustom ? event.detail[0] : event);\n    } else {\n      ret.push(arg);\n    }\n  });\n\n  return ret;\n}\n\nvar ONCE = '~';\nvar CUSTOM = '^';\n\nfunction handleEvent(event) {var _this2 = this;\n  event = wrapper$1(event);\n\n  // [['tap',[['handle',[1,2,a]],['handle1',[1,2,a]]]]]\n  var eventOpts = (event.currentTarget || event.target).dataset.eventOpts;\n  if (!eventOpts) {\n    return console.warn(\"\\u4E8B\\u4EF6\\u4FE1\\u606F\\u4E0D\\u5B58\\u5728\");\n  }\n\n  // [['handle',[1,2,a]],['handle1',[1,2,a]]]\n  var eventType = event.type;\n  eventOpts.forEach(function (eventOpt) {\n    var type = eventOpt[0];\n    var eventsArray = eventOpt[1];\n\n    var isCustom = type.charAt(0) === CUSTOM;\n    type = isCustom ? type.slice(1) : type;\n    var isOnce = type.charAt(0) === ONCE;\n    type = isOnce ? type.slice(1) : type;\n\n    if (eventsArray && eventType === type) {\n      eventsArray.forEach(function (eventArray) {\n        var handler = _this2.$vm[eventArray[0]];\n        if (!isFn(handler)) {\n          throw new Error(\" _vm.\".concat(eventArray[0], \" is not a function\"));\n        }\n        if (isOnce) {\n          if (handler.once) {\n            return;\n          }\n          handler.once = true;\n        }\n        handler.apply(_this2.$vm, processEventArgs(event, eventArray[1], isCustom));\n      });\n    }\n  });\n}\n\nfunction initRefs(vm) {\n  var mpInstance = vm.$mp[vm.mpType];\n  Object.defineProperty(vm, '$refs', {\n    get: function get() {\n      var $refs = Object.create(null);\n      var components = mpInstance.selectAllComponents('.vue-ref');\n      components.forEach(function (component) {\n        var ref = component.dataset.ref;\n        $refs[ref] = component.$vm;\n      });\n      var forComponents = mpInstance.selectAllComponents('.vue-ref-in-for');\n      forComponents.forEach(function (component) {\n        var ref = component.dataset.ref;\n        if (!$refs[ref]) {\n          $refs[ref] = [];\n        }\n        $refs[ref].push(component.$vm);\n      });\n      return $refs;\n    } });\n\n}\n\nvar hooks = [\n'onShow',\n'onHide',\n'onError',\n'onPageNotFound'];\n\n\nfunction createApp(vueOptions) {\n  vueOptions = vueOptions.default || vueOptions;\n  // 外部初始化时 Vue 还未初始化，放到 createApp 内部初始化 mixin\n  _vue.default.mixin({\n    beforeCreate: function beforeCreate() {\n      if (!this.$options.mpType) {\n        return;\n      }\n      this.mpType = this.$options.mpType;\n      this.$mp = _defineProperty({\n        data: {} },\n      this.mpType, this.$options.mpInstance);\n\n      delete this.$options.mpType;\n      delete this.$options.mpInstance;\n\n      if (this.mpType !== 'app') {\n        initRefs(this);\n        initMocks(this);\n      }\n    },\n    created: function created() {// 处理 injections\n      this.__init_injections(this);\n      this.__init_provide(this);\n    } });\n\n\n  var appOptions = {\n    onLaunch: function onLaunch(args) {var _this3 = this;\n      this.$vm = new _vue.default(Object.assign(vueOptions, {\n        mpType: 'app',\n        mpInstance: this }));\n\n\n      this.$vm.$mount();\n      setTimeout(function () {return _this3.$vm.__call_hook('onLaunch', args);});\n    } };\n\n\n  initHooks(appOptions, hooks, true); // 延迟执行，因为 App 的注册在 main.js 之前，可能导致生命周期内 Vue 原型上开发者注册的属性无法访问\n\n  App(appOptions);\n\n  return vueOptions;\n}\n\nfunction triggerLink(mpInstance, vueOptions) {\n  mpInstance.triggerEvent('__l', mpInstance.$vm || vueOptions, {\n    bubbles: true,\n    composed: true });\n\n}\n\nfunction handleLink(event) {\n  if (event.detail.$mp) {// vm\n    if (!event.detail.$parent) {\n      event.detail.$parent = this.$vm;\n      event.detail.$parent.$children.push(event.detail);\n\n      event.detail.$root = this.$vm.$root;\n    }\n  } else {// vueOptions\n    if (!event.detail.parent) {\n      event.detail.parent = this.$vm;\n    }\n  }\n}\n\nvar hooks$1 = [\n'onShow',\n'onHide',\n'onPullDownRefresh',\n'onReachBottom',\n'onShareAppMessage',\n'onPageScroll',\n'onResize',\n'onTabItemTap',\n'onBackPress',\n'onNavigationBarButtonTap',\n'onNavigationBarSearchInputChanged',\n'onNavigationBarSearchInputConfirmed',\n'onNavigationBarSearchInputClicked'];\n\n\nfunction createPage(vueOptions) {\n  vueOptions = vueOptions.default || vueOptions;\n  var pageOptions = {\n    data: getData(vueOptions, _vue.default.prototype),\n    onLoad: function onLoad(args) {\n\n      this.$vm = new _vue.default(Object.assign(vueOptions, {\n        mpType: 'page',\n        mpInstance: this }));\n\n\n      this.$vm.__call_hook('created');\n      this.$vm.__call_hook('onLoad', args); // 开发者可能会在 onLoad 时赋值，提前到 mount 之前\n      this.$vm.$mount();\n    },\n    onReady: function onReady() {\n      this.$vm._isMounted = true;\n      this.$vm.__call_hook('mounted');\n      this.$vm.__call_hook('onReady');\n    },\n    onUnload: function onUnload() {\n      this.$vm.__call_hook('onUnload');\n      {\n        this.$vm.$destroy();\n      }\n    },\n    __e: handleEvent,\n    __l: handleLink };\n\n\n  initHooks(pageOptions, hooks$1);\n\n  return Page(pageOptions);\n}\n\nfunction initVueComponent(mpInstace, VueComponent) {var extraOptions = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};\n  if (mpInstace.$vm) {\n    return;\n  }\n\n  var options = Object.assign({\n    mpType: 'component',\n    mpInstance: mpInstace,\n    propsData: mpInstace.properties },\n  extraOptions);\n  // 初始化 vue 实例\n  mpInstace.$vm = new VueComponent(options);\n\n  // 处理$slots,$scopedSlots（暂不支持动态变化$slots）\n  var vueSlots = mpInstace.properties.vueSlots;\n  if (Array.isArray(vueSlots) && vueSlots.length) {\n    var $slots = Object.create(null);\n    vueSlots.forEach(function (slotName) {\n      $slots[slotName] = true;\n    });\n    mpInstace.$vm.$scopedSlots = mpInstace.$vm.$slots = $slots;\n  }\n  // 性能优先，mount 提前到 attached 中，保证组件首次渲染数据被合并\n  // 导致与标准 Vue 的差异，data 和 computed 中不能使用$parent，provide等组件属性\n  mpInstace.$vm.$mount();\n}\n\nfunction createComponent(vueOptions) {\n  vueOptions = vueOptions.default || vueOptions;\n\n  var properties = getProperties(vueOptions.props);\n\n  var VueComponent = _vue.default.extend(vueOptions);\n\n  var componentOptions = {\n    options: {\n      multipleSlots: true,\n      addGlobalClass: true },\n\n    data: getData(vueOptions, _vue.default.prototype),\n    properties: properties,\n    lifetimes: {\n      attached: function attached() {\n        initVueComponent(this, VueComponent);\n      },\n      ready: function ready() {\n        initVueComponent(this, VueComponent); // 目前发现部分情况小程序 attached 不触发\n        triggerLink(this); // 处理 parent,children\n\n        // 补充生命周期\n        this.$vm.__call_hook('created');\n        this.$vm.__call_hook('beforeMount');\n        this.$vm._isMounted = true;\n        this.$vm.__call_hook('mounted');\n        this.$vm.__call_hook('onReady');\n      },\n      detached: function detached() {\n        this.$vm.$destroy();\n      } },\n\n    pageLifetimes: {\n      show: function show(args) {\n        this.$vm.__call_hook('onPageShow', args);\n      },\n      hide: function hide() {\n        this.$vm && this.$vm.__call_hook('onPageHide');\n      },\n      resize: function resize(size) {\n        this.$vm && this.$vm.__call_hook('onPageResize', size);\n      } },\n\n    methods: {\n      __e: handleEvent,\n      __l: handleLink } };\n\n\n\n  return Component(componentOptions);\n}\n\nvar uni = {};\n\nif (typeof Proxy !== 'undefined') {\n  uni = new Proxy({}, {\n    get: function get(target, name) {\n      if (name === 'upx2px') {\n        return upx2px;\n      }\n      if (api[name]) {\n        return promisify(name, api[name]);\n      }\n      if (!hasOwn(wx, name) && !hasOwn(protocols, name)) {\n        return;\n      }\n      return promisify(name, wrapper(name, wx[name]));\n    } });\n\n} else {\n  uni.upx2px = upx2px;\n\n  Object.keys(api).forEach(function (name) {\n    uni[name] = promisify(name, api[name]);\n  });\n\n  Object.keys(wx).forEach(function (name) {\n    if (hasOwn(wx, name) || hasOwn(protocols, name)) {\n      uni[name] = promisify(name, wrapper(name, wx[name]));\n    }\n  });\n}\n\nvar uni$1 = uni;var _default =\n\nuni$1;exports.default = _default;\n\n//# sourceURL=D:/Program_Files/HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/uni-app-plus/dist/index.js");
 
 /***/ }),
 

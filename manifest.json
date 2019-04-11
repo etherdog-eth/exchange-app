@@ -40,8 +40,14 @@
             "ios" : {},
             /* ios打包配置 */
             "sdkConfigs" : {}
+        },
+		
+		"softinput": {
+            "navBar": "auto", //是否显示软键盘上的导航条
+            "auxiliary": true, //是否开启辅助输入功能
+            "mode": "adjustPan" //软键盘弹出模式，
         }
-    },
+	},
     /* SDK配置 */
     "quickapp" : {},
     /* 快应用特有相关 */

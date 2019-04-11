@@ -6,7 +6,7 @@
 				<view class="p uni-h7">最新价</view>
 				<view class="t uni-h7">涨跌幅</view>
 			</view>
-			<view v-for="(item, index) in list_" :key="index" class="item uni-divider">
+			<view v-for="(item, index) in list_" :key="index" class="item uni-divider" @click="onClick(item)">
 				<view class="n">{{item.name}}</view>
 				<view class="p">{{item.price}}</view>
 				<view class="t"><label class="" :class="item.change > 0 ? 'light uni-bg-up' : 'light uni-bg-down' ">+40.2%</label></view>
@@ -37,7 +37,16 @@
 		},
 		methods: {
 			onClick(e) {
-				console.log("=====================================")
+				console.log(JSON.stringify(e))
+				uni.setStorage({
+					key: 'market',
+					data: JSON.stringify(e),
+					success: function () {
+						uni.switchTab({
+							url:"/pages/trade/main"
+						})
+					}
+				});
 			}
 		}
 	}

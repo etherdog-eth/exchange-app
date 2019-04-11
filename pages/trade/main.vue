@@ -31,9 +31,21 @@
 	import marketDrawer from '../../components/marketDrawer.vue'
 	export default {
 		onReady() {
-			uni.setNavigationBarTitle({
-				title: "BTC/USDT"
-			})
+		},
+		onShow(){
+			uni.getStorage({
+				key: 'market',
+				success: function (res) {
+					this.market = JSON.parse(res.data);
+					uni.setNavigationBarTitle({
+						title: this.market.symbol
+					})
+					uni.removeStorage({
+						key: 'market',
+						success: function (res) {}
+					});
+				}
+			});
 		},
 		onNavigationBarButtonTap(e) {
 			if (e.index == 0) {
@@ -53,6 +65,7 @@
 		},
 		data() {
 			return {
+				market: {},
 				drawerVisible: false,
 				scrollLeft: 0,
 				areaList: [],

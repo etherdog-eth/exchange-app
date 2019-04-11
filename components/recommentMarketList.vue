@@ -1,7 +1,7 @@
 <template>
 	<block>
 		<view class="uni-grid-9">
-			<view v-for="(item, index) in list_" :key="index" class="uni-grid-9-item no-border-right recomment" @click="onClick()">
+			<view v-for="(item, index) in list_" :key="index" class="uni-grid-9-item no-border-right recomment" @click="onClick(item)">
 				<label class="uni-h7 uni-bold">{{item.symbol}}</label>
 				<label :class="item.change > 0 ? 'uni-h4 uni-up' : 'uni-h4 uni-down' ">{{item.price}}</label>
 				<label :class="item.change > 0 ? 'uni-h7 uni-up' : 'uni-h7 uni-down' ">{{item.change > 0 ? "+" : ""}}{{item.change}}%</label>
@@ -33,7 +33,15 @@
 		},
 		methods: {
 			onClick(e) {
-				console.log("=====================================")
+				uni.setStorage({
+					key: 'market',
+					data: JSON.stringify(e),
+					success: function () {
+						uni.switchTab({
+							url:"/pages/trade/main"
+						})
+					}
+				});
 			}
 		}
 	}

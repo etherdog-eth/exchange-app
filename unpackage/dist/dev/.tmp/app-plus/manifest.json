@@ -74,6 +74,11 @@
         }
       }
     },
+    "softinput": {
+      "navBar": "auto",
+      "auxiliary": true,
+      "mode": "adjustPan"
+    },
     "allowsInlineMediaPlayback": true,
     "safearea": {
       "background": "#FFFFFF",

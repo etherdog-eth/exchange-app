@@ -60,7 +60,18 @@
 			<text class="num">825.4</text>
 			<view class="bg sellbg" style="width: 20%;"></view>
 		</view>
-		<view class="depth uni-thinner-border"><view class="uni-h6">深度1</view></view>
+		<view class="depth uni-thinner-border" @click="depthClick">
+			<view class="uni-h6">深度{{depthValue}}</view>
+			<view class="popover-wrap" v-show="popoverVisible">
+				<view class="kailong"></view>
+				<view class="popover uni-thinner-border">
+					<view class="item uni-divider" @click="depthChange(1)">1</view>
+					<view class="item uni-divider" @click="depthChange(2)">2</view>
+					<view class="item uni-divider" @click="depthChange(3)">3</view>
+					<view class="item uni-divider" @click="depthChange(4)">4</view>
+				</view>
+			</view>
+		</view>
   </view>
 </template>
 
@@ -69,8 +80,22 @@ export default {
   props: {
     item: Object
   },
+  data() {
+	  return {
+	  	popoverVisible: false,
+		depthValue: 1
+	  }
+  },
   computed: {
-    
+  },
+  methods: {
+  	depthClick(e) {
+		this.popoverVisible = !this.popoverVisible;
+  	},
+	depthChange(e) {
+		this.depthValue = e;
+		this.$emit('depthChange', e);
+	}
   }
 }
 </script>
@@ -120,6 +145,7 @@ export default {
 		
 	}
 	.pmain .depth{
+		position: relative;
 		margin-top: 10upx;
 		margin-right: 10upx;
 	}
@@ -127,5 +153,36 @@ export default {
 		text-align: center;
 		height: 60upx;
 		line-height: 60upx;
+	}
+	.pmain .depth .popover{
+		position: absolute;
+		top: 80upx;
+		width: 100%;
+		z-index: 9999999999;
+		background: #ffffff;
+		display: inline-block;
+		border-radius: 20px;
+	}
+	.pmain .depth .popover .item{
+		width: 100%;
+		height: 60upx;
+		line-height: 60upx;
+		display: block;
+		text-align: center;
+	}
+	.pmain .depth .kailong{
+		position: absolute;
+		left: 50%;
+		top: 74upx;
+		transform: translate(-50%, -50%);
+		max-width: 50%;
+		width:0;
+		height:0;
+		border-right:20px solid transparent;
+		border-left:20px solid transparent;
+		border-bottom:20px solid #E0E0E0;
+	}
+	.popover-wrap .uni-thinner-border:before{
+		border-radius: 15px !important;
 	}
 </style>

@@ -1484,14 +1484,17 @@ Z([3,'_view data-v-7b1e8e5a container'])
 Z([3,'_view data-v-7b1e8e5a content'])
 Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-0']]]]],[[8],'$root',[[7],[3,'$root']]]])
 Z([3,'2bce65b4'])
+Z([3,'handleProxy'])
 Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-1']]]]],[[8],'$root',[[7],[3,'$root']]]])
+Z([[7],[3,'$k']])
+Z([1,'6f1043b4-0'])
 Z([3,'0145b9ca'])
 Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-2']]]]],[[8],'$root',[[7],[3,'$root']]]])
 Z([3,'25c13231'])
-Z([3,'handleProxy'])
+Z(z[5])
 Z([[9],[[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'6f1043b4-4']]]]],[[8],'$root',[[7],[3,'$root']]]],[[8],'$slotdefault',[1,'data-v-7b1e8e5a-default-6f1043b4-4']]])
-Z([[7],[3,'$k']])
-Z([1,'6f1043b4-0'])
+Z(z[7])
+Z([1,'6f1043b4-1'])
 Z([3,'42b0ca7f'])
 Z([3,'false'])
 Z([3,'left'])
@@ -1509,7 +1512,7 @@ __WXML_GLOBAL__.ops_set.$gwx=z;
 __WXML_GLOBAL__.ops_init.$gwx=true;
 var nv_require=function(){var nnm={};var nom={};return function(n){return function(){if(!nnm[n]) return undefined;try{if(!nom[n])nom[n]=nnm[n]();return nom[n];}catch(e){e.message=e.message.replace(/nv_/g,'');var tmp = e.stack.substring(0,e.stack.lastIndexOf(n));e.stack = tmp.substring(0,tmp.lastIndexOf('\n'));e.stack = e.stack.replace(/\snv_/g,' ');e.stack = $gstack(e.stack);e.stack += '\n    at ' + n.substring(2);console.error(e);}
 }}}()
-var x=['./common/slots.wxml','/components/homeSwiper.vue.wxml','/components/noticeSwiper.vue.wxml','/components/recommentMarketList.vue.wxml','/components/marketList.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/components/settingDrawer.vue.wxml','/components/tradePanel.vue.wxml','/components/positionList.vue.wxml','/components/entrustOrderList.vue.wxml','/components/marketDrawer.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','/components/m-input.vue.wxml','/components/m-icon/m-icon.vue.wxml','/common/slots.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./components/entrustOrderList.vue.wxml','./components/homeSwiper.vue.wxml','./components/m-icon/m-icon.vue.wxml','./components/m-input.vue.wxml','./components/marketDrawer.vue.wxml','./components/marketList.vue.wxml','./components/noticeSwiper.vue.wxml','./components/positionList.vue.wxml','./components/recommentMarketList.vue.wxml','./components/settingDrawer.vue.wxml','./components/tradePanel.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/assets/detail/main.vue.wxml','./pages/assets/detail/main.wxml','./main.vue.wxml','./pages/assets/main.vue.wxml','./pages/assets/main.wxml','./pages/home/main.vue.wxml','./pages/home/main.wxml','./pages/login/login.vue.wxml','./pages/login/login.wxml','./login.vue.wxml','./pages/pwd/pwd.vue.wxml','./pages/pwd/pwd.wxml','./pwd.vue.wxml','./pages/quotation/main.vue.wxml','./pages/quotation/main.wxml','./pages/reg/reg.vue.wxml','./pages/reg/reg.wxml','./reg.vue.wxml','./pages/trade/kline/main.vue.wxml','./pages/trade/kline/main.wxml','./pages/trade/main.vue.wxml','./pages/trade/main.wxml'];d_[x[0]]={}
+var x=['./common/slots.wxml','/components/homeSwiper.vue.wxml','/components/noticeSwiper.vue.wxml','/components/recommentMarketList.vue.wxml','/components/marketList.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/components/settingDrawer.vue.wxml','/components/tradePanel.vue.wxml','/components/positionList.vue.wxml','/components/entrustOrderList.vue.wxml','/components/marketDrawer.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','./components/entrustOrderList.vue.wxml','./components/homeSwiper.vue.wxml','./components/m-icon/m-icon.vue.wxml','./components/m-input.vue.wxml','/components/m-icon/m-icon.vue.wxml','./components/marketDrawer.vue.wxml','./components/marketList.vue.wxml','./components/noticeSwiper.vue.wxml','./components/positionList.vue.wxml','./components/recommentMarketList.vue.wxml','./components/settingDrawer.vue.wxml','./components/tradePanel.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml','/common/slots.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml','./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/assets/detail/main.vue.wxml','./pages/assets/detail/main.wxml','./main.vue.wxml','./pages/assets/main.vue.wxml','./pages/assets/main.wxml','./pages/home/main.vue.wxml','./pages/home/main.wxml','./pages/login/login.vue.wxml','/components/m-input.vue.wxml','./pages/login/login.wxml','./login.vue.wxml','./pages/pwd/pwd.vue.wxml','./pages/pwd/pwd.wxml','./pwd.vue.wxml','./pages/quotation/main.vue.wxml','/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml','./pages/quotation/main.wxml','./pages/reg/reg.vue.wxml','./pages/reg/reg.wxml','./reg.vue.wxml','./pages/trade/kline/main.vue.wxml','./pages/trade/kline/main.wxml','./pages/trade/main.vue.wxml','./pages/trade/main.wxml'];d_[x[0]]={}
 d_[x[0]]["5aa12eb9-default-5aa12eb9-5"]=function(e,s,r,gg){
 var z=gz$gwx_1()
 var b=x[0]+':5aa12eb9-default-5aa12eb9-5'
@@ -1520,7 +1523,7 @@ p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
-cs.push("./common/slots.wxml:template:20:47")
+cs.push("./common/slots.wxml:template:15:47")
 var xC=_oz(z,2,e,s,gg)
 var oD=_gd(x[0],xC,e_,d_)
 if(oD){
@@ -1530,7 +1533,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[0],20,118)
+else _w(xC,x[0],15,118)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -1549,7 +1552,7 @@ p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
-cs.push("./common/slots.wxml:template:22:54")
+cs.push("./common/slots.wxml:template:17:54")
 var xC=_oz(z,5,e,s,gg)
 var oD=_gd(x[0],xC,e_,d_)
 if(oD){
@@ -1559,7 +1562,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[0],22,125)
+else _w(xC,x[0],17,125)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -1578,7 +1581,7 @@ p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
-cs.push("./common/slots.wxml:template:24:142")
+cs.push("./common/slots.wxml:template:19:142")
 var xC=_oz(z,8,e,s,gg)
 var oD=_gd(x[0],xC,e_,d_)
 if(oD){
@@ -1588,7 +1591,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[0],24,272)
+else _w(xC,x[0],19,272)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -1605,12 +1608,12 @@ gg.f=$gdc(f_["./common/slots.wxml"],"",1)
 if(p_[b]){_wl(b,x[0]);return}
 p_[b]=true
 try{
-cs.push("./common/slots.wxml:view:26:47")
+cs.push("./common/slots.wxml:view:21:47")
 var oB=_n('view')
 _rz(z,oB,'class',12,e,s,gg)
 var xC=_v()
 _(oB,xC)
-cs.push("./common/slots.wxml:template:26:84")
+cs.push("./common/slots.wxml:template:21:84")
 var oD=_oz(z,14,e,s,gg)
 var fE=_gd(x[0],oD,e_,d_)
 if(fE){
@@ -1620,11 +1623,11 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[0],26,199)
+else _w(oD,x[0],21,199)
 cs.pop()
 var hG=_v()
 _(oB,hG)
-cs.push("./common/slots.wxml:template:26:222")
+cs.push("./common/slots.wxml:template:21:222")
 var oH=_oz(z,18,e,s,gg)
 var cI=_gd(x[0],oH,e_,d_)
 if(cI){
@@ -1634,11 +1637,11 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[0],26,337)
+else _w(oH,x[0],21,337)
 cs.pop()
 var lK=_v()
 _(oB,lK)
-cs.push("./common/slots.wxml:template:26:360")
+cs.push("./common/slots.wxml:template:21:360")
 var aL=_oz(z,22,e,s,gg)
 var tM=_gd(x[0],aL,e_,d_)
 if(tM){
@@ -1648,11 +1651,11 @@ lK.wxXCkey=3
 tM(eN,eN,lK,gg)
 gg.f=cur_globalf
 }
-else _w(aL,x[0],26,475)
+else _w(aL,x[0],21,475)
 cs.pop()
 var bO=_v()
 _(oB,bO)
-cs.push("./common/slots.wxml:template:26:498")
+cs.push("./common/slots.wxml:template:21:498")
 var oP=_oz(z,26,e,s,gg)
 var xQ=_gd(x[0],oP,e_,d_)
 if(xQ){
@@ -1662,11 +1665,11 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[0],26,613)
+else _w(oP,x[0],21,613)
 cs.pop()
 var fS=_v()
 _(oB,fS)
-cs.push("./common/slots.wxml:template:26:636")
+cs.push("./common/slots.wxml:template:21:636")
 var cT=_oz(z,30,e,s,gg)
 var hU=_gd(x[0],cT,e_,d_)
 if(hU){
@@ -1676,7 +1679,7 @@ fS.wxXCkey=3
 hU(oV,oV,fS,gg)
 gg.f=cur_globalf
 }
-else _w(cT,x[0],26,745)
+else _w(cT,x[0],21,745)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -1703,16 +1706,6 @@ _ai(oB,x[10],e_,x[0],10,2)
 _ai(oB,x[11],e_,x[0],11,2)
 _ai(oB,x[12],e_,x[0],12,2)
 _ai(oB,x[13],e_,x[0],13,2)
-_ai(oB,x[14],e_,x[0],14,2)
-_ai(oB,x[15],e_,x[0],15,2)
-_ai(oB,x[16],e_,x[0],16,2)
-_ai(oB,x[17],e_,x[0],17,2)
-_ai(oB,x[18],e_,x[0],18,2)
-oB.pop()
-oB.pop()
-oB.pop()
-oB.pop()
-oB.pop()
 oB.pop()
 oB.pop()
 oB.pop()
@@ -1728,14 +1721,14 @@ oB.pop()
 oB.pop()
 return r
 }
-e_[x[0]]={f:m0,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6],x[7],x[8],x[9],x[10],x[11],x[12],x[13],x[14],x[15],x[16],x[17],x[18]],ic:[]}
-d_[x[19]]={}
-d_[x[19]]["25c13231"]=function(e,s,r,gg){
+e_[x[0]]={f:m0,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6],x[7],x[8],x[9],x[10],x[11],x[12],x[13]],ic:[]}
+d_[x[14]]={}
+d_[x[14]]["25c13231"]=function(e,s,r,gg){
 var z=gz$gwx_2()
-var b=x[19]+':25c13231'
+var b=x[14]+':25c13231'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/entrustOrderList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[19]);return}
+if(p_[b]){_wl(b,x[14]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1749,14 +1742,14 @@ var m1=function(e,s,r,gg){
 var z=gz$gwx_2()
 return r
 }
-e_[x[19]]={f:m1,j:[],i:[],ti:[],ic:[]}
-d_[x[20]]={}
-d_[x[20]]["1b13b62a"]=function(e,s,r,gg){
+e_[x[14]]={f:m1,j:[],i:[],ti:[],ic:[]}
+d_[x[15]]={}
+d_[x[15]]["1b13b62a"]=function(e,s,r,gg){
 var z=gz$gwx_3()
-var b=x[20]+':1b13b62a'
+var b=x[15]+':1b13b62a'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/homeSwiper.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[20]);return}
+if(p_[b]){_wl(b,x[15]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1770,14 +1763,14 @@ var m2=function(e,s,r,gg){
 var z=gz$gwx_3()
 return r
 }
-e_[x[20]]={f:m2,j:[],i:[],ti:[],ic:[]}
-d_[x[21]]={}
-d_[x[21]]["7f60df9b"]=function(e,s,r,gg){
+e_[x[15]]={f:m2,j:[],i:[],ti:[],ic:[]}
+d_[x[16]]={}
+d_[x[16]]["7f60df9b"]=function(e,s,r,gg){
 var z=gz$gwx_4()
-var b=x[21]+':7f60df9b'
+var b=x[16]+':7f60df9b'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/m-icon/m-icon.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[21]);return}
+if(p_[b]){_wl(b,x[16]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1791,14 +1784,14 @@ var m3=function(e,s,r,gg){
 var z=gz$gwx_4()
 return r
 }
-e_[x[21]]={f:m3,j:[],i:[],ti:[],ic:[]}
-d_[x[22]]={}
-d_[x[22]]["2e8a4436"]=function(e,s,r,gg){
+e_[x[16]]={f:m3,j:[],i:[],ti:[],ic:[]}
+d_[x[17]]={}
+d_[x[17]]["2e8a4436"]=function(e,s,r,gg){
 var z=gz$gwx_5()
-var b=x[22]+':2e8a4436'
+var b=x[17]+':2e8a4436'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/m-input.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[22]);return}
+if(p_[b]){_wl(b,x[17]);return}
 p_[b]=true
 try{
 cs.push("./components/m-input.vue.wxml:view:1:78")
@@ -1812,7 +1805,7 @@ var fE=_v()
 _(xC,fE)
 cs.push("./components/m-input.vue.wxml:template:1:521")
 var cF=_oz(z,8,e,s,gg)
-var hG=_gd(x[22],cF,e_,d_)
+var hG=_gd(x[17],cF,e_,d_)
 if(hG){
 var oH=_1z(z,5,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -1820,7 +1813,7 @@ fE.wxXCkey=3
 hG(oH,oH,fE,gg)
 gg.f=cur_globalf
 }
-else _w(cF,x[22],1,706)
+else _w(cF,x[17],1,706)
 cs.pop()
 cs.pop()
 }
@@ -1832,7 +1825,7 @@ var cI=_v()
 _(oD,cI)
 cs.push("./components/m-input.vue.wxml:template:1:803")
 var oJ=_oz(z,16,e,s,gg)
-var lK=_gd(x[22],oJ,e_,d_)
+var lK=_gd(x[17],oJ,e_,d_)
 if(lK){
 var aL=_1z(z,13,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -1840,7 +1833,7 @@ cI.wxXCkey=3
 lK(aL,aL,cI,gg)
 gg.f=cur_globalf
 }
-else _w(oJ,x[22],1,970)
+else _w(oJ,x[17],1,970)
 cs.pop()
 cs.pop()
 }
@@ -1857,19 +1850,19 @@ return r
 }
 var m4=function(e,s,r,gg){
 var z=gz$gwx_5()
-var hG=e_[x[22]].i
-_ai(hG,x[16],e_,x[22],1,1)
+var hG=e_[x[17]].i
+_ai(hG,x[18],e_,x[17],1,1)
 hG.pop()
 return r
 }
-e_[x[22]]={f:m4,j:[],i:[],ti:[x[16]],ic:[]}
-d_[x[23]]={}
-d_[x[23]]["42cb03fe"]=function(e,s,r,gg){
+e_[x[17]]={f:m4,j:[],i:[],ti:[x[18]],ic:[]}
+d_[x[19]]={}
+d_[x[19]]["42cb03fe"]=function(e,s,r,gg){
 var z=gz$gwx_6()
-var b=x[23]+':42cb03fe'
+var b=x[19]+':42cb03fe'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/marketDrawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[23]);return}
+if(p_[b]){_wl(b,x[19]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1883,14 +1876,14 @@ var m5=function(e,s,r,gg){
 var z=gz$gwx_6()
 return r
 }
-e_[x[23]]={f:m5,j:[],i:[],ti:[],ic:[]}
-d_[x[24]]={}
-d_[x[24]]["011b8ca4"]=function(e,s,r,gg){
+e_[x[19]]={f:m5,j:[],i:[],ti:[],ic:[]}
+d_[x[20]]={}
+d_[x[20]]["011b8ca4"]=function(e,s,r,gg){
 var z=gz$gwx_7()
-var b=x[24]+':011b8ca4'
+var b=x[20]+':011b8ca4'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/marketList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[24]);return}
+if(p_[b]){_wl(b,x[20]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1904,14 +1897,14 @@ var m6=function(e,s,r,gg){
 var z=gz$gwx_7()
 return r
 }
-e_[x[24]]={f:m6,j:[],i:[],ti:[],ic:[]}
-d_[x[25]]={}
-d_[x[25]]["090a69b8"]=function(e,s,r,gg){
+e_[x[20]]={f:m6,j:[],i:[],ti:[],ic:[]}
+d_[x[21]]={}
+d_[x[21]]["090a69b8"]=function(e,s,r,gg){
 var z=gz$gwx_8()
-var b=x[25]+':090a69b8'
+var b=x[21]+':090a69b8'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/noticeSwiper.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[25]);return}
+if(p_[b]){_wl(b,x[21]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1925,14 +1918,14 @@ var m7=function(e,s,r,gg){
 var z=gz$gwx_8()
 return r
 }
-e_[x[25]]={f:m7,j:[],i:[],ti:[],ic:[]}
-d_[x[26]]={}
-d_[x[26]]["0145b9ca"]=function(e,s,r,gg){
+e_[x[21]]={f:m7,j:[],i:[],ti:[],ic:[]}
+d_[x[22]]={}
+d_[x[22]]["0145b9ca"]=function(e,s,r,gg){
 var z=gz$gwx_9()
-var b=x[26]+':0145b9ca'
+var b=x[22]+':0145b9ca'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/positionList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[26]);return}
+if(p_[b]){_wl(b,x[22]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1946,14 +1939,14 @@ var m8=function(e,s,r,gg){
 var z=gz$gwx_9()
 return r
 }
-e_[x[26]]={f:m8,j:[],i:[],ti:[],ic:[]}
-d_[x[27]]={}
-d_[x[27]]["37e9e4b2"]=function(e,s,r,gg){
+e_[x[22]]={f:m8,j:[],i:[],ti:[],ic:[]}
+d_[x[23]]={}
+d_[x[23]]["37e9e4b2"]=function(e,s,r,gg){
 var z=gz$gwx_10()
-var b=x[27]+':37e9e4b2'
+var b=x[23]+':37e9e4b2'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/recommentMarketList.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[27]);return}
+if(p_[b]){_wl(b,x[23]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1967,14 +1960,14 @@ var m9=function(e,s,r,gg){
 var z=gz$gwx_10()
 return r
 }
-e_[x[27]]={f:m9,j:[],i:[],ti:[],ic:[]}
-d_[x[28]]={}
-d_[x[28]]["3a980c2d"]=function(e,s,r,gg){
+e_[x[23]]={f:m9,j:[],i:[],ti:[],ic:[]}
+d_[x[24]]={}
+d_[x[24]]["3a980c2d"]=function(e,s,r,gg){
 var z=gz$gwx_11()
-var b=x[28]+':3a980c2d'
+var b=x[24]+':3a980c2d'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/settingDrawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[28]);return}
+if(p_[b]){_wl(b,x[24]);return}
 p_[b]=true
 try{
 cs.push("./components/settingDrawer.vue.wxml:block:1:271")
@@ -1982,7 +1975,7 @@ var oB=_v()
 _(r,oB)
 cs.push("./components/settingDrawer.vue.wxml:template:1:278")
 var xC=_oz(z,2,e,s,gg)
-var oD=_gd(x[28],xC,e_,d_)
+var oD=_gd(x[24],xC,e_,d_)
 if(oD){
 var fE=_1z(z,1,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -1990,7 +1983,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[28],1,393)
+else _w(xC,x[24],1,393)
 cs.pop()
 cs.push("./components/settingDrawer.vue.wxml:view:1:416")
 var cF=_n('view')
@@ -1999,7 +1992,7 @@ var hG=_v()
 _(cF,hG)
 cs.push("./components/settingDrawer.vue.wxml:template:1:488")
 var oH=_oz(z,5,e,s,gg)
-var cI=_gd(x[28],oH,e_,d_)
+var cI=_gd(x[24],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,4,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2007,13 +2000,13 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[28],1,581)
+else _w(oH,x[24],1,581)
 cs.pop()
 var lK=_v()
 _(cF,lK)
 cs.push("./components/settingDrawer.vue.wxml:template:1:718")
 var aL=_oz(z,9,e,s,gg)
-var tM=_gd(x[28],aL,e_,d_)
+var tM=_gd(x[24],aL,e_,d_)
 if(tM){
 var eN=_1z(z,8,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2021,7 +2014,7 @@ lK.wxXCkey=3
 tM(eN,eN,lK,gg)
 gg.f=cur_globalf
 }
-else _w(aL,x[28],1,811)
+else _w(aL,x[24],1,811)
 cs.pop()
 cs.pop()
 _(r,cF)
@@ -2029,7 +2022,7 @@ var bO=_v()
 _(r,bO)
 cs.push("./components/settingDrawer.vue.wxml:template:1:921")
 var oP=_oz(z,13,e,s,gg)
-var xQ=_gd(x[28],oP,e_,d_)
+var xQ=_gd(x[24],oP,e_,d_)
 if(xQ){
 var oR=_1z(z,12,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2037,7 +2030,7 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[28],1,1036)
+else _w(oP,x[24],1,1036)
 cs.pop()
 cs.pop()
 }catch(err){
@@ -2049,23 +2042,23 @@ return r
 }
 var m10=function(e,s,r,gg){
 var z=gz$gwx_11()
-var eN=e_[x[28]].i
-_ai(eN,x[11],e_,x[28],1,1)
-_ai(eN,x[12],e_,x[28],1,79)
-_ai(eN,x[13],e_,x[28],1,167)
+var eN=e_[x[24]].i
+_ai(eN,x[11],e_,x[24],1,1)
+_ai(eN,x[12],e_,x[24],1,79)
+_ai(eN,x[13],e_,x[24],1,167)
 eN.pop()
 eN.pop()
 eN.pop()
 return r
 }
-e_[x[28]]={f:m10,j:[],i:[],ti:[x[11],x[12],x[13]],ic:[]}
-d_[x[29]]={}
-d_[x[29]]["2bce65b4"]=function(e,s,r,gg){
+e_[x[24]]={f:m10,j:[],i:[],ti:[x[11],x[12],x[13]],ic:[]}
+d_[x[25]]={}
+d_[x[25]]["2bce65b4"]=function(e,s,r,gg){
 var z=gz$gwx_12()
-var b=x[29]+':2bce65b4'
+var b=x[25]+':2bce65b4'
 r.wxVkey=b
 gg.f=$gdc(f_["./components/tradePanel.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[29]);return}
+if(p_[b]){_wl(b,x[25]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2079,14 +2072,14 @@ var m11=function(e,s,r,gg){
 var z=gz$gwx_12()
 return r
 }
-e_[x[29]]={f:m11,j:[],i:[],ti:[],ic:[]}
-d_[x[30]]={}
-d_[x[30]]["5264740d"]=function(e,s,r,gg){
+e_[x[25]]={f:m11,j:[],i:[],ti:[],ic:[]}
+d_[x[26]]={}
+d_[x[26]]["5264740d"]=function(e,s,r,gg){
 var z=gz$gwx_13()
-var b=x[30]+':5264740d'
+var b=x[26]+':5264740d'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[30]);return}
+if(p_[b]){_wl(b,x[26]);return}
 p_[b]=true
 try{
 var oB=_v()
@@ -2107,14 +2100,14 @@ var m12=function(e,s,r,gg){
 var z=gz$gwx_13()
 return r
 }
-e_[x[30]]={f:m12,j:[],i:[],ti:[],ic:[]}
-d_[x[31]]={}
-d_[x[31]]["42b0ca7f"]=function(e,s,r,gg){
+e_[x[26]]={f:m12,j:[],i:[],ti:[],ic:[]}
+d_[x[27]]={}
+d_[x[27]]["42b0ca7f"]=function(e,s,r,gg){
 var z=gz$gwx_14()
-var b=x[31]+':42b0ca7f'
+var b=x[27]+':42b0ca7f'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[31]);return}
+if(p_[b]){_wl(b,x[27]);return}
 p_[b]=true
 try{
 var oB=_v()
@@ -2127,7 +2120,7 @@ var oD=_v()
 _(xC,oD)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml:template:1:505")
 var fE=_oz(z,8,e,s,gg)
-var cF=_gd(x[31],fE,e_,d_)
+var cF=_gd(x[27],fE,e_,d_)
 if(cF){
 var hG=_1z(z,7,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2135,7 +2128,7 @@ oD.wxXCkey=3
 cF(hG,hG,oD,gg)
 gg.f=cur_globalf
 }
-else _w(fE,x[31],1,563)
+else _w(fE,x[27],1,563)
 cs.pop()
 cs.pop()
 _(oB,xC)
@@ -2149,12 +2142,12 @@ throw err
 p_[b]=false
 return r
 }
-d_[x[31]]["default"]=function(e,s,r,gg){
+d_[x[27]]["default"]=function(e,s,r,gg){
 var z=gz$gwx_14()
-var b=x[31]+':default'
+var b=x[27]+':default'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[31]);return}
+if(p_[b]){_wl(b,x[27]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2166,19 +2159,19 @@ return r
 }
 var m13=function(e,s,r,gg){
 var z=gz$gwx_14()
-var oR=e_[x[31]].i
-_ai(oR,x[17],e_,x[31],1,1)
+var oR=e_[x[27]].i
+_ai(oR,x[28],e_,x[27],1,1)
 oR.pop()
 return r
 }
-e_[x[31]]={f:m13,j:[],i:[],ti:[x[17]],ic:[]}
-d_[x[32]]={}
-d_[x[32]]["6d4d6fbf"]=function(e,s,r,gg){
+e_[x[27]]={f:m13,j:[],i:[],ti:[x[28]],ic:[]}
+d_[x[29]]={}
+d_[x[29]]["6d4d6fbf"]=function(e,s,r,gg){
 var z=gz$gwx_15()
-var b=x[32]+':6d4d6fbf'
+var b=x[29]+':6d4d6fbf'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[32]);return}
+if(p_[b]){_wl(b,x[29]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2192,14 +2185,14 @@ var m14=function(e,s,r,gg){
 var z=gz$gwx_15()
 return r
 }
-e_[x[32]]={f:m14,j:[],i:[],ti:[],ic:[]}
-d_[x[33]]={}
-d_[x[33]]["277429cb"]=function(e,s,r,gg){
+e_[x[29]]={f:m14,j:[],i:[],ti:[],ic:[]}
+d_[x[30]]={}
+d_[x[30]]["277429cb"]=function(e,s,r,gg){
 var z=gz$gwx_16()
-var b=x[33]+':277429cb'
+var b=x[30]+':277429cb'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[33]);return}
+if(p_[b]){_wl(b,x[30]);return}
 p_[b]=true
 try{
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:view:1:185")
@@ -2219,7 +2212,7 @@ var hG=_v()
 _(oD,hG)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:template:1:841")
 var oH=_oz(z,10,e,s,gg)
-var cI=_gd(x[33],oH,e_,d_)
+var cI=_gd(x[30],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,9,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2227,7 +2220,7 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[33],1,912)
+else _w(oH,x[30],1,912)
 cs.pop()
 cs.pop()
 }
@@ -2252,7 +2245,7 @@ var bO=_v()
 _(aL,bO)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:template:1:1361")
 var oP=_oz(z,16,e,s,gg)
-var xQ=_gd(x[33],oP,e_,d_)
+var xQ=_gd(x[30],oP,e_,d_)
 if(xQ){
 var oR=_1z(z,15,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2260,7 +2253,7 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[33],1,1487)
+else _w(oP,x[30],1,1487)
 cs.pop()
 cs.pop()
 }
@@ -2278,7 +2271,7 @@ var fS=_v()
 _(eN,fS)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml:template:1:1732")
 var cT=_oz(z,21,e,s,gg)
-var hU=_gd(x[33],cT,e_,d_)
+var hU=_gd(x[30],cT,e_,d_)
 if(hU){
 var oV=_1z(z,20,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2286,7 +2279,7 @@ fS.wxXCkey=3
 hU(oV,oV,fS,gg)
 gg.f=cur_globalf
 }
-else _w(cT,x[33],1,1899)
+else _w(cT,x[30],1,1899)
 cs.pop()
 cs.pop()
 }
@@ -2313,21 +2306,21 @@ return r
 }
 var m15=function(e,s,r,gg){
 var z=gz$gwx_16()
-var hU=e_[x[33]].i
-_ai(hU,x[13],e_,x[33],1,1)
-_ai(hU,x[18],e_,x[33],1,79)
+var hU=e_[x[30]].i
+_ai(hU,x[13],e_,x[30],1,1)
+_ai(hU,x[31],e_,x[30],1,79)
 hU.pop()
 hU.pop()
 return r
 }
-e_[x[33]]={f:m15,j:[],i:[],ti:[x[13],x[18]],ic:[]}
-d_[x[34]]={}
-d_[x[34]]["744d495f"]=function(e,s,r,gg){
+e_[x[30]]={f:m15,j:[],i:[],ti:[x[13],x[31]],ic:[]}
+d_[x[32]]={}
+d_[x[32]]["744d495f"]=function(e,s,r,gg){
 var z=gz$gwx_17()
-var b=x[34]+':744d495f'
+var b=x[32]+':744d495f'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[34]);return}
+if(p_[b]){_wl(b,x[32]);return}
 p_[b]=true
 try{
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml:view:1:62")
@@ -2337,7 +2330,7 @@ var xC=_v()
 _(oB,xC)
 cs.push("./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml:template:1:136")
 var oD=_oz(z,4,e,s,gg)
-var fE=_gd(x[34],oD,e_,d_)
+var fE=_gd(x[32],oD,e_,d_)
 if(fE){
 var cF=_1z(z,3,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2345,7 +2338,7 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[34],1,194)
+else _w(oD,x[32],1,194)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -2356,12 +2349,12 @@ throw err
 p_[b]=false
 return r
 }
-d_[x[34]]["default"]=function(e,s,r,gg){
+d_[x[32]]["default"]=function(e,s,r,gg){
 var z=gz$gwx_17()
-var b=x[34]+':default'
+var b=x[32]+':default'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[34]);return}
+if(p_[b]){_wl(b,x[32]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2373,19 +2366,19 @@ return r
 }
 var m16=function(e,s,r,gg){
 var z=gz$gwx_17()
-var cW=e_[x[34]].i
-_ai(cW,x[17],e_,x[34],1,1)
+var cW=e_[x[32]].i
+_ai(cW,x[28],e_,x[32],1,1)
 cW.pop()
 return r
 }
-e_[x[34]]={f:m16,j:[],i:[],ti:[x[17]],ic:[]}
-d_[x[35]]={}
-d_[x[35]]["3806434b"]=function(e,s,r,gg){
+e_[x[32]]={f:m16,j:[],i:[],ti:[x[28]],ic:[]}
+d_[x[33]]={}
+d_[x[33]]["3806434b"]=function(e,s,r,gg){
 var z=gz$gwx_18()
-var b=x[35]+':3806434b'
+var b=x[33]+':3806434b'
 r.wxVkey=b
 gg.f=$gdc(f_["./node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[35]);return}
+if(p_[b]){_wl(b,x[33]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2399,14 +2392,14 @@ var m17=function(e,s,r,gg){
 var z=gz$gwx_18()
 return r
 }
-e_[x[35]]={f:m17,j:[],i:[],ti:[],ic:[]}
-d_[x[36]]={}
-d_[x[36]]["62ecdc5b"]=function(e,s,r,gg){
+e_[x[33]]={f:m17,j:[],i:[],ti:[],ic:[]}
+d_[x[34]]={}
+d_[x[34]]["62ecdc5b"]=function(e,s,r,gg){
 var z=gz$gwx_19()
-var b=x[36]+':62ecdc5b'
+var b=x[34]+':62ecdc5b'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/assets/detail/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[36]);return}
+if(p_[b]){_wl(b,x[34]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2420,17 +2413,17 @@ var m18=function(e,s,r,gg){
 var z=gz$gwx_19()
 return r
 }
-e_[x[36]]={f:m18,j:[],i:[],ti:[],ic:[]}
-d_[x[37]]={}
+e_[x[34]]={f:m18,j:[],i:[],ti:[],ic:[]}
+d_[x[35]]={}
 var m19=function(e,s,r,gg){
 var z=gz$gwx_20()
-var t1=e_[x[37]].i
-_ai(t1,x[38],e_,x[37],1,1)
+var t1=e_[x[35]].i
+_ai(t1,x[36],e_,x[35],1,1)
 var e2=_v()
 _(r,e2)
 cs.push("./pages/assets/detail/main.wxml:template:2:6")
 var b3=_oz(z,1,e,s,gg)
-var o4=_gd(x[37],b3,e_,d_)
+var o4=_gd(x[35],b3,e_,d_)
 if(o4){
 var x5=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2438,19 +2431,19 @@ e2.wxXCkey=3
 o4(x5,x5,e2,gg)
 gg.f=cur_globalf
 }
-else _w(b3,x[37],2,18)
+else _w(b3,x[35],2,18)
 cs.pop()
 t1.pop()
 return r
 }
-e_[x[37]]={f:m19,j:[],i:[],ti:[x[38]],ic:[]}
-d_[x[39]]={}
-d_[x[39]]["8dc7fad6"]=function(e,s,r,gg){
+e_[x[35]]={f:m19,j:[],i:[],ti:[x[36]],ic:[]}
+d_[x[37]]={}
+d_[x[37]]["8dc7fad6"]=function(e,s,r,gg){
 var z=gz$gwx_21()
-var b=x[39]+':8dc7fad6'
+var b=x[37]+':8dc7fad6'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/assets/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[39]);return}
+if(p_[b]){_wl(b,x[37]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -2464,17 +2457,17 @@ var m20=function(e,s,r,gg){
 var z=gz$gwx_21()
 return r
 }
-e_[x[39]]={f:m20,j:[],i:[],ti:[],ic:[]}
-d_[x[40]]={}
+e_[x[37]]={f:m20,j:[],i:[],ti:[],ic:[]}
+d_[x[38]]={}
 var m21=function(e,s,r,gg){
 var z=gz$gwx_22()
-var c8=e_[x[40]].i
-_ai(c8,x[38],e_,x[40],1,1)
+var c8=e_[x[38]].i
+_ai(c8,x[36],e_,x[38],1,1)
 var h9=_v()
 _(r,h9)
 cs.push("./pages/assets/main.wxml:template:2:6")
 var o0=_oz(z,1,e,s,gg)
-var cAB=_gd(x[40],o0,e_,d_)
+var cAB=_gd(x[38],o0,e_,d_)
 if(cAB){
 var oBB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2482,19 +2475,19 @@ h9.wxXCkey=3
 cAB(oBB,oBB,h9,gg)
 gg.f=cur_globalf
 }
-else _w(o0,x[40],2,18)
+else _w(o0,x[38],2,18)
 cs.pop()
 c8.pop()
 return r
 }
-e_[x[40]]={f:m21,j:[],i:[],ti:[x[38]],ic:[]}
-d_[x[41]]={}
-d_[x[41]]["5aa12eb9"]=function(e,s,r,gg){
+e_[x[38]]={f:m21,j:[],i:[],ti:[x[36]],ic:[]}
+d_[x[39]]={}
+d_[x[39]]["5aa12eb9"]=function(e,s,r,gg){
 var z=gz$gwx_23()
-var b=x[41]+':5aa12eb9'
+var b=x[39]+':5aa12eb9'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/home/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[41]);return}
+if(p_[b]){_wl(b,x[39]);return}
 p_[b]=true
 try{
 cs.push("./pages/home/main.vue.wxml:view:1:363")
@@ -2504,7 +2497,7 @@ var xC=_v()
 _(oB,xC)
 cs.push("./pages/home/main.vue.wxml:template:1:402")
 var oD=_oz(z,3,e,s,gg)
-var fE=_gd(x[41],oD,e_,d_)
+var fE=_gd(x[39],oD,e_,d_)
 if(fE){
 var cF=_1z(z,2,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2512,13 +2505,13 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[41],1,473)
+else _w(oD,x[39],1,473)
 cs.pop()
 var hG=_v()
 _(oB,hG)
 cs.push("./pages/home/main.vue.wxml:template:1:496")
 var oH=_oz(z,5,e,s,gg)
-var cI=_gd(x[41],oH,e_,d_)
+var cI=_gd(x[39],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,4,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2526,13 +2519,13 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[41],1,567)
+else _w(oH,x[39],1,567)
 cs.pop()
 var lK=_v()
 _(oB,lK)
 cs.push("./pages/home/main.vue.wxml:template:1:638")
 var aL=_oz(z,7,e,s,gg)
-var tM=_gd(x[41],aL,e_,d_)
+var tM=_gd(x[39],aL,e_,d_)
 if(tM){
 var eN=_1z(z,6,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2540,13 +2533,13 @@ lK.wxXCkey=3
 tM(eN,eN,lK,gg)
 gg.f=cur_globalf
 }
-else _w(aL,x[41],1,709)
+else _w(aL,x[39],1,709)
 cs.pop()
 var bO=_v()
 _(oB,bO)
 cs.push("./pages/home/main.vue.wxml:template:1:982")
 var oP=_oz(z,9,e,s,gg)
-var xQ=_gd(x[41],oP,e_,d_)
+var xQ=_gd(x[39],oP,e_,d_)
 if(xQ){
 var oR=_1z(z,8,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2554,13 +2547,13 @@ bO.wxXCkey=3
 xQ(oR,oR,bO,gg)
 gg.f=cur_globalf
 }
-else _w(oP,x[41],1,1053)
+else _w(oP,x[39],1,1053)
 cs.pop()
 var fS=_v()
 _(oB,fS)
 cs.push("./pages/home/main.vue.wxml:template:1:1076")
 var cT=_oz(z,14,e,s,gg)
-var hU=_gd(x[41],cT,e_,d_)
+var hU=_gd(x[39],cT,e_,d_)
 if(hU){
 var oV=_1z(z,11,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2568,7 +2561,7 @@ fS.wxXCkey=3
 hU(oV,oV,fS,gg)
 gg.f=cur_globalf
 }
-else _w(cT,x[41],1,1293)
+else _w(cT,x[39],1,1293)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -2581,13 +2574,13 @@ return r
 }
 var m22=function(e,s,r,gg){
 var z=gz$gwx_23()
-var aDB=e_[x[41]].i
-_ai(aDB,x[1],e_,x[41],1,1)
-_ai(aDB,x[2],e_,x[41],1,49)
-_ai(aDB,x[3],e_,x[41],1,99)
-_ai(aDB,x[4],e_,x[41],1,156)
-_ai(aDB,x[5],e_,x[41],1,204)
-_ai(aDB,x[6],e_,x[41],1,286)
+var aDB=e_[x[39]].i
+_ai(aDB,x[1],e_,x[39],1,1)
+_ai(aDB,x[2],e_,x[39],1,49)
+_ai(aDB,x[3],e_,x[39],1,99)
+_ai(aDB,x[4],e_,x[39],1,156)
+_ai(aDB,x[5],e_,x[39],1,204)
+_ai(aDB,x[6],e_,x[39],1,286)
 aDB.pop()
 aDB.pop()
 aDB.pop()
@@ -2596,17 +2589,17 @@ aDB.pop()
 aDB.pop()
 return r
 }
-e_[x[41]]={f:m22,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6]],ic:[]}
-d_[x[42]]={}
+e_[x[39]]={f:m22,j:[],i:[],ti:[x[1],x[2],x[3],x[4],x[5],x[6]],ic:[]}
+d_[x[40]]={}
 var m23=function(e,s,r,gg){
 var z=gz$gwx_24()
-var eFB=e_[x[42]].i
-_ai(eFB,x[38],e_,x[42],1,1)
+var eFB=e_[x[40]].i
+_ai(eFB,x[36],e_,x[40],1,1)
 var bGB=_v()
 _(r,bGB)
 cs.push("./pages/home/main.wxml:template:2:6")
 var oHB=_oz(z,1,e,s,gg)
-var xIB=_gd(x[42],oHB,e_,d_)
+var xIB=_gd(x[40],oHB,e_,d_)
 if(xIB){
 var oJB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2614,19 +2607,19 @@ bGB.wxXCkey=3
 xIB(oJB,oJB,bGB,gg)
 gg.f=cur_globalf
 }
-else _w(oHB,x[42],2,18)
+else _w(oHB,x[40],2,18)
 cs.pop()
 eFB.pop()
 return r
 }
-e_[x[42]]={f:m23,j:[],i:[],ti:[x[38]],ic:[]}
-d_[x[43]]={}
-d_[x[43]]["4c071713"]=function(e,s,r,gg){
+e_[x[40]]={f:m23,j:[],i:[],ti:[x[36]],ic:[]}
+d_[x[41]]={}
+d_[x[41]]["4c071713"]=function(e,s,r,gg){
 var z=gz$gwx_25()
-var b=x[43]+':4c071713'
+var b=x[41]+':4c071713'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/login/login.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[43]);return}
+if(p_[b]){_wl(b,x[41]);return}
 p_[b]=true
 try{
 cs.push("./pages/login/login.vue.wxml:view:1:111")
@@ -2639,7 +2632,7 @@ var fE=_v()
 _(oD,fE)
 cs.push("./pages/login/login.vue.wxml:template:1:286")
 var cF=_oz(z,7,e,s,gg)
-var hG=_gd(x[43],cF,e_,d_)
+var hG=_gd(x[41],cF,e_,d_)
 if(hG){
 var oH=_1z(z,4,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2647,13 +2640,13 @@ fE.wxXCkey=3
 hG(oH,oH,fE,gg)
 gg.f=cur_globalf
 }
-else _w(cF,x[43],1,513)
+else _w(cF,x[41],1,513)
 cs.pop()
 var cI=_v()
 _(oD,cI)
 cs.push("./pages/login/login.vue.wxml:template:1:633")
 var oJ=_oz(z,15,e,s,gg)
-var lK=_gd(x[43],oJ,e_,d_)
+var lK=_gd(x[41],oJ,e_,d_)
 if(lK){
 var aL=_1z(z,12,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2661,7 +2654,7 @@ cI.wxXCkey=3
 lK(aL,aL,cI,gg)
 gg.f=cur_globalf
 }
-else _w(oJ,x[43],1,861)
+else _w(oJ,x[41],1,861)
 cs.pop()
 cs.pop()
 _(oB,oD)
@@ -2683,22 +2676,22 @@ return r
 }
 var m24=function(e,s,r,gg){
 var z=gz$gwx_25()
-var cLB=e_[x[43]].i
-_ai(cLB,x[15],e_,x[43],1,1)
+var cLB=e_[x[41]].i
+_ai(cLB,x[42],e_,x[41],1,1)
 cLB.pop()
 return r
 }
-e_[x[43]]={f:m24,j:[],i:[],ti:[x[15]],ic:[]}
-d_[x[44]]={}
+e_[x[41]]={f:m24,j:[],i:[],ti:[x[42]],ic:[]}
+d_[x[43]]={}
 var m25=function(e,s,r,gg){
 var z=gz$gwx_26()
-var oNB=e_[x[44]].i
-_ai(oNB,x[45],e_,x[44],1,1)
+var oNB=e_[x[43]].i
+_ai(oNB,x[44],e_,x[43],1,1)
 var cOB=_v()
 _(r,cOB)
 cs.push("./pages/login/login.wxml:template:2:6")
 var oPB=_oz(z,1,e,s,gg)
-var lQB=_gd(x[44],oPB,e_,d_)
+var lQB=_gd(x[43],oPB,e_,d_)
 if(lQB){
 var aRB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2706,26 +2699,26 @@ cOB.wxXCkey=3
 lQB(aRB,aRB,cOB,gg)
 gg.f=cur_globalf
 }
-else _w(oPB,x[44],2,18)
+else _w(oPB,x[43],2,18)
 cs.pop()
 oNB.pop()
 return r
 }
-e_[x[44]]={f:m25,j:[],i:[],ti:[x[45]],ic:[]}
-d_[x[46]]={}
-d_[x[46]]["13b2a98a"]=function(e,s,r,gg){
+e_[x[43]]={f:m25,j:[],i:[],ti:[x[44]],ic:[]}
+d_[x[45]]={}
+d_[x[45]]["13b2a98a"]=function(e,s,r,gg){
 var z=gz$gwx_27()
-var b=x[46]+':13b2a98a'
+var b=x[45]+':13b2a98a'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/pwd/pwd.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[46]);return}
+if(p_[b]){_wl(b,x[45]);return}
 p_[b]=true
 try{
 var oB=_v()
 _(r,oB)
 cs.push("./pages/pwd/pwd.vue.wxml:template:1:240")
 var xC=_oz(z,5,e,s,gg)
-var oD=_gd(x[46],xC,e_,d_)
+var oD=_gd(x[45],xC,e_,d_)
 if(oD){
 var fE=_1z(z,2,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2733,7 +2726,7 @@ oB.wxXCkey=3
 oD(fE,fE,oB,gg)
 gg.f=cur_globalf
 }
-else _w(xC,x[46],1,465)
+else _w(xC,x[45],1,465)
 cs.pop()
 }catch(err){
 p_[b]=false
@@ -2744,22 +2737,22 @@ return r
 }
 var m26=function(e,s,r,gg){
 var z=gz$gwx_27()
-var eTB=e_[x[46]].i
-_ai(eTB,x[15],e_,x[46],1,1)
+var eTB=e_[x[45]].i
+_ai(eTB,x[42],e_,x[45],1,1)
 eTB.pop()
 return r
 }
-e_[x[46]]={f:m26,j:[],i:[],ti:[x[15]],ic:[]}
-d_[x[47]]={}
+e_[x[45]]={f:m26,j:[],i:[],ti:[x[42]],ic:[]}
+d_[x[46]]={}
 var m27=function(e,s,r,gg){
 var z=gz$gwx_28()
-var oVB=e_[x[47]].i
-_ai(oVB,x[48],e_,x[47],1,1)
+var oVB=e_[x[46]].i
+_ai(oVB,x[47],e_,x[46],1,1)
 var xWB=_v()
 _(r,xWB)
 cs.push("./pages/pwd/pwd.wxml:template:2:6")
 var oXB=_oz(z,1,e,s,gg)
-var fYB=_gd(x[47],oXB,e_,d_)
+var fYB=_gd(x[46],oXB,e_,d_)
 if(fYB){
 var cZB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2767,19 +2760,19 @@ xWB.wxXCkey=3
 fYB(cZB,cZB,xWB,gg)
 gg.f=cur_globalf
 }
-else _w(oXB,x[47],2,18)
+else _w(oXB,x[46],2,18)
 cs.pop()
 oVB.pop()
 return r
 }
-e_[x[47]]={f:m27,j:[],i:[],ti:[x[48]],ic:[]}
-d_[x[49]]={}
-d_[x[49]]["70b3608c"]=function(e,s,r,gg){
+e_[x[46]]={f:m27,j:[],i:[],ti:[x[47]],ic:[]}
+d_[x[48]]={}
+d_[x[48]]["70b3608c"]=function(e,s,r,gg){
 var z=gz$gwx_29()
-var b=x[49]+':70b3608c'
+var b=x[48]+':70b3608c'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/quotation/main.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[49]);return}
+if(p_[b]){_wl(b,x[48]);return}
 p_[b]=true
 try{
 cs.push("./pages/quotation/main.vue.wxml:view:1:179")
@@ -2789,7 +2782,7 @@ var xC=_v()
 _(oB,xC)
 cs.push("./pages/quotation/main.vue.wxml:template:1:225")
 var oD=_oz(z,6,e,s,gg)
-var fE=_gd(x[49],oD,e_,d_)
+var fE=_gd(x[48],oD,e_,d_)
 if(fE){
 var cF=_1z(z,3,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2797,13 +2790,13 @@ xC.wxXCkey=3
 fE(cF,cF,xC,gg)
 gg.f=cur_globalf
 }
-else _w(oD,x[49],1,377)
+else _w(oD,x[48],1,377)
 cs.pop()
 var hG=_v()
 _(oB,hG)
 cs.push("./pages/quotation/main.vue.wxml:template:1:400")
 var oH=_oz(z,8,e,s,gg)
-var cI=_gd(x[49],oH,e_,d_)
+var cI=_gd(x[48],oH,e_,d_)
 if(cI){
 var oJ=_1z(z,7,e,s,gg) || {}
 var cur_globalf=gg.f
@@ -2811,7 +2804,7 @@ hG.wxXCkey=3
 cI(oJ,oJ,hG,gg)
 gg.f=cur_globalf
 }
-else _w(oH,x[49],1,471)
+else _w(oH,x[48],1,471)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -2824,19 +2817,19 @@ return r
 }
 var m28=function(e,s,r,gg){
 var z=gz$gwx_29()
-var o2B=e_[x[49]].i
-_ai(o2B,x[14],e_,x[49],1,1)
-_ai(o2B,x[4],e_,x[49],1,105)
+var o2B=e_[x[48]].i
+_ai(o2B,x[49],e_,x[48],1,1)
+_ai(o2B,x[4],e_,x[48],1,105)
 o2B.pop()
 o2B.pop()
 return r
 }
-e_[x[49]]={f:m28,j:[],i:[],ti:[x[14],x[4]],ic:[]}
+e_[x[48]]={f:m28,j:[],i:[],ti:[x[49],x[4]],ic:[]}
 d_[x[50]]={}
 var m29=function(e,s,r,gg){
 var z=gz$gwx_30()
 var o4B=e_[x[50]].i
-_ai(o4B,x[38],e_,x[50],1,1)
+_ai(o4B,x[36],e_,x[50],1,1)
 var l5B=_v()
 _(r,l5B)
 cs.push("./pages/quotation/main.wxml:template:2:6")
@@ -2854,7 +2847,7 @@ cs.pop()
 o4B.pop()
 return r
 }
-e_[x[50]]={f:m29,j:[],i:[],ti:[x[38]],ic:[]}
+e_[x[50]]={f:m29,j:[],i:[],ti:[x[36]],ic:[]}
 d_[x[51]]={}
 d_[x[51]]["41663269"]=function(e,s,r,gg){
 var z=gz$gwx_31()
@@ -2921,11 +2914,11 @@ return r
 var m30=function(e,s,r,gg){
 var z=gz$gwx_31()
 var o0B=e_[x[51]].i
-_ai(o0B,x[15],e_,x[51],1,1)
+_ai(o0B,x[42],e_,x[51],1,1)
 o0B.pop()
 return r
 }
-e_[x[51]]={f:m30,j:[],i:[],ti:[x[15]],ic:[]}
+e_[x[51]]={f:m30,j:[],i:[],ti:[x[42]],ic:[]}
 d_[x[52]]={}
 var m31=function(e,s,r,gg){
 var z=gz$gwx_32()
@@ -2974,7 +2967,7 @@ d_[x[55]]={}
 var m33=function(e,s,r,gg){
 var z=gz$gwx_34()
 var lIC=e_[x[55]].i
-_ai(lIC,x[38],e_,x[55],1,1)
+_ai(lIC,x[36],e_,x[55],1,1)
 var aJC=_v()
 _(r,aJC)
 cs.push("./pages/trade/kline/main.wxml:template:2:6")
@@ -2992,7 +2985,7 @@ cs.pop()
 lIC.pop()
 return r
 }
-e_[x[55]]={f:m33,j:[],i:[],ti:[x[38]],ic:[]}
+e_[x[55]]={f:m33,j:[],i:[],ti:[x[36]],ic:[]}
 d_[x[56]]={}
 d_[x[56]]["6f1043b4"]=function(e,s,r,gg){
 var z=gz$gwx_35()
@@ -3025,46 +3018,46 @@ cs.pop()
 var oH=_v()
 _(xC,oH)
 cs.push("./pages/trade/main.vue.wxml:template:1:589")
-var cI=_oz(z,6,e,s,gg)
+var cI=_oz(z,9,e,s,gg)
 var oJ=_gd(x[56],cI,e_,d_)
 if(oJ){
-var lK=_1z(z,5,e,s,gg) || {}
+var lK=_1z(z,6,e,s,gg) || {}
 var cur_globalf=gg.f
 oH.wxXCkey=3
 oJ(lK,lK,oH,gg)
 gg.f=cur_globalf
 }
-else _w(cI,x[56],1,660)
+else _w(cI,x[56],1,743)
 cs.pop()
 cs.pop()
 _(oB,xC)
 var aL=_v()
 _(oB,aL)
-cs.push("./pages/trade/main.vue.wxml:template:1:748")
-var tM=_oz(z,8,e,s,gg)
+cs.push("./pages/trade/main.vue.wxml:template:1:831")
+var tM=_oz(z,11,e,s,gg)
 var eN=_gd(x[56],tM,e_,d_)
 if(eN){
-var bO=_1z(z,7,e,s,gg) || {}
+var bO=_1z(z,10,e,s,gg) || {}
 var cur_globalf=gg.f
 aL.wxXCkey=3
 eN(bO,bO,aL,gg)
 gg.f=cur_globalf
 }
-else _w(tM,x[56],1,819)
+else _w(tM,x[56],1,902)
 cs.pop()
 var oP=_v()
 _(oB,oP)
-cs.push("./pages/trade/main.vue.wxml:template:1:842")
-var xQ=_oz(z,13,e,s,gg)
+cs.push("./pages/trade/main.vue.wxml:template:1:925")
+var xQ=_oz(z,16,e,s,gg)
 var oR=_gd(x[56],xQ,e_,d_)
 if(oR){
-var fS=_1z(z,10,e,s,gg) || {}
+var fS=_1z(z,13,e,s,gg) || {}
 var cur_globalf=gg.f
 oP.wxXCkey=3
 oR(fS,fS,oP,gg)
 gg.f=cur_globalf
 }
-else _w(xQ,x[56],1,1066)
+else _w(xQ,x[56],1,1149)
 cs.pop()
 cs.pop()
 _(r,oB)
@@ -3095,7 +3088,7 @@ d_[x[57]]={}
 var m35=function(e,s,r,gg){
 var z=gz$gwx_36()
 var fQC=e_[x[57]].i
-_ai(fQC,x[38],e_,x[57],1,1)
+_ai(fQC,x[36],e_,x[57],1,1)
 var cRC=_v()
 _(r,cRC)
 cs.push("./pages/trade/main.wxml:template:2:6")
@@ -3113,7 +3106,7 @@ cs.pop()
 fQC.pop()
 return r
 }
-e_[x[57]]={f:m35,j:[],i:[],ti:[x[38]],ic:[]}
+e_[x[57]]={f:m35,j:[],i:[],ti:[x[36]],ic:[]}
 if(path&&e_[path]){
 return function(env,dd,global){$gwxc=0;var root={"tag":"wx-page"};root.children=[]
 var main=e_[path].f
@@ -5183,7 +5176,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  props: {\n    item: Object },\n\n  computed: {} };exports.default = _default;\n\n//# sourceURL=uni-app:///components/positionList.vue?vue&type=script&lang=js&?07ae");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  props: {\n    item: Object },\n\n  data: function data() {\n    return {\n      popoverVisible: false,\n      depthValue: 1 };\n\n  },\n  computed: {},\n\n  methods: {\n    depthClick: function depthClick(e) {\n      this.popoverVisible = !this.popoverVisible;\n    },\n    depthChange: function depthChange(e) {\n      this.depthValue = e;\n      this.$emit('depthChange', e);\n    } } };exports.default = _default;\n\n//# sourceURL=uni-app:///components/positionList.vue?vue&type=script&lang=js&?07ae");
 
 /***/ }),
 
@@ -5207,7 +5200,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _uniDrawer2 = _interopRequireDefault(__webpack_require__(/*! @dcloudio/uni-ui/lib/uni-drawer/uni-drawer */ \"../../../../work/git/exchange-app/node_modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue\"));\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\n\n\n\n\n\n\nvar _positionList = _interopRequireDefault(__webpack_require__(/*! ../../components/positionList.vue */ \"../../../../work/git/exchange-app/components/positionList.vue\"));\nvar _entrustOrderList = _interopRequireDefault(__webpack_require__(/*! ../../components/entrustOrderList.vue */ \"../../../../work/git/exchange-app/components/entrustOrderList.vue\"));\nvar _tradePanel = _interopRequireDefault(__webpack_require__(/*! ../../components/tradePanel.vue */ \"../../../../work/git/exchange-app/components/tradePanel.vue\"));\nvar _marketDrawer = _interopRequireDefault(__webpack_require__(/*! ../../components/marketDrawer.vue */ \"../../../../work/git/exchange-app/components/marketDrawer.vue\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n{\n  onReady: function onReady() {\n    uni.setNavigationBarTitle({\n      title: \"BTC/USDT\" });\n\n  },\n  onNavigationBarButtonTap: function onNavigationBarButtonTap(e) {\n    if (e.index == 0) {\n      this.drawerVisible = true;\n    } else {\n      uni.navigateTo({\n        url: \"/pages/trade/kline/main\" });\n\n    }\n  },\n  components: {\n    uniDrawer: _uniDrawer2.default,\n    positionList: _positionList.default,\n    entrustOrderList: _entrustOrderList.default,\n    tradePanel: _tradePanel.default,\n    marketDrawer: _marketDrawer.default },\n\n  data: function data() {\n    return {\n      drawerVisible: false,\n      scrollLeft: 0,\n      areaList: [],\n      marketList: [] };\n\n  },\n  mounted: function mounted() {\n    this.areaList = [{ id: 1, name: \"USDT\" }, { id: 2, name: \"BTC\" }, { id: 3, name: \"ETH\" }, { id: 4, name: \"EOS\" }];\n    this.marketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 518072342.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n  },\n  computed: {},\n\n  methods: {\n    closeDrawer: function closeDrawer() {\n      this.drawerVisible = false;\n    } } };exports.default = _default;\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///pages/trade/main.vue?vue&type=script&lang=js&?319b");
+eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _uniDrawer2 = _interopRequireDefault(__webpack_require__(/*! @dcloudio/uni-ui/lib/uni-drawer/uni-drawer */ \"../../../../work/git/exchange-app/node_modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue\"));\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _vuex = __webpack_require__(/*! vuex */ \"./node_modules/vuex/dist/vuex.esm.js\");\n\n\n\n\n\n\nvar _positionList = _interopRequireDefault(__webpack_require__(/*! ../../components/positionList.vue */ \"../../../../work/git/exchange-app/components/positionList.vue\"));\nvar _entrustOrderList = _interopRequireDefault(__webpack_require__(/*! ../../components/entrustOrderList.vue */ \"../../../../work/git/exchange-app/components/entrustOrderList.vue\"));\nvar _tradePanel = _interopRequireDefault(__webpack_require__(/*! ../../components/tradePanel.vue */ \"../../../../work/git/exchange-app/components/tradePanel.vue\"));\nvar _marketDrawer = _interopRequireDefault(__webpack_require__(/*! ../../components/marketDrawer.vue */ \"../../../../work/git/exchange-app/components/marketDrawer.vue\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n{\n  onReady: function onReady() {\n    uni.setNavigationBarTitle({\n      title: \"BTC/USDT\" });\n\n  },\n  onNavigationBarButtonTap: function onNavigationBarButtonTap(e) {\n    if (e.index == 0) {\n      this.drawerVisible = true;\n    } else {\n      uni.navigateTo({\n        url: \"/pages/trade/kline/main\" });\n\n    }\n  },\n  components: {\n    uniDrawer: _uniDrawer2.default,\n    positionList: _positionList.default,\n    entrustOrderList: _entrustOrderList.default,\n    tradePanel: _tradePanel.default,\n    marketDrawer: _marketDrawer.default },\n\n  data: function data() {\n    return {\n      drawerVisible: false,\n      scrollLeft: 0,\n      areaList: [],\n      marketList: [],\n      depthValue: 1 };\n\n  },\n  mounted: function mounted() {\n    this.areaList = [{ id: 1, name: \"USDT\" }, { id: 2, name: \"BTC\" }, { id: 3, name: \"ETH\" }, { id: 4, name: \"EOS\" }];\n    this.marketList = [\n    { \"symbol\": \"BTCUSDT\", \"name\": \"BTC\", \"price\": 518072342.8400, \"priceUnit\": \"USDT\", \"cnyPrice\": 360064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 132412, \"amount\": 7223022.64800000, \"change\": 51.93 },\n    { \"symbol\": \"ETHUSDT\", \"name\": \"ETH\", \"price\": 807.2500, \"priceUnit\": \"USDT\", \"cnyPrice\": 1064.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 863446, \"amount\": 692302221.12300000, \"change\": -25.43 },\n    { \"symbol\": \"EOSUSDT\", \"name\": \"EOS\", \"price\": 63.9000, \"priceUnit\": \"USDT\", \"cnyPrice\": 988114.91, \"coinCnyPrice\": 6.95, \"high\": 35.51000000, \"low\": 35.51000000, \"volume\": 743356, \"amount\": 834513535.87600000, \"change\": 46.75 }];\n\n  },\n  computed: {},\n\n  methods: {\n    closeDrawer: function closeDrawer() {\n      this.drawerVisible = false;\n    },\n    depthChange: function depthChange(e) {\n      console.log(\"===============\" + e + \"==================\");\n    } } };exports.default = _default;\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///pages/trade/main.vue?vue&type=script&lang=js&?319b");
 
 /***/ }),
 
@@ -5298,7 +5291,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _vm._m(0)\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"pmain\" }, [\n      _c(\"view\", { staticClass: \"item\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"价格\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"数量\")])\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"50%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"10%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"30%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"5%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-down\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"80%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"current-price\" }, [\n        _c(\"view\", { staticClass: \"uni-h5 uni-bold uni-up usdt\" }, [\n          _vm._v(\"521.5\")\n        ]),\n        _c(\"view\", { staticClass: \"uni-h7 cny uni-text-gray\" }, [\n          _vm._v(\"≈28767.23 CNY\")\n        ])\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"80%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"10%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"40%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"60%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"item uni-up\" }, [\n        _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n        _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n        _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"20%\" } })\n      ]),\n      _c(\"view\", { staticClass: \"depth uni-thinner-border\" }, [\n        _c(\"view\", { staticClass: \"uni-h6\" }, [_vm._v(\"深度1\")])\n      ])\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/positionList.vue?vue&type=template&id=42a67265&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"view\", { staticClass: \"pmain\" }, [\n    _vm._m(0),\n    _vm._m(1),\n    _vm._m(2),\n    _vm._m(3),\n    _vm._m(4),\n    _vm._m(5),\n    _vm._m(6),\n    _vm._m(7),\n    _vm._m(8),\n    _vm._m(9),\n    _vm._m(10),\n    _vm._m(11),\n    _c(\n      \"view\",\n      {\n        staticClass: \"depth uni-thinner-border\",\n        attrs: { eventid: \"0145b9ca-4\" },\n        on: { click: _vm.depthClick }\n      },\n      [\n        _c(\"view\", { staticClass: \"uni-h6\" }, [\n          _vm._v(\"深度\" + _vm._s(_vm.depthValue))\n        ]),\n        _c(\n          \"view\",\n          {\n            directives: [\n              {\n                name: \"show\",\n                rawName: \"v-show\",\n                value: _vm.popoverVisible,\n                expression: \"popoverVisible\"\n              }\n            ],\n            staticClass: \"popover-wrap\"\n          },\n          [\n            _c(\"view\", { staticClass: \"kailong\" }),\n            _c(\"view\", { staticClass: \"popover uni-thinner-border\" }, [\n              _c(\n                \"view\",\n                {\n                  staticClass: \"item uni-divider\",\n                  attrs: { eventid: \"0145b9ca-0\" },\n                  on: {\n                    click: function($event) {\n                      _vm.depthChange(1)\n                    }\n                  }\n                },\n                [_vm._v(\"1\")]\n              ),\n              _c(\n                \"view\",\n                {\n                  staticClass: \"item uni-divider\",\n                  attrs: { eventid: \"0145b9ca-1\" },\n                  on: {\n                    click: function($event) {\n                      _vm.depthChange(2)\n                    }\n                  }\n                },\n                [_vm._v(\"2\")]\n              ),\n              _c(\n                \"view\",\n                {\n                  staticClass: \"item uni-divider\",\n                  attrs: { eventid: \"0145b9ca-2\" },\n                  on: {\n                    click: function($event) {\n                      _vm.depthChange(3)\n                    }\n                  }\n                },\n                [_vm._v(\"3\")]\n              ),\n              _c(\n                \"view\",\n                {\n                  staticClass: \"item uni-divider\",\n                  attrs: { eventid: \"0145b9ca-3\" },\n                  on: {\n                    click: function($event) {\n                      _vm.depthChange(4)\n                    }\n                  }\n                },\n                [_vm._v(\"4\")]\n              )\n            ])\n          ]\n        )\n      ]\n    )\n  ])\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"价格\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"数量\")])\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-down\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"50%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-down\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"10%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-down\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"30%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-down\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"5%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-down\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg buybg\", staticStyle: { width: \"80%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"current-price\" }, [\n      _c(\"view\", { staticClass: \"uni-h5 uni-bold uni-up usdt\" }, [\n        _vm._v(\"521.5\")\n      ]),\n      _c(\"view\", { staticClass: \"uni-h7 cny uni-text-gray\" }, [\n        _vm._v(\"≈28767.23 CNY\")\n      ])\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-up\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"80%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-up\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"10%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-up\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"40%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-up\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"60%\" } })\n    ])\n  },\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\"view\", { staticClass: \"item uni-up\" }, [\n      _c(\"text\", { staticClass: \"price\" }, [_vm._v(\"521.5\")]),\n      _c(\"text\", { staticClass: \"num\" }, [_vm._v(\"825.4\")]),\n      _c(\"view\", { staticClass: \"bg sellbg\", staticStyle: { width: \"20%\" } })\n    ])\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/components/positionList.vue?vue&type=template&id=42a67265&scoped=true&");
 
 /***/ }),
 
@@ -5322,7 +5315,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"view\", { staticClass: \"content\" }, [\n        _c(\n          \"view\",\n          { staticClass: \"trade\" },\n          [_c(\"tradePanel\", { attrs: { mpcomid: \"6f1043b4-0\" } })],\n          1\n        ),\n        _c(\n          \"view\",\n          { staticClass: \"position\" },\n          [_c(\"positionList\", { attrs: { mpcomid: \"6f1043b4-1\" } })],\n          1\n        )\n      ]),\n      _c(\"view\", { staticClass: \"uni-gap\" }),\n      _c(\"entrustOrderList\", { attrs: { mpcomid: \"6f1043b4-2\" } }),\n      _c(\n        \"uni-drawer\",\n        {\n          attrs: {\n            visible: _vm.drawerVisible,\n            mask: \"false\",\n            mode: \"left\",\n            eventid: \"6f1043b4-0\",\n            mpcomid: \"6f1043b4-4\"\n          },\n          on: { close: _vm.closeDrawer }\n        },\n        [\n          _c(\"marketDrawer\", {\n            attrs: {\n              areaList: _vm.areaList,\n              marketList: _vm.marketList,\n              mpcomid: \"6f1043b4-3\"\n            }\n          })\n        ],\n        1\n      )\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/trade/main.vue?vue&type=template&id=7b1e8e5a&scoped=true&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    { staticClass: \"container\" },\n    [\n      _c(\"view\", { staticClass: \"content\" }, [\n        _c(\n          \"view\",\n          { staticClass: \"trade\" },\n          [_c(\"tradePanel\", { attrs: { mpcomid: \"6f1043b4-0\" } })],\n          1\n        ),\n        _c(\n          \"view\",\n          { staticClass: \"position\" },\n          [\n            _c(\"positionList\", {\n              attrs: { eventid: \"6f1043b4-0\", mpcomid: \"6f1043b4-1\" },\n              on: { depthChange: _vm.depthChange }\n            })\n          ],\n          1\n        )\n      ]),\n      _c(\"view\", { staticClass: \"uni-gap\" }),\n      _c(\"entrustOrderList\", { attrs: { mpcomid: \"6f1043b4-2\" } }),\n      _c(\n        \"uni-drawer\",\n        {\n          attrs: {\n            visible: _vm.drawerVisible,\n            mask: \"false\",\n            mode: \"left\",\n            eventid: \"6f1043b4-1\",\n            mpcomid: \"6f1043b4-4\"\n          },\n          on: { close: _vm.closeDrawer }\n        },\n        [\n          _c(\"marketDrawer\", {\n            attrs: {\n              areaList: _vm.areaList,\n              marketList: _vm.marketList,\n              mpcomid: \"6f1043b4-3\"\n            }\n          })\n        ],\n        1\n      )\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=D:/work/git/exchange-app/pages/trade/main.vue?vue&type=template&id=7b1e8e5a&scoped=true&");
 
 /***/ })
 

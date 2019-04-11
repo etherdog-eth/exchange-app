@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title></title>
+    <meta name="renderer" content="webkit"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="./lib/jquery.js"></script>
+	<script src="./lib/hammer.min.js"></script>
+    <style type="text/css">
+    </style>
+</head>
+
+<body>
+<div id="kline_container"></div>
+
+<script src="./dist/kline.js"></script>
+
+<script type="text/javascript">
+	function GetQueryString(name){
+		 var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+		 var r = window.location.search.substr(1).match(reg);
+		 if(r!=null)return  unescape(r[2]); return null;
+	}
+	document.title = GetQueryString("symbol");
+    var kline = null;
+    function createKline() {
+        if(kline != null){
+            kline.destroy();
+        }
+        kline = new Kline({
+            element: "#kline_container",
+            width: window.screen.width,
+            height: 400,
+            theme: 'dark', // light/dark
+            language: 'zh-cn', // zh-cn/en-us/zh-tw
+            ranges: ["1w", "1d", "1h", "30m", "15m", "5m", "1m", "line"],
+            symbol: "BTC",
+            symbolName: "BTC/USD",
+            type: "poll", // poll/socket
+            url: "http://112.74.33.72/v2/s/trade/market/kline/BTCUSDT/1min",
+            limit: 1000,
+            intervalTime: 5000,
+            debug: true,
+            showTrade: false,
+            onResize: function(width, height) {
+                console.log("chart resized: " + width + " " + height);
+            },
+            filterData(res){
+                return res;
+            }
+        });
+        kline.draw();
+    }
+    createKline();
+</script>
+
+</body>
+
+</html>

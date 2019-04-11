@@ -5,7 +5,7 @@
 				<tradePanel></tradePanel>
 			</view>
 			<view class="position">
-				<positionList></positionList>
+				<positionList v-on:depthChange="depthChange"></positionList>
 			</view>
 		</view>
 		<view class="uni-gap"></view>
@@ -13,6 +13,7 @@
 		<uni-drawer :visible="drawerVisible" mask="false" mode="left" @close="closeDrawer">
 			<marketDrawer :areaList="areaList" :marketList="marketList"></marketDrawer>
 		</uni-drawer>
+		
 	</view>
 </template>
 
@@ -55,7 +56,8 @@
 				drawerVisible: false,
 				scrollLeft: 0,
 				areaList: [],
-				marketList: []
+				marketList: [],
+				depthValue: 1
 			}
 		},
 		mounted() {
@@ -71,6 +73,9 @@
 		methods: {
 			closeDrawer() {
 				this.drawerVisible = false;
+			},
+			depthChange(e){
+				console.log("==============="+e+"==================")
 			}
 		}
 	}

@@ -48,6 +48,7 @@
 .pmain .current-price .usdt.data-v-42a67265{
 }
 .pmain .depth.data-v-42a67265{
+		position: relative;
 		margin-top: 10rpx;
 		margin-right: 10rpx;
 }
@@ -55,6 +56,39 @@
 		text-align: center;
 		height: 60rpx;
 		line-height: 60rpx;
+}
+.pmain .depth .popover.data-v-42a67265{
+		position: absolute;
+		top: 80rpx;
+		width: 100%;
+		z-index: 9999999999;
+		background: #ffffff;
+		display: inline-block;
+		border-radius: 20rpx;
+}
+.pmain .depth .popover .item.data-v-42a67265{
+		width: 100%;
+		height: 60rpx;
+		line-height: 60rpx;
+		display: block;
+		text-align: center;
+}
+.pmain .depth .kailong.data-v-42a67265{
+		position: absolute;
+		left: 50%;
+		top: 74rpx;
+		-webkit-transform: translate(-50%, -50%);
+		    -ms-transform: translate(-50%, -50%);
+		        transform: translate(-50%, -50%);
+		max-width: 50%;
+		width:0;
+		height:0;
+		border-right:20rpx solid transparent;
+		border-left:20rpx solid transparent;
+		border-bottom:20rpx solid #E0E0E0;
+}
+.popover-wrap .uni-thinner-border.data-v-42a67265:before{
+		border-radius: 15rpx !important;
 }
 
 

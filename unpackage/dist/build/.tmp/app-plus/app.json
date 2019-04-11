@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/quotation/main",
+    "pages/trade/main",
+    "pages/trade/kline/main",
+    "pages/assets/main",
+    "pages/assets/detail/main",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/pwd"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "fafafa",
+    "navigationBarTitleText": "币币",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "color": "#130f13",
+    "selectedColor": "#0f0f0f",
+    "list": [
+      {
+        "pagePath": "pages/home/main",
+        "text": "首页",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/home-active.png"
+      },
+      {
+        "pagePath": "pages/quotation/main",
+        "text": "行情",
+        "iconPath": "static/icon/quotations.png",
+        "selectedIconPath": "static/icon/quotations-active.png"
+      },
+      {
+        "pagePath": "pages/trade/main",
+        "text": "交易",
+        "iconPath": "static/icon/trade.png",
+        "selectedIconPath": "static/icon/trade-active.png"
+      },
+      {
+        "pagePath": "pages/assets/main",
+        "text": "资产",
+        "iconPath": "static/icon/asset.png",
+        "selectedIconPath": "static/icon/asset-active.png"
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "币交易",
+  "compilerVersion": "1.8.2"
+}

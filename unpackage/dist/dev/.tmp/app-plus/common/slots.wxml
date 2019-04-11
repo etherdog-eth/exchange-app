@@ -11,11 +11,6 @@
 <import src="/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml" />
 <import src="/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml" />
 <import src="/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml" />
-<import src="/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml" />
-<import src="/components/m-input.vue.wxml" />
-<import src="/components/m-icon/m-icon.vue.wxml" />
-<import src="/common/slots.wxml" />
-<import src="/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml" />
 
 <template name="5aa12eb9-default-5aa12eb9-5"><template data="{{...$root['0'], ...$root[$kk+'5aa12eb9-4'],$root}}" is="3a980c2d"></template></template>
 

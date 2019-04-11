@@ -1,0 +1,19 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "fontSize": "15px",
+        "float": "left"
+      },
+      {
+        "text": "",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "fontSize": "18px"
+      }
+    ]
+  }
+}

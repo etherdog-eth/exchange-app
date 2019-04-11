@@ -1,0 +1,27 @@
+<import src="/components/homeSwiper.vue.wxml" />
+<import src="/components/noticeSwiper.vue.wxml" />
+<import src="/components/recommentMarketList.vue.wxml" />
+<import src="/components/marketList.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml" />
+<import src="/components/settingDrawer.vue.wxml" />
+<import src="/components/tradePanel.vue.wxml" />
+<import src="/components/positionList.vue.wxml" />
+<import src="/components/entrustOrderList.vue.wxml" />
+<import src="/components/marketDrawer.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control.vue.wxml" />
+<import src="/components/m-input.vue.wxml" />
+<import src="/components/m-icon/m-icon.vue.wxml" />
+<import src="/common/slots.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge.vue.wxml" />
+
+<template name="5aa12eb9-default-5aa12eb9-5"><template data="{{...$root['0'], ...$root[$kk+'5aa12eb9-4'],$root}}" is="3a980c2d"></template></template>
+
+<template name="data-v-48208666-default-6f1043b4-4"><template data="{{...$root['0'], ...$root[$kk+'6f1043b4-3'],$root}}" is="42cb03fe"></template></template>
+
+<template name="3a980c2d-default-3a980c2d-1"><view class="_view 3a980c2d login"><navigator url="../login/login" class="_navigator 3a980c2d"><template title="点击登录" note="欢迎来到货币交易平台" data="{{...$root['0'], ...$root[$kk+'3a980c2d-0'],$root}}" is="277429cb"></template></navigator></view></template>
+
+<template name="3a980c2d-default-3a980c2d-9"><view class="_view 3a980c2d setting"><template title="订单管理" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-4'],$root}}" is="277429cb"></template><template title="安全中心" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-5'],$root}}" is="277429cb"></template><template title="关于我们" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-6'],$root}}" is="277429cb"></template><template title="联系客服" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-7'],$root}}" is="277429cb"></template><template title="设置" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-8'],$root}}" is="277429cb"></template></view></template>
+

@@ -1,0 +1,48 @@
+
+.container .total.data-v-6cf63524{
+	padding: 20rpx 20rpx 0 20rpx;
+}
+.container .header.data-v-6cf63524{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 0 20rpx 20rpx 20rpx;
+}
+.container .header .l .checkbox.data-v-6cf63524{
+	zoom:60%;
+	vertical-align: middle;
+}
+.container .list .item .title.data-v-6cf63524{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20rpx 20rpx;
+}
+.container .list .item .title .n.data-v-6cf63524{
+	width: 50%;
+	color: #0952c3;
+}
+.container .list .item .title .g.data-v-6cf63524{
+	width: 50%;
+	text-align: right;
+}
+.container .list .item .thead.data-v-6cf63524{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 0 20rpx 10rpx 20rpx;
+}
+.container .list .item .thead .l.data-v-6cf63524{
+	width: 35%;
+}
+.container .list .item .thead .c.data-v-6cf63524{
+	width: 35%;
+}
+.container .list .item .thead .r.data-v-6cf63524{
+	width: 30%;
+	text-align: right;
+}
+

@@ -1649,12 +1649,12 @@ function () {
     this.socketConnected = false;
     this.enableSockjs = true;
     this.reverseColor = false;
-    this.isSized = true;
+    this.isSized = false;  //全屏
     this.paused = false;
     this.subscribed = null;
     this.disableFirebase = true;
     this.method = 'GET';
-    this.hideSizeIcon = true;
+    this.hideSizeIcon = false;
     this.readCookie = false;
 
 

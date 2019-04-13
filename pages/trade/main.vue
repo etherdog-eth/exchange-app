@@ -2,7 +2,7 @@
 	<view class="container">
 		<view class="content">
 			<view class="trade">
-				<tradePanel></tradePanel>
+				<tradePanel ref="trade" :type="type"></tradePanel>
 			</view>
 			<view class="position">
 				<positionList v-on:depthChange="depthChange"></positionList>
@@ -31,12 +31,21 @@
 	import marketDrawer from '../../components/marketDrawer.vue'
 	export default {
 		onReady() {
+			uni.setNavigationBarTitle({
+				title: "BTCUSDT"
+			})
 		},
+		
 		onShow(){
+			let _this = this;
 			uni.getStorage({
 				key: 'market',
 				success: function (res) {
-					this.market = JSON.parse(res.data);
+					this.market = res.data;
+					this.type = res.data.type;
+					setTimeout(() =>{
+						_this.$refs.trade.onChangeType(res.data.type)
+					}, 10)
 					uni.setNavigationBarTitle({
 						title: this.market.symbol
 					})
@@ -47,12 +56,16 @@
 				}
 			});
 		},
+		onHide() {
+			this.$refs.trade.onChangeType(1)
+		},
 		onNavigationBarButtonTap(e) {
+			
 			if (e.index == 0) {
 				this.drawerVisible = true;
 			} else {
 				uni.navigateTo({
-					url: "/pages/trade/kline/main"
+					url: "/pages/trade/kline/main?symbol="+this.symbol
 				})
 			}
 		},
@@ -65,12 +78,14 @@
 		},
 		data() {
 			return {
+				symbol: 'BTCUSDT',
 				market: {},
 				drawerVisible: false,
 				scrollLeft: 0,
 				areaList: [],
 				marketList: [],
-				depthValue: 1
+				depthValue: 1,
+				type: 1
 			}
 		},
 		mounted() {

@@ -331,6 +331,13 @@ uni-icon {
 	content: '\E612';
 }
 
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
 .uni-badge {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
   -webkit-box-sizing: border-box;
@@ -350,10 +357,10 @@ uni-icon {
 }
 .uni-badge-primary {
     color: #fff;
-    background-color: #007aff;
+    background-color: #fa436a;
 }
 .uni-badge-primary.uni-badge-inverted {
-      color: #007aff;
+      color: #fa436a;
       background-color: transparent;
 }
 .uni-badge-success {
@@ -389,6 +396,13 @@ uni-icon {
             transform-origin: center center;
 }
 
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
 .uni-list-item {
   font-size: 32rpx;
   position: relative;
@@ -539,6 +553,13 @@ uni-icon {
   height: 0rpx;
 }
 
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
 .uni-list {
   background-color: #ffffff;
   position: relative;
@@ -580,35 +601,44 @@ uni-icon {
     background-color: #c8c7cc;
 }
 
-
-.login{
-	background: #f7f6fb;
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.login {
+  background: #f7f6fb;
 }
-.login .uni-list-item__container{
-	padding-top: 40rpx;
-	padding-bottom: 40rpx;
+.login .uni-list-item__container {
+  padding-top: 40rpx;
+  padding-bottom: 40rpx;
 }
-.login .uni-list-item__container .uni-list-item__content-title{
-	font-size: 40rpx !important;
+.login .uni-list-item__container .uni-list-item__content-title {
+  font-size: 40rpx !important;
 }
-.login .uni-list-item__container .uni-list-item__content-note{
-	font-size: 30rpx !important;
+.login .uni-list-item__container .uni-list-item__content-note {
+  font-size: 28rpx !important;
 }
-.setting .uni-list-item__container{
-	padding: 30rpx 20rpx;
+.setting .uni-list-item__container {
+  padding: 30rpx 20rpx;
 }
-.recharge{
-	height: 150rpx;
-	line-height: 150rpx;
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
+.setting .uni-list-item__container .uni-list-item__content-title {
+  font-size: 28rpx !important;
 }
-.recharge .item{
-	width: 50%;
-	text-align: center;
-	padding-top: 20rpx;
+.recharge {
+  height: 150rpx;
+  line-height: 150rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.recharge .item {
+  width: 50%;
+  text-align: center;
+  padding-top: 20rpx;
 }
 
 

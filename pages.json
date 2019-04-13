@@ -56,7 +56,10 @@
             }
         },
         {
-            "path": "pages/trade/kline/main"
+            "path": "pages/trade/kline/main",
+			"style": {
+			    "navigationBarTitleText": " "
+			}
         },
         {
             "path": "pages/assets/main",
@@ -84,6 +87,11 @@
             "path": "pages/pwd/pwd",
             "style": {
                 "navigationBarTitleText": "找回密码"
+            }
+        }, {
+            "path": "pages/ucenter/setting/main",
+            "style": {
+                "navigationBarTitleText": "设置"
             }
         }
     ],

@@ -13,7 +13,7 @@
 			<view class="item uni-divider">
 				<view class="title">
 					<view class="n uni-h4">USDT</view>
-					<view class="g uni-h5 uni-text-gray">&gt;</view>
+					<view class="g uni-h5 uni-text-gray"><text class="uni-icon uni-icon-arrowright"></text></view>
 				</view>
 				<block>
 					<view class="thead">
@@ -32,7 +32,7 @@
 			<view class="item uni-divider">
 				<view class="title">
 					<view class="n uni-h4">BTC</view>
-					<view class="g uni-h5 uni-text-gray">&gt;</view>
+					<view class="g uni-h5 uni-text-gray"><text class="uni-icon uni-icon-arrowright"></text></view>
 				</view>
 				<block>
 					<view class="thead">
@@ -51,7 +51,7 @@
 			<view class="item uni-divider">
 				<view class="title">
 					<view class="n uni-h4">ETH</view>
-					<view class="g uni-h5 uni-text-gray">&gt;</view>
+					<view class="g uni-h5 uni-text-gray"><text class="uni-icon uni-icon-arrowright"></text></view>
 				</view>
 				<block>
 					<view class="thead">
@@ -70,7 +70,7 @@
 			<view class="item">
 				<view class="title">
 					<view class="n uni-h4">EOS</view>
-					<view class="g uni-h5 uni-text-gray">&gt;</view>
+					<view class="g uni-h5 uni-text-gray"><text class="uni-icon uni-icon-arrowright"></text></view>
 				</view>
 				<block>
 					<view class="thead">

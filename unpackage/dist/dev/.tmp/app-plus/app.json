@@ -8,7 +8,8 @@
     "pages/assets/detail/main",
     "pages/login/login",
     "pages/reg/reg",
-    "pages/pwd/pwd"
+    "pages/pwd/pwd",
+    "pages/ucenter/setting/main"
   ],
   "subPackages": [],
   "window": {

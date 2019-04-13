@@ -37,16 +37,9 @@
 		},
 		methods: {
 			onClick(e) {
-				console.log(JSON.stringify(e))
-				uni.setStorage({
-					key: 'market',
-					data: JSON.stringify(e),
-					success: function () {
-						uni.switchTab({
-							url:"/pages/trade/main"
-						})
-					}
-				});
+				uni.navigateTo({
+					url: "/pages/trade/kline/main?symbol="+e.symbol
+				})
 			}
 		}
 	}

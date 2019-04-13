@@ -5,6 +5,13 @@
 	src: url('https://img-cdn-qiniu.dcloud.net.cn/fonts/uni.ttf') format('truetype');
 }
 
+@font-face {
+	font-family: exicon;
+	font-weight: normal;
+	font-style: normal;
+	src: url('https://at.alicdn.com/t/font_1078604_zb46p0wdmn.ttf') format('truetype');
+}
+
 /*通用 */
 view{
 	font-size:28upx; 

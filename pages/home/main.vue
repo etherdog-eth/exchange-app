@@ -39,6 +39,9 @@
 				drawerVisible: false
 			}
 		},
+		onHide() {
+			this.drawerVisible = false;
+		},
 		onNavigationBarButtonTap(e) {
 			this.drawerVisible = !this.drawerVisible;
 		},

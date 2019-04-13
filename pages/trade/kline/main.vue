@@ -1,7 +1,7 @@
 <template>
-  <block>
-    <web-view src="/hybrid/html/index.html?symbol=BTCUSDT"></web-view>
-  </block>
+  <view class="container">
+    <web-view :src="url" @message="receiveMsg"></web-view>
+  </view>
 </template>
 
 <script>
@@ -16,9 +16,21 @@ export default {
 						timingFunc: 'easeIn'
 				}
 		})
+		
 	},
-  onLoad(query) {
-    
+  onLoad(option) {
+	  this.url = 'hybrid/html/index.html?symbol='+option.symbol;
+	  uni.setNavigationBarTitle({
+			title: option.symbol
+		});
+	  this.symbol = option.symbol;
+  	console.log("option:"+option.symbol)
+  },
+  data() {
+  	return {
+  		symbol: ' ',
+		url: ''
+  	}
   },
   components: {
     
@@ -27,11 +39,23 @@ export default {
     
   },
   methods: {
-    
+    receiveMsg(e){
+			uni.setStorage({
+				key: 'market',
+				data: e.detail.data[0],
+				success: function () {
+					uni.switchTab({
+						url:"/pages/trade/main"
+					})
+				}
+			});
+		}
   }
 }
 </script>
 
 <style scoped>
-
+.container{
+	background: #000000;
+}
 </style>

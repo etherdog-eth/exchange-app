@@ -1,11 +1,11 @@
 <template>
 	<view class="trade-inner">
 		<view class="tab">
-			<view class="buy uni-bg-up" :class="tabIndex == 1 ? 'normal' : ''" @click="onChangeType">买入</view>
-			<view class="sell uni-bg-down " :class="tabIndex == 0 ? 'normal' : ''" @click="onChangeType">卖出</view>
+			<view class="buy uni-bg-up" :class="type == 2 ? 'normal' : ''" @click="onChangeType(1)">买入</view>
+			<view class="sell uni-bg-down " :class="type == 1 ? 'normal' : ''" @click="onChangeType(2)">卖出</view>
 			<view class="parallelogram"></view>
 		</view>
-		<view v-show="tabIndex == 0">
+		<view v-show="type == 1">
 			<view class="price-input uni-thinner-border">
 				<input class="uni-input " type="digit" placeholder="" value="521.052" />
 				<view class="opt uni-thinner-left-border">
@@ -24,7 +24,7 @@
 			<button class="btn uni-bg-up">买入</button>
 		</view>
 		
-		<view v-show="tabIndex == 1">
+		<view v-show="type == 2">
 			<view class="price-input uni-thinner-border">
 				<input class="uni-input " type="digit" placeholder="" value="521.052" />
 				<view class="opt uni-thinner-left-border">
@@ -53,24 +53,32 @@
 				default: () => {
 					return []
 				}
+			},
+			type: {
+				type: Number,
+				default: 1
 			}
 		},
 		data() {
 			return {
-				tabIndex: 0
+				
 			}
 		},
 		computed: {
 			list_() {
 				return this.list;
+			},
+			type_(){
+				console.log("type:"+this.type)
+				return this.type;
 			}
 		},
 		methods: {
 			onClick(e) {
 				console.log("=====================================")
 			},
-			onChangeType(){
-				this.tabIndex = Math.abs(this.tabIndex - 1);
+			onChangeType(e){
+				this.type = e;
 			}
 		}
 	}

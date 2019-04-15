@@ -93,6 +93,12 @@
             "style": {
                 "navigationBarTitleText": "设置"
             }
+        }, {
+            "path": "pages/ucenter/order/main",
+            "style": {
+                "navigationBarTitleText": "委托单",
+				"enablePullDownRefresh": false
+            }
         }
     ],
     "globalStyle": {

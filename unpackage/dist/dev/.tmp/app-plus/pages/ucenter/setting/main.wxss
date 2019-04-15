@@ -17,7 +17,7 @@ page {
   -webkit-align-items: baseline;
       -ms-flex-align: baseline;
           align-items: baseline;
-  padding: 20rpx 30rpx;
+  padding: 20rpx 20rpx;
   line-height: 60rpx;
   position: relative;
   background: #fff;

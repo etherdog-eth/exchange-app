@@ -9,7 +9,8 @@
     "pages/login/login",
     "pages/reg/reg",
     "pages/pwd/pwd",
-    "pages/ucenter/setting/main"
+    "pages/ucenter/setting/main",
+    "pages/ucenter/order/main"
   ],
   "subPackages": [],
   "window": {

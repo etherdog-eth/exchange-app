@@ -6,12 +6,12 @@
 			</view>
 		</uni-list>
 		<view class="recharge">
-			<view class="item"><uni-icon size="32" type="undo"></uni-icon><text class="uni-h5" style="display: block;">转入</text></view>
-			<view class="item" @click="linkTo()"><uni-icon size="32" type="redo"></uni-icon><text class="uni-h5" style="display: block;">转出</text></view>
+			<view class="item"><uni-icon size="32" type="undo"></uni-icon><text class="uni-h5" style="display: block;">充币</text></view>
+			<view class="item" @click="linkTo()"><uni-icon size="32" type="redo"></uni-icon><text class="uni-h5" style="display: block;">提币</text></view>
 		</view>
 		<uni-list>
 			<view class="setting">
-				<uni-list-item title="订单管理" show-extra-icon="true" :extra-icon="{size: '20',type: 'compose'}"></uni-list-item>
+				<uni-list-item title="订单管理" v-on:click="navTo('/pages/ucenter/order/main')" show-extra-icon="true" :extra-icon="{size: '20',type: 'compose'}"></uni-list-item>
 				<uni-list-item title="安全中心" show-extra-icon="true" :extra-icon="{size: '20',type: 'locked'}"></uni-list-item>
 				<uni-list-item title="关于我们" show-extra-icon="true" :extra-icon="{size: '20',type: 'info-filled'}"></uni-list-item>
 				<uni-list-item title="联系客服" show-extra-icon="true" :extra-icon="{size: '20',type: 'contact'}"></uni-list-item>

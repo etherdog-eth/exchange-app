@@ -97,7 +97,29 @@
             "path": "pages/ucenter/order/main",
             "style": {
                 "navigationBarTitleText": "委托单",
-				"enablePullDownRefresh": false
+				"enablePullDownRefresh": false,
+				"app-plus": {  
+					"titleNView": {
+				        "buttons": [{
+				                "text": "\ue466",
+				                "fontSrc": "/static/font/uni.ttf",
+				                "fontSize": "23px",
+								"color" : "#ffffff",
+				                "float": "right"
+				            }
+				        ]
+				    }
+				}
+            }
+        }, {
+            "path": "pages/ucenter/recharge/main",
+            "style": {
+                "navigationBarTitleText": "充币"
+            }
+        }, {
+            "path": "pages/ucenter/recharge/detail/main",
+            "style": {
+                "navigationBarTitleText": "充币"
             }
         }
     ],

@@ -146,20 +146,45 @@
 				
 			</swiper-item>
 		</swiper>
-		
+		<uni-popup :show="showPopupTop" :position="popType" v-on:hidePopup="hidePopup">
+			<view class="search">
+				<text class="uni-h4 uni-common-pl">交易对</text>
+				<view class="uni-thinner-border symbol-input">
+					<input class="uni-input" />
+				</view>
+				<text class="uni-h4 uni-common-pl">订单状态</text>
+				<view class="status">
+					<view class="item">已成交</view>
+					<view class="item">已撤消</view>
+				</view>
+				<view class="btns">
+					<view class="reset btn" @click="reset">重置</view>
+					<view class="ok btn" @click="search">确定</view>
+				</view>
+			</view>
+		</uni-popup>
 	</view>
 </template>
 <script>
 	import uniLoadMore from '../../../components/uni-load-more/uni-load-more.vue';
+	import {
+		uniPopup
+	} from '@dcloudio/uni-ui'
 	export default {
 		data() {
 			return {
 				tabIndex: 0,
-				loadingType: "more"
+				loadingType: "more",
+				showPopupTop: false,
+				popType: 'top'
 			}
 		},
 		components: {
-			uniLoadMore
+			uniLoadMore,
+			uniPopup
+		},
+		onNavigationBarButtonTap(e) {
+			this.showPopupTop = !this.showPopupTop;
 		},
 		onReady() {
 			uni.setNavigationBarColor({
@@ -192,6 +217,15 @@
 				setTimeout(() =>{
 					this.loadingType = 'noMore';
 				}, 2000);
+			},
+			hidePopup(){
+				this.showPopupTop = false;
+			},
+			search(){
+				this.showPopupTop = false;
+			},
+			reset(){
+				
 			}
 		}
 	}
@@ -259,5 +293,46 @@
 	.container .list .item .thead .r {
 		width: 30%;
 		text-align: right;
+	}
+	.container .search{
+		width: 100%;
+		background: #ffffff;
+		text-align: left;
+		padding-top: $page-row-spacing;
+	}
+	.container .search .symbol-input{
+		width: 300upx;
+		margin-top: $page-row-spacing;
+		margin-bottom: $page-row-spacing;
+		margin-left: $page-row-spacing;
+	}
+	.container .search .status{
+		width: 100%;
+		display: flex;
+		padding-top: $page-row-spacing;
+	}
+	.container .search .status .item{
+		width: 150upx;
+		height: 60upx;
+		line-height: 60upx;
+		background: #ececec;
+		margin-left: $page-row-spacing;;
+		text-align: center;
+		border-radius: 4upx;
+	}
+	.container .search .btns {
+		display: flex;
+		margin-top: 50upx;
+	}
+	.container .search .btns .btn{
+		width: 50%;
+		height: 100upx;
+		line-height: 100upx;
+		text-align: center;
+		background: #ececec;
+	}
+	.container .search .btns .ok{
+		background: #0952c3;
+		color: #ffffff;
 	}
 </style>

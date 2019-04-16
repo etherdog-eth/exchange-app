@@ -6,8 +6,8 @@
 			</view>
 		</uni-list>
 		<view class="recharge">
-			<view class="item"><uni-icon size="32" type="undo"></uni-icon><text class="uni-h5" style="display: block;">充币</text></view>
-			<view class="item" @click="linkTo()"><uni-icon size="32" type="redo"></uni-icon><text class="uni-h5" style="display: block;">提币</text></view>
+			<view class="item" @click="navTo('/pages/ucenter/recharge/main')"><uni-icon size="32" type="undo"></uni-icon><text class="uni-h5" style="display: block;">充币</text></view>
+			<view class="item" @click="navTo('/pages/ucenter/recharge/main')"><uni-icon size="32" type="redo"></uni-icon><text class="uni-h5" style="display: block;">提币</text></view>
 		</view>
 		<uni-list>
 			<view class="setting">

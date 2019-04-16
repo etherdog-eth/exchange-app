@@ -10,7 +10,9 @@
     "pages/reg/reg",
     "pages/pwd/pwd",
     "pages/ucenter/setting/main",
-    "pages/ucenter/order/main"
+    "pages/ucenter/order/main",
+    "pages/ucenter/recharge/main",
+    "pages/ucenter/recharge/detail/main"
   ],
   "subPackages": [],
   "window": {

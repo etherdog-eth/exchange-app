@@ -8,6 +8,9 @@
 <import src="/components/positionList.vue.wxml" />
 <import src="/components/entrustOrderList.vue.wxml" />
 <import src="/components/marketDrawer.vue.wxml" />
+<import src="/components/uni-load-more/uni-load-more.vue.wxml" />
+<import src="/components/empty.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup.vue.wxml" />
 <import src="/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml" />
 <import src="/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml" />
 <import src="/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml" />
@@ -16,7 +19,9 @@
 
 <template name="data-v-7b1e8e5a-default-6f1043b4-4"><template data="{{...$root['0'], ...$root[$kk+'6f1043b4-3'],$root}}" is="42cb03fe"></template></template>
 
+<template name="7c09662f-default-7c09662f-4"><view class="_view 7c09662f search"><text class="_text 7c09662f uni-h4 uni-common-pl">交易对</text><view class="_view 7c09662f uni-thinner-border symbol-input"><input class="_input 7c09662f uni-input" /></view><text class="_text 7c09662f uni-h4 uni-common-pl">订单状态</text><view class="_view 7c09662f status"><view class="_view 7c09662f item">已成交</view><view class="_view 7c09662f item">已撤消</view></view><view class="_view 7c09662f btns"><view class="_view 7c09662f reset btn" bindtap="handleProxy" data-eventid="{{'7c09662f-4'}}" data-comkey="{{$k}}">重置</view><view class="_view 7c09662f ok btn" bindtap="handleProxy" data-eventid="{{'7c09662f-5'}}" data-comkey="{{$k}}">确定</view></view></view></template>
+
 <template name="3a980c2d-default-3a980c2d-1"><view class="_view 3a980c2d login"><navigator url="../login/login" class="_navigator 3a980c2d"><template title="点击登录" note="欢迎来到货币交易平台" data="{{...$root['0'], ...$root[$kk+'3a980c2d-0'],$root}}" is="277429cb"></template></navigator></view></template>
 
-<template name="3a980c2d-default-3a980c2d-9"><view class="_view 3a980c2d setting"><template title="订单管理" bindtap="handleProxy" show-extra-icon="true" data-eventid="{{'3a980c2d-1'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'3a980c2d-4'],$root}}" is="277429cb"></template><template title="安全中心" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-5'],$root}}" is="277429cb"></template><template title="关于我们" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-6'],$root}}" is="277429cb"></template><template title="联系客服" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-7'],$root}}" is="277429cb"></template><template title="设置" bindtap="handleProxy" show-extra-icon="true" data-eventid="{{'3a980c2d-2'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'3a980c2d-8'],$root}}" is="277429cb"></template></view></template>
+<template name="3a980c2d-default-3a980c2d-9"><view class="_view 3a980c2d setting"><template title="订单管理" bindtap="handleProxy" show-extra-icon="true" data-eventid="{{'3a980c2d-2'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'3a980c2d-4'],$root}}" is="277429cb"></template><template title="安全中心" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-5'],$root}}" is="277429cb"></template><template title="关于我们" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-6'],$root}}" is="277429cb"></template><template title="联系客服" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'3a980c2d-7'],$root}}" is="277429cb"></template><template title="设置" bindtap="handleProxy" show-extra-icon="true" data-eventid="{{'3a980c2d-3'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'3a980c2d-8'],$root}}" is="277429cb"></template></view></template>
 

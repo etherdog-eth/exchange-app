@@ -1,5 +1,16 @@
 {
   "usingComponents": {},
   "navigationBarTitleText": "委托单",
-  "enablePullDownRefresh": false
+  "enablePullDownRefresh": false,
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSrc": "/static/font/uni.ttf",
+        "fontSize": "23px",
+        "color": "#ffffff",
+        "float": "right"
+      }
+    ]
+  }
 }

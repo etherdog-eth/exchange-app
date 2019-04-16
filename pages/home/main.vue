@@ -43,10 +43,8 @@
 			this.drawerVisible = false;
 		},
 		onNavigationBarButtonTap(e) {
-			//this.drawerVisible = !this.drawerVisible;
-			uni.navigateTo({
-				url: "/pages/ucenter/recharge/detail/main"
-			})
+			this.drawerVisible = !this.drawerVisible;
+			
 		},
 		components: {
 			homeSwiper,

@@ -15,21 +15,21 @@
 }
 
 
-.notice.data-v-282eedee{
+.notice.data-v-c2349848{
 	margin: 0rpx 10rpx;
 }
 
 
-.recomment .symbol.data-v-ba886050{
+.recomment .symbol.data-v-2e25222a{
 	line-height: 40rpx;
 }
-.recomment .price.data-v-ba886050{
+.recomment .price.data-v-2e25222a{
 	line-height: 30rpx;
 }
-.recomment .float.data-v-ba886050{
+.recomment .float.data-v-2e25222a{
 	line-height: 30rpx;
 }
-.recomment .cny.data-v-ba886050{
+.recomment .cny.data-v-2e25222a{
 	line-height: 30rpx;
 }
 

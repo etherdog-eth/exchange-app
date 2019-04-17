@@ -15,7 +15,7 @@
 	        flex-direction: column;
 	padding: 20rpx;
 }
-button.primary {
+._button.primary {
 	background-color: #0faeff;
 }
 

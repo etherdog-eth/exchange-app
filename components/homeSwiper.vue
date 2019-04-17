@@ -1,15 +1,13 @@
 <template>
-	<block>
-		<view class="uni-padding-wrap">
-			<view class="page-section swiper">
-				<swiper class="swiper" :indicator-dots="true" :autoplay="true" :interval="2000" :duration="500" indicator-active-color="#ffffff" indicator-color="#9d9d9d">
-						<swiper-item v-for="(item, index) in list_" :key="index">
-								<view class="swiper-item" @click="onClick"><image mode="widthFix" :src="item.value"></image></view>
-						</swiper-item>
-				</swiper>
-			</view>
+	<view class="uni-padding-wrap">
+		<view class="page-section swiper">
+			<swiper class="swiper" :indicator-dots="true" :autoplay="true" :interval="2000" :duration="500" indicator-active-color="#ffffff" indicator-color="#9d9d9d">
+					<swiper-item v-for="(item, index) in list_" :key="index">
+							<view class="swiper-item" @click="onClick"><image mode="widthFix" :src="item.value"></image></view>
+					</swiper-item>
+			</swiper>
 		</view>
-	</block>
+	</view>
 </template>
 
 <script>

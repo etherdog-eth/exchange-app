@@ -44,10 +44,10 @@ view{
 	font-size:28rpx; 
 	line-height:1.8;
 }
-progress, checkbox-group{
+._progress, checkbox-group{
 	width: 100%;
 }
-form {
+._form {
 	width: 100%;
 }
 .uni-flex {
@@ -208,7 +208,7 @@ form {
 .uni-btn-v{
 	padding:10rpx 0;
 }
-.uni-btn-v button{margin:20rpx 0;}
+.uni-btn-v ._button{margin:20rpx 0;}
 /* 表单 */
 .uni-form-item{
 	display:-webkit-box;
@@ -240,7 +240,7 @@ form {
 radio-group, checkbox-group{
 	width:100%;
 }
-radio-group label, checkbox-group label{
+radio-group ._label, checkbox-group ._label{
 	padding-right:20rpx;
 }
 .uni-form-item .with-fun{
@@ -1079,7 +1079,7 @@ radio-group label, checkbox-group label{
 	        transform: scaleY(.5);
 	background-color: #c8c7cc;
 }
-.uni-input-row label {
+.uni-input-row ._label {
 	line-height: 70rpx;
 }
 /* textarea */
@@ -1087,7 +1087,7 @@ radio-group label, checkbox-group label{
 	width:100%;
 	background:#FFF;
 }
-.uni-textarea textarea{
+.uni-textarea ._textarea{
 	width:96%;
 	padding:18rpx 2%;
 	line-height:1.6;

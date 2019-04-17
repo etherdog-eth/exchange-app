@@ -1,5 +1,5 @@
 
-.pmain.data-v-42a67265 {
+.pmain.data-v-8d458f5a {
     width: 100%;
     height: 600rpx;
     position: relative;
@@ -9,7 +9,7 @@
             justify-content: space-between;
     text-align: left;
 }
-.pmain .item.data-v-42a67265{
+.pmain .item.data-v-8d458f5a{
 		position: relative;
 		width: 100%;
 		display: -webkit-box;
@@ -18,46 +18,46 @@
 		display: flex;
 		font-size: 24rpx;
 }
-.pmain .item .bg.data-v-42a67265{
+.pmain .item .bg.data-v-8d458f5a{
 		height: 100%;
 		position: absolute;
 		top: 0;
 		right: 0;
 		z-index: -9999;
 }
-.pmain .item .buybg.data-v-42a67265{
+.pmain .item .buybg.data-v-8d458f5a{
 		background: #fdf4f7;
 }
-.pmain .item .sellbg.data-v-42a67265{
+.pmain .item .sellbg.data-v-8d458f5a{
 		background: #f0faf9;
 }
-.pmain .item .price.data-v-42a67265{
+.pmain .item .price.data-v-8d458f5a{
 		display: block;
 		width: 50%;
 		text-align: left;
 }
-.position .item .num.data-v-42a67265{
+.position .item .num.data-v-8d458f5a{
 		display: block;
 		width: 50%;
 		text-align: right;
 		padding-right: 10rpx;
 }
-.pmain .current-price.data-v-42a67265 {
+.pmain .current-price.data-v-8d458f5a {
 		margin: 10rpx 0;
 }
-.pmain .current-price .usdt.data-v-42a67265{
+.pmain .current-price .usdt.data-v-8d458f5a{
 }
-.pmain .depth.data-v-42a67265{
+.pmain .depth.data-v-8d458f5a{
 		position: relative;
 		margin-top: 10rpx;
 		margin-right: 10rpx;
 }
-.pmain .depth .uni-h6.data-v-42a67265{
+.pmain .depth .uni-h6.data-v-8d458f5a{
 		text-align: center;
 		height: 60rpx;
 		line-height: 60rpx;
 }
-.pmain .depth .popover.data-v-42a67265{
+.pmain .depth .popover.data-v-8d458f5a{
 		position: absolute;
 		top: 80rpx;
 		width: 100%;
@@ -66,14 +66,14 @@
 		display: inline-block;
 		border-radius: 20rpx;
 }
-.pmain .depth .popover .item.data-v-42a67265{
+.pmain .depth .popover .item.data-v-8d458f5a{
 		width: 100%;
 		height: 60rpx;
 		line-height: 60rpx;
 		display: block;
 		text-align: center;
 }
-.pmain .depth .kailong.data-v-42a67265{
+.pmain .depth .kailong.data-v-8d458f5a{
 		position: absolute;
 		left: 50%;
 		top: 74rpx;
@@ -87,18 +87,18 @@
 		border-left:20rpx solid transparent;
 		border-bottom:20rpx solid #E0E0E0;
 }
-.popover-wrap .uni-thinner-border.data-v-42a67265:before{
+.popover-wrap .uni-thinner-border.data-v-8d458f5a:before{
 		border-radius: 15rpx !important;
 }
 
 
-.order .title.data-v-7c7ec50a{
+.order .title.data-v-5ab2872e{
   	padding: 0 20rpx 20rpx 20rpx;
 }
-.order .item.data-v-7c7ec50a{
+.order .item.data-v-5ab2872e{
 	padding: 20rpx 20rpx 20rpx 20rpx;
 }
-.order .item .opt.data-v-7c7ec50a{
+.order .item .opt.data-v-5ab2872e{
 	  position: relative;
 	display: -webkit-box;
 	display: -webkit-flex;
@@ -109,7 +109,7 @@
 	    -ms-flex-align: baseline;
 	        align-items: baseline;
 }
-.order .item .opt .cancel.data-v-7c7ec50a{
+.order .item .opt .cancel.data-v-5ab2872e{
 	  position: absolute;
 	  top: 0;
 	  right: 0;
@@ -119,24 +119,24 @@
 	font-size: 24rpx;
 	padding: 0;
 }
-.order .item .thead.data-v-7c7ec50a{
+.order .item .thead.data-v-5ab2872e{
 	  display: -webkit-box;
 	  display: -webkit-flex;
 	  display: -ms-flexbox;
 	  display: flex;
 	  color: #8e9fa7;
 }
-.order .item .price.data-v-7c7ec50a{
+.order .item .price.data-v-5ab2872e{
 	width: 35%;
 }
-.order .item .num.data-v-7c7ec50a{
+.order .item .num.data-v-5ab2872e{
   	  width: 35%;
 }
-.order .item .turnover.data-v-7c7ec50a{
+.order .item .turnover.data-v-5ab2872e{
   	  width: 30%;
 	  text-align: right;
 }
-.order .item .tbody.data-v-7c7ec50a{
+.order .item .tbody.data-v-5ab2872e{
   	  display: -webkit-box;
   	  display: -webkit-flex;
   	  display: -ms-flexbox;
@@ -189,7 +189,7 @@
 	position: relative;
 	margin-top: 30rpx;
 }
-.trade-inner .price-input input {
+.trade-inner .price-input ._input {
 	position: relative;
 	padding-right: 180rpx;
 }
@@ -239,19 +239,19 @@
 }
 
 
-.content.data-v-7b1e8e5a {
+.content.data-v-4dd30fa8 {
 	margin-top: 20rpx;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
 }
-.content .trade.data-v-7b1e8e5a {
+.content .trade.data-v-4dd30fa8 {
 	width: 60%;
 	padding-left: 20rpx;
 	padding-right: 20rpx;
 }
-.content .position.data-v-7b1e8e5a {
+.content .position.data-v-4dd30fa8 {
 	width: 40%;
 }
 

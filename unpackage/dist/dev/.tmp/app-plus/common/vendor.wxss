@@ -66,30 +66,30 @@
 }
 
 
-.rank.data-v-14422810{
+.rank.data-v-8c6b5534{
 	padding: 10rpx 0rpx;
 }
-.rank .title.data-v-14422810{
+.rank .title.data-v-8c6b5534{
 	padding: 10rpx 20rpx;
 }
-.rank .item.data-v-14422810{
+.rank .item.data-v-8c6b5534{
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
 	padding: 20rpx 20rpx;
 }
-.rank .item .n.data-v-14422810{
+.rank .item .n.data-v-8c6b5534{
 	width: 35%;
 }
-.rank .item .p.data-v-14422810{
+.rank .item .p.data-v-8c6b5534{
 	width: 35%;
 }
-.rank .item .t.data-v-14422810{
+.rank .item .t.data-v-8c6b5534{
 	width: 30%;
 	text-align: right;
 }
-.rank .item .t .light.data-v-14422810{
+.rank .item .t .light.data-v-8c6b5534{
 	display: block;
 	width: 150rpx;
 	color: #ffffff;

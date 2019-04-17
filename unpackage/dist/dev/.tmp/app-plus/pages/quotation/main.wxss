@@ -58,7 +58,7 @@
 }
 
 
-.tab-bar.data-v-5fe3c832{
+.tab-bar.data-v-6d630df8{
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
@@ -67,39 +67,39 @@
 	border: 2rpx solid #cfcfcf;
 	border-radius: 10rpx;
 }
-.tab-bar .tab-bar-item.data-v-5fe3c832{
+.tab-bar .tab-bar-item.data-v-6d630df8{
 	text-align: center;
 	height: 70rpx;
 	line-height: 70rpx;
 }
-.tab-bar .active.data-v-5fe3c832{
+.tab-bar .active.data-v-6d630df8{
 	background: #1478ca;
 	color: #ffffff;
 }
-.rank.data-v-5fe3c832{
+.rank.data-v-6d630df8{
 	padding: 10rpx 0rpx;
 }
-.rank .title.data-v-5fe3c832{
+.rank .title.data-v-6d630df8{
 	padding: 10rpx 20rpx;
 }
-.rank .item.data-v-5fe3c832{
+.rank .item.data-v-6d630df8{
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
 	padding: 20rpx 20rpx;
 }
-.rank .item .n.data-v-5fe3c832{
+.rank .item .n.data-v-6d630df8{
 	width: 35%;
 }
-.rank .item .p.data-v-5fe3c832{
+.rank .item .p.data-v-6d630df8{
 	width: 35%;
 }
-.rank .item .t.data-v-5fe3c832{
+.rank .item .t.data-v-6d630df8{
 	width: 30%;
 	text-align: right;
 }
-.rank .item .t .light.data-v-5fe3c832{
+.rank .item .t .light.data-v-6d630df8{
 	display: block;
 	width: 150rpx;
 	color: #ffffff;

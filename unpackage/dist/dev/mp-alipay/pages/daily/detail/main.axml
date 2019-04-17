@@ -1,2 +1,0 @@
-<import src="/components/mpvue-wxparse/wxParse.vue.axml"/><template name="0dda6f91"><view class="_div article-container {{ h[ 0 ].rcl }} data-v-001c93db"><view class="_div title data-v-001c93db">{{ h[ 2 ].t }}</view><template is="20201892" data="{{ ...$root[ cp + 0 ], $root, _t: _t || '' }}" /></view></template>
-<template is="0dda6f91" data="{{ ...$root['0'], $root }}"/>

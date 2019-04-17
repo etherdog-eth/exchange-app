@@ -1,5 +1,5 @@
 <template>
-	<block>
+	<view>
 		<uni-list>
 			<view class="login">
 				<navigator url="../login/login"><uni-list-item title="点击登录" note="欢迎来到货币交易平台"></uni-list-item></navigator>
@@ -18,7 +18,7 @@
 				<uni-list-item title="设置" v-on:click="navTo('/pages/ucenter/setting/main')" show-extra-icon="true" :extra-icon="{size: '20',type: 'gear'}"></uni-list-item>
 			</view>
 		</uni-list>
-	</block>
+	</view>
 </template>
 
 <script>

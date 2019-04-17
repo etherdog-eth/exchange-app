@@ -1,18 +1,16 @@
 <template>
-	<block>
-		<view class="rank">
-			<view class="item thead">
-				<view class="n uni-h7">名称</view>
-				<view class="p uni-h7">最新价</view>
-				<view class="t uni-h7">涨跌幅</view>
-			</view>
-			<view v-for="(item, index) in list_" :key="index" class="item uni-divider" @click="onClick(item)">
-				<view class="n">{{item.name}}</view>
-				<view class="p">{{item.price}}</view>
-				<view class="t"><label class="" :class="item.change > 0 ? 'light uni-bg-up' : 'light uni-bg-down' ">+40.2%</label></view>
-			</view>
+	<view class="rank">
+		<view class="item thead">
+			<view class="n uni-h7">名称</view>
+			<view class="p uni-h7">最新价</view>
+			<view class="t uni-h7">涨跌幅</view>
 		</view>
-	</block>
+		<view v-for="(item, index) in list_" :key="index" class="item uni-divider" @click="onClick(item)">
+			<view class="n">{{item.name}}</view>
+			<view class="p">{{item.price}}</view>
+			<view class="t"><label class="" :class="item.change > 0 ? 'light uni-bg-up' : 'light uni-bg-down' ">+40.2%</label></view>
+		</view>
+	</view>
 </template>
 
 

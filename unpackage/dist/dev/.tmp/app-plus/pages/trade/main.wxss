@@ -189,7 +189,7 @@
 	position: relative;
 	margin-top: 30rpx;
 }
-.trade-inner .price-input ._input {
+.trade-inner .price-input input {
 	position: relative;
 	padding-right: 180rpx;
 }

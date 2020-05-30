@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.segmented-control {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 75%;
+  font-size: 28rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0 auto;
+  overflow: hidden;
+  border: 1rpx solid;
+  border-radius: 10rpx;
+}
+.segmented-control.text {
+    border: 0;
+    border-radius: 0;
+}
+.segmented-control-item {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: center;
+  line-height: 60rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-left: 1rpx solid;
+}
+.segmented-control-item.active {
+    color: #fff;
+}
+.segmented-control-item.text {
+    border-left: 0;
+    color: #000;
+}
+.segmented-control-item.text.active {
+      border-bottom-style: solid;
+}
+.segmented-control-item:first-child {
+    border-left-width: 0;
+}
+
+
+.tab-bar.data-v-6d630df8{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 20rpx 20rpx;
+	border: 2rpx solid #cfcfcf;
+	border-radius: 10rpx;
+}
+.tab-bar .tab-bar-item.data-v-6d630df8{
+	text-align: center;
+	height: 70rpx;
+	line-height: 70rpx;
+}
+.tab-bar .active.data-v-6d630df8{
+	background: #1478ca;
+	color: #ffffff;
+}
+.rank.data-v-6d630df8{
+	padding: 10rpx 0rpx;
+}
+.rank .title.data-v-6d630df8{
+	padding: 10rpx 20rpx;
+}
+.rank .item.data-v-6d630df8{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20rpx 20rpx;
+}
+.rank .item .n.data-v-6d630df8{
+	width: 35%;
+}
+.rank .item .p.data-v-6d630df8{
+	width: 35%;
+}
+.rank .item .t.data-v-6d630df8{
+	width: 30%;
+	text-align: right;
+}
+.rank .item .t .light.data-v-6d630df8{
+	display: block;
+	width: 150rpx;
+	color: #ffffff;
+	text-align: center;
+	float: right;
+	border-radius: 4rpx;
+}
+

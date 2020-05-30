@@ -85,6 +85,12 @@
       "bottom": {
         "offset": "auto"
       }
+    },
+    "uni-app": {
+      "compilerVersion": "2.2.2",
+      "control": "webview",
+      "nvueCompiler": "weex",
+      "renderer": "auto"
     }
   }
 }

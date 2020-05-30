@@ -1,6 +1,11 @@
-交流QQ群：731992394
+### [开源数字货币钱包](https://gitee.com/koch/fex-wallet-app)
 
-[开源数字货币钱包](https://gitee.com/koch/fex-wallet-app)
+#### 技术交流社区
+
+##### 微信二维码:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ二维码:
+![Image text](doc/wechat_qrcode.jpg) 
+![Image text](doc/qq_qrcode.jpg) 
+
 
 #### 介绍
 数字货币交易所移动端UI

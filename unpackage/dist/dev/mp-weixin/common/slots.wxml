@@ -1,0 +1,27 @@
+<import src="/components/tradePanel.vue.wxml" />
+<import src="/components/positionList.vue.wxml" />
+<import src="/components/entrustOrderList.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer.vue.wxml" />
+<import src="/components/marketDrawer.vue.wxml" />
+<import src="/components/homeSwiper.vue.wxml" />
+<import src="/components/noticeSwiper.vue.wxml" />
+<import src="/components/recommentMarketList.vue.wxml" />
+<import src="/components/marketList.vue.wxml" />
+<import src="/components/settingDrawer.vue.wxml" />
+<import src="/components/uni-load-more/uni-load-more.vue.wxml" />
+<import src="/components/empty.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue.wxml" />
+<import src="/node-modules/@dcloudio/uni-ui/lib/uni-icon/uni-icon.vue.wxml" />
+
+<template name="data-v-4dd30fa8-default-b8e53bd2-4"><template data="{{...$root['0'], ...$root[$kk+'b8e53bd2-3'],$root}}" is="ba580b84"></template></template>
+
+<template name="b2b59014-default-b2b59014-5"><template data="{{...$root['0'], ...$root[$kk+'b2b59014-4'],$root}}" is="04e3d0e0"></template></template>
+
+<template name="3eff7192-default-3eff7192-4"><view class="_view 3eff7192 search"><text class="_text 3eff7192 uni-h4 uni-common-pl">交易对</text><view class="_view 3eff7192 uni-thinner-border symbol-input"><input class="_input 3eff7192 uni-input" /></view><text class="_text 3eff7192 uni-h4 uni-common-pl">订单状态</text><view class="_view 3eff7192 status"><view class="_view 3eff7192 item">已成交</view><view class="_view 3eff7192 item">已撤消</view></view><view class="_view 3eff7192 btns"><view class="_view 3eff7192 reset btn" bindtap="handleProxy" data-eventid="{{'3eff7192-4'}}" data-comkey="{{$k}}">重置</view><view class="_view 3eff7192 ok btn" bindtap="handleProxy" data-eventid="{{'3eff7192-5'}}" data-comkey="{{$k}}">确定</view></view></view></template>
+
+<template name="04e3d0e0-default-04e3d0e0-1"><view class="_view 04e3d0e0 login"><navigator url="../login/login" class="_navigator 04e3d0e0"><template title="点击登录" note="欢迎来到货币交易平台" data="{{...$root['0'], ...$root[$kk+'04e3d0e0-0'],$root}}" is="55eb9048"></template></navigator></view></template>
+
+<template name="04e3d0e0-default-04e3d0e0-9"><view class="_view 04e3d0e0 setting"><template title="订单管理" bindtap="handleProxy" show-extra-icon="true" data-eventid="{{'04e3d0e0-2'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'04e3d0e0-4'],$root}}" is="55eb9048"></template><template title="安全中心" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'04e3d0e0-5'],$root}}" is="55eb9048"></template><template title="关于我们" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'04e3d0e0-6'],$root}}" is="55eb9048"></template><template title="联系客服" show-extra-icon="true" data="{{...$root['0'], ...$root[$kk+'04e3d0e0-7'],$root}}" is="55eb9048"></template><template title="设置" bindtap="handleProxy" show-extra-icon="true" data-eventid="{{'04e3d0e0-3'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'04e3d0e0-8'],$root}}" is="55eb9048"></template></view></template>
+

@@ -14,7 +14,6 @@
     "pages/ucenter/recharge/main",
     "pages/ucenter/recharge/detail/main"
   ],
-  "subPackages": [],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "fafafa",
@@ -52,9 +51,12 @@
       }
     ]
   },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
   "splashscreen": {
     "alwaysShowBeforeRender": true,
     "autoclose": false
   },
-  "appname": "币交易"
+  "appname": "币交易",
+  "compilerVersion": "2.2.2"
 }

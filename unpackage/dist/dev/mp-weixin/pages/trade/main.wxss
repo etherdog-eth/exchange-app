@@ -1,0 +1,257 @@
+
+.pmain.data-v-8d458f5a {
+    width: 100%;
+    height: 600rpx;
+    position: relative;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    text-align: left;
+}
+.pmain .item.data-v-8d458f5a{
+		position: relative;
+		width: 100%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		font-size: 24rpx;
+}
+.pmain .item .bg.data-v-8d458f5a{
+		height: 100%;
+		position: absolute;
+		top: 0;
+		right: 0;
+		z-index: -9999;
+}
+.pmain .item .buybg.data-v-8d458f5a{
+		background: #fdf4f7;
+}
+.pmain .item .sellbg.data-v-8d458f5a{
+		background: #f0faf9;
+}
+.pmain .item .price.data-v-8d458f5a{
+		display: block;
+		width: 50%;
+		text-align: left;
+}
+.position .item .num.data-v-8d458f5a{
+		display: block;
+		width: 50%;
+		text-align: right;
+		padding-right: 10rpx;
+}
+.pmain .current-price.data-v-8d458f5a {
+		margin: 10rpx 0;
+}
+.pmain .current-price .usdt.data-v-8d458f5a{
+}
+.pmain .depth.data-v-8d458f5a{
+		position: relative;
+		margin-top: 10rpx;
+		margin-right: 10rpx;
+}
+.pmain .depth .uni-h6.data-v-8d458f5a{
+		text-align: center;
+		height: 60rpx;
+		line-height: 60rpx;
+}
+.pmain .depth .popover.data-v-8d458f5a{
+		position: absolute;
+		top: 80rpx;
+		width: 100%;
+		z-index: 9999999999;
+		background: #ffffff;
+		display: inline-block;
+		border-radius: 20rpx;
+}
+.pmain .depth .popover .item.data-v-8d458f5a{
+		width: 100%;
+		height: 60rpx;
+		line-height: 60rpx;
+		display: block;
+		text-align: center;
+}
+.pmain .depth .kailong.data-v-8d458f5a{
+		position: absolute;
+		left: 50%;
+		top: 74rpx;
+		-webkit-transform: translate(-50%, -50%);
+		    -ms-transform: translate(-50%, -50%);
+		        transform: translate(-50%, -50%);
+		max-width: 50%;
+		width:0;
+		height:0;
+		border-right:20rpx solid transparent;
+		border-left:20rpx solid transparent;
+		border-bottom:20rpx solid #E0E0E0;
+}
+.popover-wrap .uni-thinner-border.data-v-8d458f5a:before{
+		border-radius: 15rpx !important;
+}
+
+
+.order .title.data-v-5ab2872e{
+  	padding: 0 20rpx 20rpx 20rpx;
+}
+.order .item.data-v-5ab2872e{
+	padding: 20rpx 20rpx 20rpx 20rpx;
+}
+.order .item .opt.data-v-5ab2872e{
+	  position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: baseline;
+	-webkit-align-items: baseline;
+	    -ms-flex-align: baseline;
+	        align-items: baseline;
+}
+.order .item .opt .cancel.data-v-5ab2872e{
+	  position: absolute;
+	  top: 0;
+	  right: 0;
+  	width: 80rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 24rpx;
+	padding: 0;
+}
+.order .item .thead.data-v-5ab2872e{
+	  display: -webkit-box;
+	  display: -webkit-flex;
+	  display: -ms-flexbox;
+	  display: flex;
+	  color: #8e9fa7;
+}
+.order .item .price.data-v-5ab2872e{
+	width: 35%;
+}
+.order .item .num.data-v-5ab2872e{
+  	  width: 35%;
+}
+.order .item .turnover.data-v-5ab2872e{
+  	  width: 30%;
+	  text-align: right;
+}
+.order .item .tbody.data-v-5ab2872e{
+  	  display: -webkit-box;
+  	  display: -webkit-flex;
+  	  display: -ms-flexbox;
+  	  display: flex;
+}
+
+
+.trade-inner .tab {
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	text-align: center;
+}
+.trade-inner .tab .buy {
+	color: #ffffff;
+	font-weight: bold;
+	width: 50%;
+	height: 70rpx;
+	line-height: 70rpx;
+}
+.trade-inner .tab .sell {
+	color: #ffffff;
+	font-weight: bold;
+	width: 50%;
+	height: 70rpx;
+	line-height: 70rpx;
+}
+.trade-inner .tab .normal {
+	background: #ECECF6;
+	color: #555555;
+	font-weight: bold;
+}
+.trade-inner .tab .parallelogram {
+	position: absolute;
+	left: calc(50% - 19rpx);
+	top: 0;
+	-webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	width: 36rpx;
+	height: 74rpx;
+	background: #ffffff;
+	-webkit-transform: skew(-30deg);
+	-ms-transform: skew(-30deg);
+	    transform: skew(-30deg);
+}
+.trade-inner .price-input {
+	position: relative;
+	margin-top: 30rpx;
+}
+.trade-inner .price-input ._input {
+	position: relative;
+	padding-right: 180rpx;
+}
+.trade-inner .price-input .opt {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	position: absolute;
+	top: 2rpx;
+	right: 0;
+	width: 180rpx;
+	height: 78rpx;
+	line-height: 78rpx;
+}
+.trade-inner .num-input {
+	position: relative;
+	margin-top: 30rpx;
+}
+.trade-inner .price-input .opt .button {
+	border: 0;
+	background: #fff;
+	width: 80rpx;
+	height: 78rpx;
+	line-height: 78rpx;
+	text-align: center;
+	font-size: 48rpx;
+	font-weight: 400;
+}
+.trade-inner .btn {
+	height: 74rpx;
+	line-height: 74rpx;
+	color: #fff;
+	font-size: 28rpx;
+	font-weight: bold;
+	margin-top: 30rpx;
+}
+
+
+.drawer{
+	padding-top: 20rpx;
+	width: 100%;
+}
+.drawer .active{
+	color: #0056B3;
+	border-bottom: 6rpx solid #0056B3;
+}
+
+
+.content.data-v-4dd30fa8 {
+	margin-top: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.content .trade.data-v-4dd30fa8 {
+	width: 60%;
+	padding-left: 20rpx;
+	padding-right: 20rpx;
+}
+.content .position.data-v-4dd30fa8 {
+	width: 40%;
+}
+

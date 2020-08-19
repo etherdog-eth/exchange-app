@@ -25,25 +25,24 @@
 	}
 </script>
 
-<style>
+<style lang="scss">
+	@import "uview-ui/index.scss";
 	/* uni.css - 通用组件、模板样式库，可以当作一套ui库应用 */
 	@import './common/uni.css';
 
-	html,
-	body {
-		overflow: hidden;
-		height: 100%;
-	}
-
 	.container {
-		height: 100%;
 		font-size: $font-base;
-		overflow: hidden;
+		height: 100%;
 	}
 
 	.wrapper {
 		font-size: $font-base;
 		text-align: left;
+	}
+	
+	.uni-navbar__header-btns{
+		padding: 0 !important;
+		width: 150upx !important;
 	}
 
 	* {

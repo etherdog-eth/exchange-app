@@ -55,6 +55,7 @@
 <style lang='scss'>
 	.login{
 		background: #f7f6fb;
+		padding-top: 100upx;
 	}
 	.login .uni-list-item__container{
 		padding-top: 40upx;

@@ -1,15 +1,26 @@
 <template>
 	<view class="container">
-		<homeSwiper :list="bannerList"></homeSwiper>
-		<noticeSwiper :list="noticeList"></noticeSwiper>
+		<uni-nav-bar status-bar="false" fixed="true" shadow="false">
+		    <view class="h-title">FEXCOIN</view>
+		    <view class="h-title-l" slot="left" @click="showDrawer">
+				<image src="../../static/img/home-icon.png" class="icon"></image>
+			</view>
+		    <view class="h-title-r" slot="right"></view>
+		</uni-nav-bar>
+		<view class="body">
+			<u-swiper :list="list" height="350" border-radius="10"></u-swiper>
+			<noticeSwiper :list="noticeList"></noticeSwiper>
+		</view>
 		<view class="uni-divider"></view>
 		<recommentMarketList :list="recommentMarketList"></recommentMarketList>
-		<view class="ad">
-			<image mode="widthFix" src="../../static/img/ad.jpg"></image>
+		<view class="body">
+			<view class="ad">
+				<image mode="widthFix" src="../../static/img/ad.jpg"></image>
+			</view>
+			<view class="uni-h4 title uni-bold rank-title">涨幅榜</view>
+			<view class="uni-divider"></view>
+			<marketList :list="marketList"></marketList>
 		</view>
-		<view class="uni-h4 title uni-bold rank-title">涨幅榜</view>
-		<view class="uni-divider"></view>
-		<marketList :list="marketList"></marketList>
 		<uni-drawer :visible="drawerVisible" mask="false" mode="left" @close="closeDrawer">
 			<settingDrawer></settingDrawer>
 		</uni-drawer>
@@ -22,7 +33,7 @@
 		mapActions
 	} from 'vuex'
 	import {
-		uniDrawer
+		uniDrawer, uniNavBar
 	} from '@dcloudio/uni-ui'
 	import homeSwiper from '../../components/homeSwiper.vue'
 	import noticeSwiper from '../../components/noticeSwiper.vue'
@@ -30,48 +41,46 @@
 	import marketList from '../../components/marketList.vue'
 	import settingDrawer from '../../components/settingDrawer.vue'
 	export default {
-		data() {
-			return {
-				bannerList: [],
-				noticeList: [],
-				recommentMarketList: [],
-				marketList: [],
-				drawerVisible: false
-			}
-		},
-		onHide() {
-			this.drawerVisible = false;
-		},
-		onNavigationBarButtonTap(e) {
-			this.drawerVisible = !this.drawerVisible;
-			
-		},
 		components: {
 			homeSwiper,
 			noticeSwiper,
 			recommentMarketList,
 			marketList,
 			settingDrawer,
-			uniDrawer
+			uniDrawer,
+			uniNavBar
+		},
+		data() {
+			return {
+				bannerList: [],
+				noticeList: [],
+				recommentMarketList: [],
+				marketList: [],
+				drawerVisible: false,
+				list: [{
+					image: 'https://zb-public.oss-accelerate.aliyuncs.com/dir/fc7e02ea-b398-4cdc-a0e8-054aec6a57eb.jpg',
+					title: '昨夜星辰昨夜风，画楼西畔桂堂东'
+					},
+					{
+						image: 'https://zb-public.oss-accelerate.aliyuncs.com/dir/d2ae1ccc-5e9f-4883-b614-7b0deaa9c0de.jpg',
+						title: '身无彩凤双飞翼，心有灵犀一点通'
+					},
+					{
+						image: 'https://zb-public.oss-accelerate.aliyuncs.com/dir/a71739a0-9cb1-4cbb-8ff8-b600b7ff1978.png',
+						title: '谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳'
+					}
+				]
+			}
+		},
+		onHide() {
+			this.drawerVisible = false;
+		},
+		onNavigationBarButtonTap(e) {
+			
+			
 		},
 		mounted() {
-			//this.initPage()
-			this.bannerList = [{
-					id: 1,
-					name: "1",
-					value: "https://zb-public.oss-accelerate.aliyuncs.com/dir/fc7e02ea-b398-4cdc-a0e8-054aec6a57eb.jpg"
-				},
-				{
-					id: 2,
-					name: "2",
-					value: "https://zb-public.oss-accelerate.aliyuncs.com/dir/d2ae1ccc-5e9f-4883-b614-7b0deaa9c0de.jpg"
-				},
-				{
-					id: 3,
-					name: "3",
-					value: "https://zb-public.oss-accelerate.aliyuncs.com/dir/a71739a0-9cb1-4cbb-8ff8-b600b7ff1978.png"
-				}
-			];
+			
 			this.noticeList = ["国际站4月1日14:00开放MDC/USDT交易市场", "国际站4月2日10:00上线HKL", "关于国际站即将上线 GCCT（Global Cash Coin)"];
 
 			this.recommentMarketList = [{
@@ -167,7 +176,9 @@
 			/* async initPage() {
 			  await this.getHomeData()
 			} */
-			
+			showDrawer(){
+				this.drawerVisible = !this.drawerVisible;
+			},
 			closeDrawer() {
 				this.drawerVisible = false;
 			}
@@ -175,14 +186,25 @@
 	}
 </script>
 
-<style scoped>
-	page{
-		overflow: hidden;
-		height: 100%;
-	}
+<style lang="scss" scoped>
 	.container{
-		overflow: auto;
 		height: 100%;
+		overflow-x: hidden;
+		.body{
+			padding: 0 $page-row-spacing;
+		}
+	}	
+	.h-title{
+		text-align: center;
+		font-weight: bold;
+		font-size: $font-xl;
+	}
+	.h-title-l{
+		padding-left: 20upx;
+		.icon{
+			width: 30px;
+			height: 30px;
+		}
 	}
 	.uni-common-mt {
 		margin-top: 60upx;

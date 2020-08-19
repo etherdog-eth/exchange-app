@@ -7,7 +7,7 @@
 		<view class="ad">
 			<image mode="widthFix" src="../../static/img/ad.jpg"></image>
 		</view>
-		<view class="uni-h5 title uni-bold rank-title">涨幅榜</view>
+		<view class="uni-h4 title uni-bold rank-title">涨幅榜</view>
 		<view class="uni-divider"></view>
 		<marketList :list="marketList"></marketList>
 		<uni-drawer :visible="drawerVisible" mask="false" mode="left" @close="closeDrawer">
@@ -59,17 +59,17 @@
 			this.bannerList = [{
 					id: 1,
 					name: "1",
-					value: "https://oss999.oss-cn-hongkong.aliyuncs.com/upload/201903211634211654.jpg"
+					value: "https://zb-public.oss-accelerate.aliyuncs.com/dir/fc7e02ea-b398-4cdc-a0e8-054aec6a57eb.jpg"
 				},
 				{
 					id: 2,
 					name: "2",
-					value: "https://oss999.oss-cn-hongkong.aliyuncs.com/upload/2019031211003874293.jpg"
+					value: "https://zb-public.oss-accelerate.aliyuncs.com/dir/d2ae1ccc-5e9f-4883-b614-7b0deaa9c0de.jpg"
 				},
 				{
 					id: 3,
 					name: "3",
-					value: "https://oss999.oss-cn-hongkong.aliyuncs.com/upload/2019031815071397696.jpg"
+					value: "https://zb-public.oss-accelerate.aliyuncs.com/dir/a71739a0-9cb1-4cbb-8ff8-b600b7ff1978.png"
 				}
 			];
 			this.noticeList = ["国际站4月1日14:00开放MDC/USDT交易市场", "国际站4月2日10:00上线HKL", "关于国际站即将上线 GCCT（Global Cash Coin)"];
@@ -175,7 +175,15 @@
 	}
 </script>
 
-<style>
+<style scoped>
+	page{
+		overflow: hidden;
+		height: 100%;
+	}
+	.container{
+		overflow: auto;
+		height: 100%;
+	}
 	.uni-common-mt {
 		margin-top: 60upx;
 		position: relative;
@@ -192,7 +200,7 @@
 	}
 
 	.rank-title {
-		padding: 20px 20px;
+		padding: 20upx 20upx;
 	}
 	
 </style>

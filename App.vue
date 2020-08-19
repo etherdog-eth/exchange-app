@@ -32,9 +32,11 @@
 	html,
 	body {
 		overflow: hidden;
+		height: 100%;
 	}
 
 	.container {
+		height: 100%;
 		font-size: $font-base;
 		overflow: hidden;
 	}

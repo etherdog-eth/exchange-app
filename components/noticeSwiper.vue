@@ -1,7 +1,7 @@
 <template>
 	<view class="uni-swiper-msg notice">
 		<view class="uni-swiper-msg-icon">
-			<image src="../../static/icon/notice.png" mode="widthFix"></image>
+			<image src="../static/icon/notice.png" mode="widthFix"></image>
 		</view>
 		
 		<swiper vertical="true" autoplay="true" circular="true" interval="3000">

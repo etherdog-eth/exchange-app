@@ -19,7 +19,7 @@ export default {
 		
 	},
   onLoad(option) {
-	  this.url = 'hybrid/html/index.html?symbol='+option.symbol;
+	  this.url = '/hybrid/html/index.html?symbol='+option.symbol;
 	  uni.setNavigationBarTitle({
 			title: option.symbol
 		});

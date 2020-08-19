@@ -1,9 +1,9 @@
 <template>
 	<view class="rank">
 		<view class="item thead">
-			<view class="n uni-h7">名称</view>
-			<view class="p uni-h7">最新价</view>
-			<view class="t uni-h7">涨跌幅</view>
+			<view class="n uni-h5">名称</view>
+			<view class="p uni-h5">最新价</view>
+			<view class="t uni-h5">涨跌幅</view>
 		</view>
 		<view v-for="(item, index) in list_" :key="index" class="item uni-divider" @click="onClick(item)">
 			<view class="n">{{item.name}}</view>
@@ -45,14 +45,14 @@
 
 <style scoped>
 	.rank{
-		padding: 10px 0px;
+		padding: 0px 0px;
 	}
 	.rank .title{
-		padding: 10px 20px;
+		padding: 0upx 20upx;
 	}
 	.rank .item{
 		display: flex;
-		padding: 20px 20px;
+		padding: 30upx 30upx;
 	}
 	.rank .item .n{
 		width: 35%;
@@ -66,10 +66,10 @@
 	}
 	.rank .item .t .light{
 		display: block;
-		width: 150px;
 		color: #ffffff;
 		text-align: center;
 		float: right;
-		border-radius: 4upx;
+		border-radius: 6upx;
+		width: 160upx;
 	}
 </style>

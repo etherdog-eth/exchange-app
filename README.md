@@ -6,6 +6,8 @@
 ![Image text](doc/wechat_qrcode.jpg) 
 ![Image text](doc/qq_qrcode.jpg) 
 
+#### 相关小程序
+![Image text](doc/appbox.jpg) 
 
 #### 介绍
 数字货币交易所移动端UI
